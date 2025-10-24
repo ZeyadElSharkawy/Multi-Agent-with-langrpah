@@ -1,0 +1,41 @@
+User Journey Mapping: AI Workflow 
+Editor (Textual) 
+Persona: Ahmed, Workflow Manager at a large regional bank. 
+Scenario: Ahmed needs to create a new workflow that automatically categorizes high-value 
+transaction alerts and assigns them to the correct compliance officer. 
+Phase 1: Access and Discovery (Goal: Find the AI tool) 
+●​ Step: Ahmed logs into the NexaCore platform. 
+●​ Thought: I know the platform can do smarter things than just 'If/Then.' Where's the 
+intelligence? 
+●​ Emotion: Curiosity. 
+●​ Pain Point: The new AI blocks are named generically ('Classifier', 'Summerizer') and are 
+not clearly marked as AI features. 
+Phase 2: Workflow Creation (Goal: Integrate the AI 
+model) 
+●​ Step: Ahmed drags the 'Classifier' block onto the canvas. 
+●​ Thought: Which model does this use? Is it secure? I need to know it's using the regional 
+compliance model, not the general one. 
+●​ Emotion: Slight Hesitation. 
+●​ Pain Point: The model selection interface is hidden behind a secondary tab, and there is 
+no visible trust/compliance badge associated with the compliance model. 
+Phase 3: Configuration and Training (Goal: Set rules) 
+●​ Step: Ahmed tries to configure the 'Classifier' to recognize 'High-Risk Transfer' vs. 
+'Standard Transaction.' 
+●​ Thought: The training data input box is confusing. Can I paste a spreadsheet here, or do 
+I need to use the API? 
+●​ Emotion: Frustration. 
+●​ Pain Point: The UI is API-centric; it assumes the user knows how to structure the training 
+payload, not how to upload simple data for quick training. 
+Phase 4: Testing and Deployment (Goal: Launch the 
+workflow) 
+●​ Step: Ahmed runs the built-in diagnostic test. 
+●​ Thought: The test says "Success," but it only ran 10 entries. I need to run 1,000 entries 
+to feel safe. 
+
+●​ Emotion: Anxiety. 
+●​ Pain Point: The test environment is too simplistic; it doesn't allow testing against a 
+real-world data set (e.g., last 24 hours of live transaction logs). 
+Improvement Opportunity: 
+Integrate a "Trust and Transparency" badge directly onto AI blocks, linked to the model's 
+version and compliance certifications. Improve the Configuration UI to accept simple data 
+input methods (like CSV upload) for non-technical managers.

@@ -1,0 +1,32 @@
+Content Strategy and Production Guide 
+Document ID: MKT-CSP-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Marketing - Content 
+1. Content Mission 
+To establish NexaCore as the definitive Thought Leader in Enterprise AI Workflow 
+Automation, driving qualified traffic and nurturing leads through the entire funnel. 
+2. Content Pillars (Focus Areas) 
+1.​ Technical Deep Dives (Attraction): Focus on MLOps best practices, explainable AI, and 
+new transformer architectures. (Target: Engineers, Data Scientists) 
+2.​ Executive Strategy (Awareness): Focus on digital transformation, AI adoption 
+risks/rewards, and compliance trends. (Target: C-Suite, VP-level) 
+3.​ Customer Success (Conversion): Case studies, ROI calculators, and implementation 
+guides demonstrating quantifiable business impact. (Target: Line of Business, 
+Procurement) 
+3. SEO and Distribution Standards 
+●​ Keyword Strategy: All content must target high-intent, low-difficulty keywords relevant 
+to "AI workflow," "MLOps," and "predictive automation." 
+●​ External Links: Outbound links must be limited to high-authority, non-competitive 
+sources (e.g., academic papers, industry standards bodies). 
+●​ Content Freshness: All core product and strategic content must be reviewed and 
+updated annually. 
+4. Production Workflow 
+1.​ Ideation: Content team creates topics based on SEO research and Product Marketing 
+input. 
+2.​ Drafting: Content writer drafts the piece. 
+3.​ Technical Review: Mandatory review by a subject matter expert (Engineer/Data 
+Scientist) for technical accuracy. 
+4.​ Legal Review: Mandatory review for compliance, claims, and data accuracy (if 
+applicable). 
+5.​ Publishing: Scheduled distribution across Blog, Social Media, and Email Newsletter.

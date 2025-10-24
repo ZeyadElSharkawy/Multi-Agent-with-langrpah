@@ -1,0 +1,29 @@
+Thought Leadership and Executive 
+Speaking Policy 
+Document ID: MKT-TLP-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Marketing 
+1. Objective 
+To leverage the expertise of NexaCore's executives and technical staff to shape industry 
+discourse, drive brand authority, and generate high-quality inbound leads. 
+2. Content Focus and Approval 
+●​ Mandatory Focus: All external articles, conference talks, and published papers must 
+align with the Core Messaging Pillars (Trust First AI, Workflow Transformation, Scalable 
+Predictive Power). 
+●​ Review Process: 
+1.​ Topic Proposal: Submitted to the Head of Content and PMM team for alignment. 
+2.​ Draft Submission: Full draft (slides or text) submitted for review. 
+3.​ Final Approval: Mandatory approval from Legal/Compliance to ensure no 
+disclosure of IP, confidential data, or sensitive financial information. 
+●​ Non-Disclosure: Speaking engagements are strictly prohibited if they require disclosing 
+NexaCore source code, model weights, or specific client contracts without a prior 
+Non-Disclosure Agreement (NDA) authorized by Legal. 
+3. Conference and Event Sponsorship 
+Tier 1 events (e.g., KubeCon, industry-specific C-level summits) are prioritized. All 
+sponsorships must have a clear, measurable Lead Generation and Brand Awareness 
+objective documented beforehand. 
+4. Personal vs. Corporate Channels 
+When speaking at an event or publishing content, the speaker must clearly distinguish 
+between personal opinion and official company views. If using personal social media to 
+promote content, a disclaimer is required.

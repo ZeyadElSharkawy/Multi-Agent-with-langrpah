@@ -1,0 +1,80 @@
+AI Model Validation Report Template 
+(ML-VAL-001) 
+Model Name: [Model Version, e.g., NexaCore-TSM v1.2] 
+Feature: [e.g., Predictive AI Workflow Trigger (PAWT)] 
+Validation Date: [YYYY-MM-DD] 
+Data Scientist: [Data Scientist Name] 
+1. Validation Setup 
+Parameter 
+Value 
+Validation Dataset Size 
+[X, e.g., 5,000 real-world prediction 
+windows] 
+Validation Period 
+[e.g., Last 3 months of production data] 
+Primary Metric 
+[e.g., True Positive Rate (TPR)] 
+Secondary Metric 
+[e.g., Precision, F1 Score] 
+2. Core Metric Results 
+Metric 
+Threshold 
+Result 
+Status 
+Notes 
+True Positive 
+Rate (TPR) 
+ 
+[Result]% 
+[Pass/Fail] 
+Measures 
+success in 
+predicting an 
+actual spike. 
+False Positive 
+Rate (FPR) 
+ 
+[Result]% 
+[Pass/Fail] 
+Measures 
+successful 
+prediction of 
+spikes that did 
+not occur 
+(wasted 
+scaling). 
+Precision 
+ 
+[Result]% 
+[Pass/Fail] 
+High precision 
+is required to 
+
+avoid 
+unnecessary 
+system 
+triggers. 
+Inference 
+Latency () 
+ 
+[Result] 
+[Pass/Fail] 
+Required for 
+real-time 
+responsivenes
+s. 
+3. Data Drift and Bias Check 
+●​ Finding (Drift): Has the model's performance on the latest 30 days of data dropped 
+below the historical average? [Y/N] 
+○​ If Yes, quantify the drop: [e.g., drop in TPR due to new workflow type not present in 
+the training set.] 
+●​ Finding (Bias): Check for performance disparity across different client segments (e.g., 
+Region A vs. Region B). [Result] 
+○​ If disparity exists: [e.g., Prediction is less accurate for KSA clients due to low data 
+volume.] 
+4. Conclusion and Next Steps 
+Overall Validation Status: [Pass / Pass with Caveats / Fail] 
+Recommendation: [e.g., The model is stable and meets the PAWT Beta criteria. Proceed to 
+closed beta deployment. OR: The model failed the FPR threshold; R&D must refine the 
+features used for prediction and retrain.] 
+Next Retrain Date: [Mandatory next date, e.g., 2026-01-15]

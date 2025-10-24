@@ -1,0 +1,81 @@
+NexaCore Solutions Change 
+Management Policy (CMP) 
+Department: Operations (Governed by Change Advisory Board - CAB) 
+Version: 3.0 
+Date: 2025-10-01 
+1. Policy Overview 
+This policy defines the process for managing all changes to the NexaCore production 
+environment, infrastructure, and core business systems. The goal is to minimize risk, reduce 
+service disruptions, and ensure the integrity of our AI-driven automation platform. 
+2. Definitions 
+●​ Change: Any modification, addition, or removal of hardware, software, documentation, or 
+procedure that could affect IT services. 
+●​ Change Request (CR): The formal documentation of a proposed change. 
+●​ Change Advisory Board (CAB): A cross-functional group (Ops, R&D, Security, Product) 
+responsible for reviewing and approving high-risk changes. 
+●​ Change Freeze: A period where non-critical changes are suspended (e.g., during major 
+product launches or peak season). 
+3. Change Categories and Approval 
+All changes must be classified into one of three categories: 
+Category 
+Description 
+Approval 
+Required 
+Examples 
+Standard 
+Pre-authorized, 
+low-risk changes 
+with established 
+procedures. 
+Automated (Peer 
+Review) 
+Applying a 
+standard OS 
+security patch; 
+adding a new user 
+account. 
+Normal 
+Requires 
+assessment, 
+scheduling, and 
+formal approval. 
+CAB Review and 
+Approval 
+New feature 
+deployment; 
+upgrading a 
+database version; 
+modifying 
+load-balancer 
+
+rules. 
+Emergency 
+Required to resolve 
+a P0 or P1 incident 
+immediately. 
+IC Approval 
+(Post-change 
+review mandatory) 
+Immediate rollback 
+of a failed 
+deployment; 
+patching a 
+zero-day 
+vulnerability. 
+4. Normal Change Request Workflow (7 Steps) 
+1.​ Submission: Submitter creates a detailed CR, including: Scope, Business Justification, 
+Detailed Implementation Plan, Backout Plan, and Expected Impact. 
+2.​ Assessment: CR is evaluated for risk (Likelihood x Impact) by the Ops team. 
+3.​ CAB Review: The CR is presented at the weekly CAB meeting. The CAB either Approves, 
+Rejects, or Defers the change. 
+4.​ Scheduling: Approved changes are scheduled for the next appropriate Change 
+Window (Standard Window: Tuesday/Wednesday, 01:00 - 05:00 AST). 
+5.​ Implementation: Change is executed strictly following the Implementation Plan. 
+6.​ Verification: Post-implementation checks are executed to confirm service function and 
+stability. 
+7.​ Closure: CR is closed with documentation of success or failure. 
+5. Backout Planning 
+Every Normal and Emergency change MUST include a documented, tested Backout Plan. 
+The backout plan must restore service to the state immediately preceding the change. The 
+estimated time to execute the backout plan (MTTB) must be less than the expected MTTR for 
+the change's highest potential failure impact.

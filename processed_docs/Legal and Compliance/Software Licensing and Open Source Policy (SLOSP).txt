@@ -1,0 +1,80 @@
+Software Licensing and Open Source 
+Policy (SLOSP) 
+Document ID: LC-SLOSP-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Legal & R&D Engineering 
+1. Objective 
+To ensure that NexaCore's use of third-party software, especially Open Source Software 
+(OSS), complies with all applicable licenses, preventing intellectual property contamination 
+and legal exposure. 
+2. Approval Required for All Code Inclusion 
+No third-party code, whether proprietary or open source, shall be incorporated into 
+NexaCore’s production systems or proprietary AI models without explicit, documented 
+approval. 
+3. Open Source Classification and Requirements 
+Category 
+Examples 
+Requirement for 
+Use 
+Legal Risk 
+Assessment 
+Permissive 
+Licenses 
+MIT, Apache 2.0, 
+BSD 
+Approved for use. 
+Requires attribution 
+in documentation 
+(Legal must review 
+method). 
+Low. Minimal 
+conditions; no 
+requirement to 
+share NexaCore's 
+proprietary source 
+code. 
+Weak Copyleft 
+Licenses 
+LGPL 
+Approved for use in 
+non-core libraries, 
+provided dynamic 
+linking is used and 
+not static linking. 
+Medium. Requires 
+sharing 
+modifications to 
+the library itself, 
+but not the main 
+application code. 
+Strong Copyleft 
+Licenses 
+GPLv2, GPLv3, 
+AGPL 
+Strictly Prohibited 
+in all production 
+High. May require 
+NexaCore to 
+
+codebases (SaaS 
+or otherwise). 
+Exceptions must be 
+approved by the 
+CTO and Head of 
+Legal. 
+disclose and 
+open-source its 
+proprietary 
+application code 
+and AI models if 
+used incorrectly. 
+4. Compliance Process 
+1.​ Request: Engineer identifies necessary OSS component and submits a request to the 
+Component Approval Registry (CAR). 
+2.​ Scan: The SecOps team runs an automated Software Composition Analysis (SCA) scan 
+to verify the license and check for security vulnerabilities. 
+3.​ Review: Legal reviews the license type against the SLOSP matrix. 
+4.​ Approval: Approval is granted only for Permissive or Weak Copyleft licenses meeting all 
+security checks. 
+5.​ Audit: The CAR inventory must be updated monthly and audited quarterly.

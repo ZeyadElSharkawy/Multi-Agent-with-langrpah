@@ -1,0 +1,29 @@
+Support Email Template: Critical Incident 
+Communication 
+Template Name: CS-EMAIL-003 (P0/P1 Update) 
+Usage: To be sent by the CSM or Head of Support during a verified P0/P1 incident to multiple 
+affected clients. 
+Subject: CRITICAL INCIDENT UPDATE: [INCIDENT-ID] - Partial/Full Service Disruption 
+Dear NexaCore Client, 
+We are writing to provide a mandatory update on a confirmed critical incident affecting the 
+availability/performance of the NexaCore platform. 
+Incident Details 
+●​ Incident ID: [INCIDENT-ID, e.g., INC-2025-11-05-DB-SHARD] 
+●​ Status: [Active Investigation / Resolution in Progress / Monitoring Stability] 
+●​ Affected Service: [e.g., Core Workflow Engine, Data Ingestion Gateway, AI 
+Prediction Service] 
+●​ Impact: [State the impact clearly, e.g., New workflows cannot be created, existing 
+workflows are executing at normal speed.] 
+●​ Geographic Scope: [e.g., All MENA clients, or only the KSA Regional Cluster] 
+Actions Taken and Next Steps 
+Our SRE and R&D teams are fully engaged and working on this with the highest priority. 
+●​ Current Action: [e.g., Engineering is currently rolling back the latest microservice 
+deployment and isolating the affected database shard.] 
+●​ Estimated Next Update: We commit to sending the next status update by [Time, e.g., 
+14:00 GST]. 
+●​ Estimated Time to Resolution (ETR): [Provide a realistic estimate, e.g., 3-4 hours, or 
+Pending Diagnosis.] 
+We sincerely apologize for the disruption and appreciate your patience as we restore full 
+service. Your assigned Customer Success Manager will be in direct contact shortly. 
+Sincerely, 
+NexaCore Solutions Operations Team

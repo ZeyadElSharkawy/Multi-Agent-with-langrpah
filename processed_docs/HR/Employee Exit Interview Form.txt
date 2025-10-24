@@ -1,0 +1,49 @@
+Employee Exit Interview Form 
+Purpose: To gather honest feedback from departing employees to improve NexaCore's work 
+environment, management, and retention strategies. All answers will be treated with 
+confidentiality. 
+Interviewee: [Employee Name] 
+Job Title: [Job Title] 
+Department: [Department] 
+Date of Separation: [Date] 
+Interviewer (HR): [HR Name] 
+Date of Interview: [Date] 
+Section 1: Role and Responsibilities 
+1.​ Were your job description and responsibilities clearly defined and accurate? 
+○​ [ ] Yes [ ] No [ ] Partially 
+○​ Comments: [Interviewee Feedback] 
+2.​ Did you feel adequately challenged and utilized in your role? 
+○​ [Interviewee Feedback] 
+3.​ Did you feel you had the necessary tools, resources, and training (especially in AI/Tech) 
+to succeed? 
+○​ [Interviewee Feedback] 
+Section 2: Management and Team 
+4.​ How would you rate your relationship with your direct manager? 
+○​ [ ] Excellent [ ] Good [ ] Fair [ ] Poor 
+○​ Comments (Specific examples of support or deficiency): [Interviewee Feedback] 
+5.​ How would you describe the collaboration and morale within your immediate team? 
+○​ [Interviewee Feedback] 
+Section 3: Compensation and Benefits 
+6.​ How do you feel about your overall compensation (salary, bonus, equity) relative to your 
+role and the market? 
+○​ [Interviewee Feedback] 
+7.​ How would you rate the NexaCore benefits package (e.g., healthcare, annual leave)? 
+○​ [Interviewee Feedback] 
+Section 4: Culture and Environment 
+8.​ What did you like most about working at NexaCore Solutions? 
+○​ [Interviewee Feedback] 
+9.​ What did you like least about working at NexaCore Solutions? 
+
+○​ [Interviewee Feedback] 
+10.​Did you feel the company was committed to its mission of "Simplifying enterprise 
+operations with AI-powered automation"? 
+○​ [Interviewee Feedback] 
+Section 5: The Decision to Leave 
+11.​What was the primary reason for your decision to leave NexaCore Solutions? 
+○​ [ ] Career advancement [ ] Compensation/Benefits [ ] Relocation [ ] Dissatisfaction 
+with Management/Culture [ ] Found a role closer to core interests [ ] Other: 
+○​ Details: [Interviewee Feedback] 
+12.​Are there any changes NexaCore could have made to encourage you to stay? 
+○​ [Interviewee Feedback] 
+Interviewer Summary & Recommendations: 
+[HR Summary of key themes and actionable recommendations for management.]

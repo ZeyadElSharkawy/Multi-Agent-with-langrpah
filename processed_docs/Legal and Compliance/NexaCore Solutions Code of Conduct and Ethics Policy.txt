@@ -1,0 +1,41 @@
+NexaCore Solutions Code of Conduct 
+and Ethics Policy 
+Document ID: LC-COC-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Legal & Compliance 
+1. Introduction and Scope 
+This Code of Conduct (the "Code") establishes the ethical and legal standards required of 
+every director, officer, and employee (collectively, "Employees") of NexaCore Solutions 
+globally. Compliance with this Code and all applicable laws is mandatory and non-negotiable. 
+2. Integrity and Anti-Corruption 
+●​ Anti-Bribery and Corruption (ABC): Employees must strictly comply with all applicable 
+anti-bribery and anti-corruption laws, including the US Foreign Corrupt Practices Act 
+(FCPA) and local anti-corruption laws in the UAE, KSA, and Egypt. 
+●​ Gifts and Hospitality: Employees may not offer, give, or accept gifts, entertainment, or 
+hospitality that could improperly influence a business decision or create the appearance 
+of a conflict of interest. Gifts to public officials are strictly prohibited unless pre-approved 
+by the Compliance Officer. 
+○​ De minimis limit for gifts: [USD $100] value per transaction. 
+●​ Facilitation Payments: So-called "facilitation payments" (small payments to secure or 
+expedite routine governmental actions) are strictly prohibited. 
+3. Confidentiality and Data Protection 
+●​ Confidential Information: All non-public information related to NexaCore’s business, 
+including financial data, client lists, source code, and AI model parameters, is 
+confidential. This information must be protected indefinitely, even after employment 
+separation. 
+●​ Data Privacy: All handling of customer and employee personal data must adhere to the 
+Global Data Privacy Policy, including processing only the minimum data necessary for 
+legitimate business purposes. 
+4. Conflict of Interest 
+A Conflict of Interest (CoI) arises when an Employee's private interest interferes, or appears to 
+interfere, with the interests of NexaCore. 
+●​ All potential Conflicts of Interest, including outside employment or significant financial 
+interests in a competitor, vendor, or client, must be immediately disclosed using the 
+
+Conflict of Interest Disclosure Form. 
+5. Reporting Violations 
+Employees who have knowledge of or suspect a violation of this Code or any law must report 
+it promptly via the internal Whistleblower Hotline or to the Compliance Officer. Retaliation 
+against any employee who reports concerns in good faith is strictly prohibited and subject to 
+severe disciplinary action.

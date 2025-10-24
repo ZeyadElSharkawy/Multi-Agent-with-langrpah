@@ -1,0 +1,39 @@
+Discovery Call Framework (The 
+'Automation Audit') 
+Document ID: SAL-DCF-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Sales Enablement 
+Call Objective: Challenge the Status Quo and Quantify 
+the Problem 
+Phase 1: Context & Upfront Contract (5 min) 
+●​ Goal: Set the agenda, secure permission to ask tough questions, and confirm the time 
+limit. 
+●​ Script Opener: "Thank you for the time. By the end of this 30 minutes, we aim to confirm 
+if your [Problem Area] is critical enough for an automation solution. I'll ask about 
+budgets, current risks, and who else needs to weigh in. Does that sound fair?" 
+Phase 2: Pain & Process Deep Dive (15 min) 
+●​ Challenge Questioning (The "Teach"): "We've noticed that companies in the [Client 
+Industry] typically spend X hours a week manually reconciling data, which exposes them 
+to Y compliance fines. Is this true for you, or is your process unique?" 
+●​ Quantification (The "Need"): 
+○​ Scale: "How many data points/transactions run through this workflow daily?" 
+○​ Cost: "What is the fully burdened cost of the team that handles this data? What is the 
+cost of a single error or mistake?" 
+○​ Risk: "What is the non-financial risk if this process fails next quarter?" 
+Phase 3: Budget, Authority, and Timeline (10 min) 
+●​ Budget (The "Anchor"): "Given the risk you described, if we could guarantee a 20% 
+efficiency improvement within 6 months, how much capital would you be prepared to 
+allocate to solve this problem?" 
+●​ Authority (The "Map"): "If you decided to move forward, what would the internal 
+process look like? Who needs to sign off on the financial and technical commitment?" 
+●​ Next Step Commitment (The "Control"): "Based on what we’ve discussed, the logical 
+next step is a tailored 45-minute demo showing the precise workflow automation. Are you 
+prepared to involve your Head of Data Science and Procurement team for that next 
+meeting?" 
+Success Criteria 
+
+●​ AE has successfully gathered enough information to complete the Nexa-BANT 
+Checklist. 
+●​ AE has secured a firm next-step meeting with a verified Decision Maker. 
+●​ Client has verbally acknowledged the financial pain of the status quo.

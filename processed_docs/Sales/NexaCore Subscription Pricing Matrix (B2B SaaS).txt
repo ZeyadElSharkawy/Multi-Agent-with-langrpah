@@ -1,0 +1,101 @@
+NexaCore Subscription Pricing Matrix 
+(B2B SaaS) 
+Document ID: SAL-PRI-2025.01 
+Version: 2.1 (Q4 2025 Update) 
+Effective Date: 2025-10-01 
+Department: Sales, Finance, Product 
+1. Base Subscription Tiers (Annual Commit) 
+Feature 
+Growth Tier 
+Professional Tier 
+Enterprise Tier 
+Target Company 
+Size 
+Mid-Market ( $< 
+500M Rev) 
+Large Enterprise ( 
+$> 500M Rev) 
+Global / Strategic 
+Accounts 
+Base Price 
+(Annual) 
+AED 450,000 
+AED 1,200,000 
+Custom Quote 
+(T3+) 
+Named Users 
+Included 
+10 
+50 
+100 
+Workflows/Model
+s 
+3 Core Workflows 
+Unlimited Core 
+Workflows 
+Unlimited 
+Dedicated 
+Compute 
+Shared Resources 
+Dedicated Cluster 
+(Low Priority) 
+Dedicated 
+High-Priority 
+Cluster 
+SLA Uptime 
+99.5% 
+99.9% 
+99.99% 
+Customization 
+Limited 
+UI/Dashboard 
+Advanced API & 
+Webhook access 
+Full Source API 
+Access & 
+White-label 
+2. Add-On Modules (Required for Enterprise Tier) 
+●​ Compliance & Audit Log Module: Adds advanced immutable logging for regulated 
+industries. 
+○​ Cost: 15% of Base Annual Fee. 
+●​ Predictive Maintenance Module (PMM): Specialized models for industrial IoT data 
+streams. 
+
+○​ Cost: 20% of Base Annual Fee. 
+●​ Dedicated Solution Architect (DSA): Full-time technical resource allocation. 
+○​ Cost: AED 800,000 per year. 
+3. Discount Policy 
+Discount Type 
+Max Discount 
+Limit 
+Approval 
+Required 
+Notes 
+Multi-Year 
+Commitment (3 
+Yrs) 
+10% 
+Sales Director 
+Mandatory for all 
+Enterprise Tier 
+deals. 
+New Customer 
+Acquisition 
+5% 
+Sales Director 
+First 12 months 
+only. 
+Strategic Partner 
+Referral 
+15% 
+VP of Sales 
+Requires signed 
+Partnership 
+Agreement. 
+Exceeding Max 
+Discount: 
+0% 
+C-Level Executive 
+(CEO/CFO) 
+Use Deal Review & 
+Approval Form.

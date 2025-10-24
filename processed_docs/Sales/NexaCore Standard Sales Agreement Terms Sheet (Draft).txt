@@ -1,0 +1,48 @@
+NexaCore Standard Sales Agreement 
+Terms Sheet (Draft) 
+Document ID: SAL-CON-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Sales, Legal 
+CLIENT NAME: [Client Company Full Legal Name] 
+CLIENT CONTACT: [Name], [Title], [Email] 
+NEXACORE AE: [AE Name] 
+1. Agreement Overview 
+This Terms Sheet outlines the commercial and legal framework for the subscription and use of 
+NexaCore Solutions' proprietary AI software platform ("the Service"). This document is 
+preliminary and subject to the signing of the full Master Service Agreement (MSA). 
+2. Commercial Terms 
+Term 
+Detail 
+Contract Start Date 
+[Date] 
+Initial Term 
+[12 / 24 / 36] Months 
+Subscription Tier 
+[Tier Name, e.g., Enterprise Level 3] 
+Annual License Fee 
+[AED/USD Amount] 
+Payment Schedule 
+Annual Upfront / Quarterly / Monthly 
+Renewal Clause 
+Automatic renewal for [12] months unless 
+notice is provided [90] days prior to expiry. 
+Currency 
+[AED / USD] 
+3. Subscription & Usage Limits 
+●​ Licensed Users: [X] Named Users. 
+●​ API Call Volume: [X] million calls per month. 
+●​ Data Throughput Limit: [X] TB of data processed monthly. Excess usage will be billed at 
+
+a rate of [Rate] per 100GB. 
+4. Key Legal Provisions 
+●​ Governing Law & Jurisdiction: This agreement shall be governed by and construed in 
+accordance with the laws of the Dubai International Financial Centre (DIFC). 
+●​ Data Ownership: Client retains all ownership rights to their proprietary data. NexaCore 
+retains ownership of all underlying AI models, algorithms, and software IP. 
+●​ Confidentiality: Both parties agree to protect each other’s confidential information for 
+the term of the agreement and for [5] years thereafter. 
+●​ Indemnification: NexaCore indemnifies the Client against third-party claims alleging 
+that the Service infringes upon any third-party intellectual property rights. 
+Prepared By: [AE Name] 
+Date: [Date]

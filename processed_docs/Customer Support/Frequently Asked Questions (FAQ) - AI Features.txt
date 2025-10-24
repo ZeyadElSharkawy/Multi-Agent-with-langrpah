@@ -1,0 +1,32 @@
+Frequently Asked Questions (FAQ) - AI 
+Features 
+Applicable Product: All AI-Enhanced NexaCore Modules (PAWT, Summarization, Classification) 
+Audience: Enterprise Users 
+Date: 2025-11-01 
+1. Data Security and Privacy 
+Q: Is my data used to train the global NexaCore AI models? 
+A: No. Your client data is only used to fine-tune your specific private instance of our model 
+(tenant-level isolation). Data is securely encrypted and stored according to our strict regional 
+data residency policies. We do not use client data to train general, public models. 
+Q: Where is my data physically stored? 
+A: If you are an Enterprise client in the MENA region, your data is stored on regional servers 
+located in the UAE/KSA, as required by your service agreement. This is guaranteed by our data 
+residency compliance policy. 
+2. AI Model Performance 
+Q: My AI model is giving inaccurate predictions. What should I do? 
+A: This is usually due to Data Drift. The model was trained on historical data, but your 
+operational patterns have changed (e.g., a major seasonal shift in volume). 
+1.​ Check the Model Health Dashboard for a "Low Confidence" warning. 
+2.​ If confirmed, submit a P2 ticket with the model ID and request a Re-Training with the 
+latest 6 months of your data. 
+Q: How often is the model retrained? 
+A: By default, all enterprise models are set for an automated quarterly re-training cycle. 
+However, you can request an ad-hoc re-train if you notice sustained performance 
+degradation. 
+3. Billing and Usage 
+Q: Why did my bill increase after activating the Predictive AI 
+Workflow Trigger (PAWT)? 
+A: The PAWT feature is part of our Premium Subscription Tier. Billing is based on the number 
+of inference calls the model makes per month, not the number of successful workflow 
+
+triggers. You can monitor your current call volume in the Billing Portal dashboard.

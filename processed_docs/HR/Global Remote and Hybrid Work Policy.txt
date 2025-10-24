@@ -1,0 +1,43 @@
+Global Remote and Hybrid Work Policy 
+Document ID: HR-RWP-2025.01 
+Version: 1.0 
+Effective Date: 2025-08-01 
+Department: Human Resources & Operations 
+1. Introduction 
+NexaCore Solutions supports flexible work arrangements to promote productivity, work-life 
+balance, and talent retention. This policy outlines the conditions for hybrid and fully remote 
+work. 
+2. Definitions and Eligibility 
+●​ Hybrid Work: Employees based in the Dubai HQ who split their time between the office 
+and a designated home location. The minimum in-office attendance is 2 days per 
+week. 
+●​ Fully Remote Work: Employees who work primarily from an approved location outside 
+the HQ, typically in other MENA regional offices or jurisdictions. Fully remote status 
+requires explicit approval from the Department Head and HR. 
+●​ Eligibility: Determined by role suitability (e.g., roles requiring specialized on-site 
+hardware or constant in-person client interaction may not be eligible). Employees must 
+be in good standing (no active performance or disciplinary issues). 
+3. Expectations for Remote/Hybrid Employees 
+3.1. Availability and Communication 
+Remote employees must be available during core business hours: [10:00 AM to 4:00 PM] 
+GST. Communication must be prompt, professional, and conducted via approved channels 
+(Slack, Email, Google Meet). Managers must establish clear, frequent check-in schedules. 
+3.2. Workspace and IT Security 
+●​ Ergonomics: Employees are responsible for maintaining a safe, ergonomic workspace at 
+home. 
+●​ Security: All company data must be accessed only via company-issued hardware and 
+the mandatory VPN connection. Confidential documents must not be printed or left 
+unsecured (refer to the IT Security Policy). 
+3.3. Performance Management 
+Performance standards are the same for all employees, regardless of location. Output, quality, 
+and adherence to deadlines are the primary measures. Managers will use digital metrics (e.g., 
+
+project completion in Jira, ticket resolution time) for objective assessment. 
+4. Termination of Arrangement 
+The remote/hybrid work arrangement is a privilege, not a right, and can be reviewed or 
+terminated at any time by NexaCore management based on: 
+●​ Decline in performance. 
+●​ Violation of security or company policies. 
+●​ Changing business requirements that necessitate on-site presence. 
+Acknowledgment of Policy: 
+Employee Signature: _________________________ Date: [Date]

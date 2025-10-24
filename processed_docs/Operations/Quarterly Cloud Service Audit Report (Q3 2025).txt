@@ -1,0 +1,126 @@
+Quarterly Cloud Service Audit Report 
+(Q3 2025) 
+Department: Operations (FinOps & SRE) 
+Audit Period: July 1, 2025 - September 30, 2025 
+Cloud Provider: AWS (Primary) 
+Auditor: [SRE Specialist 2] 
+1. Executive Summary 
+This audit reviewed adherence to the Cloud Infrastructure Guidelines across Security, Cost, 
+and Operational Efficiency. Overall compliance is , with high marks in security tagging, but 
+deficiencies noted in data lifecycle management for older backups. 
+2. Security and Compliance Findings 
+Area 
+Status (Pass/Fail) 
+Finding / Risk 
+Level 
+Recommendation 
+Security Group 
+Review 
+Pass 
+All production 
+security groups 
+adhere to the 
+principle of least 
+privilege. 
+None. 
+Data Residency 
+Pass 
+All client 
+production data is 
+stored in the 
+designated MENA 
+region (Bahrain). 
+None. 
+Unused Access 
+Keys 
+Fail 
+5 IAM user access 
+keys found to be 
+older than 90 days 
+without use. 
+Immediately rotate 
+or delete the 5 
+identified keys 
+(Critical Action). 
+Root Account MFA 
+Pass 
+Multi-Factor 
+Authentication 
+(MFA) enabled on 
+all root accounts. 
+None. 
+
+3. Operational Efficiency & Reliability 
+Area 
+Status (Pass/Fail) 
+Finding / Risk 
+Level 
+Recommendation 
+CI/CD Pipeline 
+Integrity 
+Pass 
+Deployment 
+pipelines are fully 
+automated; Change 
+Failure Rate is . 
+None. 
+Automated 
+Backup Status 
+Fail 
+12 older ( year) 
+immutable backups 
+of decommissioned 
+data stores were 
+not moved to deep 
+cold storage. 
+Implement a 
+lifecycle rule to 
+automatically 
+transition 
+1-year-old 
+immutable backups 
+to Glacier Deep 
+Archive (Cost 
+Saving Action). 
+Alerting Coverage 
+Pass 
+Monitoring 
+coverage exceeds 
+the SLO metric 
+requirement. 
+None. 
+4. Cost Optimization Review 
+●​ Underutilized Reserved Instances (RIs): [2] RIs were identified as being tied to 
+non-existent or downsized instances, leading to wasted spend. 
+○​ Action: Modify or sell the RIs immediately to realize $[Amount] in savings. 
+●​ Networking Traffic: High cross-region data transfer costs identified in the data 
+replication process (avg. $[Amount]/mo). 
+○​ Action: Investigate refactoring the data replication strategy to minimize unnecessary 
+transfers. 
+5. Audit Action Plan 
+Action Item 
+Risk Level 
+Owner 
+Due Date 
+Rotate/Delete 5 
+Critical 
+[Security Officer] 
+2025-10-15 
+
+unused IAM Access 
+Keys. 
+Implement S3 
+Lifecycle policy for 
+cold storage 
+migration of old 
+backups. 
+Moderate 
+[SRE Team] 
+2025-11-01 
+Modify or sell the 
+two underutilized 
+Reserved 
+Instances. 
+Cost 
+[FinOps Specialist] 
+2025-10-31

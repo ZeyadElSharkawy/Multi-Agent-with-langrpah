@@ -1,0 +1,156 @@
+New Employee Onboarding Checklist 
+Employee Name: [Employee Name] 
+Job Title: [Job Title] 
+Start Date: [Date] 
+Department: [Department] 
+Phase 1: Pre-Boarding (Completed by HR & IT before 
+Day 1) 
+Task 
+Responsible Party 
+Status (Check) 
+Notes 
+Contract & 
+Documentation 
+HR 
+[ ] 
+Signed offer letter, 
+background check 
+complete. 
+System Access 
+Provisioning 
+IT 
+[ ] 
+Account creation: 
+Email, VPN, HRIS, 
+CRM/Jira. 
+Workstation 
+Setup 
+IT 
+[ ] 
+Laptop/desktop 
+ordered, 
+configured, and 
+ready at desk (or 
+shipped for 
+remote). 
+Security Training 
+Access 
+IT/HR 
+[ ] 
+Enrollment in 
+mandatory IT 
+Security Policy 
+course. 
+Office Access 
+Ops 
+[ ] 
+Employee 
+badge/access code 
+issued for Dubai 
+HQ. 
+Welcome Kit 
+Preparation 
+HR 
+[ ] 
+Desk setup, 
+stationery, and 
+NexaCore Swag 
+prepared. 
+
+Phase 2: Day 1 (Completed by Manager & HR) 
+Task 
+Responsible Party 
+Status (Check) 
+Notes 
+Welcome & HR 
+Introduction 
+HR 
+[ ] 
+Review of 
+Employee 
+Handbook, Code of 
+Conduct, and 
+benefits. 
+IT Handover 
+IT 
+[ ] 
+Credentials shared, 
+system login 
+verified, security 
+policies reviewed. 
+Team & Office 
+Tour 
+Manager 
+[ ] 
+Formal 
+introductions to 
+immediate team 
+and key 
+cross-functional 
+partners. 
+Role & Objective 
+Review 
+Manager 
+[ ] 
+Detailed review of 
+JD, 30-60-90 day 
+goals, and first 
+task. 
+Time & Leave 
+System Demo 
+HR 
+[ ] 
+Training on 
+submitting time-off 
+requests via [HRIS 
+System]. 
+Phase 3: Week 1 & Month 1 (Completed by Employee & 
+Manager) 
+Task 
+Responsible Party 
+Status (Check) 
+Notes 
+1:1 Schedule 
+Established 
+Manager 
+[ ] 
+Recurring weekly 
+meeting set with 
+
+manager. 
+Deep Dive: 
+NexaCore 
+Platform 
+Employee 
+[ ] 
+Complete the 
+mandatory product 
+deep-dive training 
+modules. 
+Meeting with 
+Cross-Functional 
+Leads 
+Manager 
+[ ] 
+Meet with 
+[Sales/Product/Engi
+neering] leads. 
+Expense & Travel 
+Policy Review 
+Employee 
+[ ] 
+Review Finance T&E 
+policy and submit 
+necessary bank 
+details. 
+Performance 
+Check-in 
+(30-Day) 
+Manager 
+[ ] 
+Formal review of 
+progress against 
+initial goals. 
+Sign-Off: 
+Manager Signature: _________________________ Date: [Date] 
+Employee Signature: _________________________ Date: [Date]

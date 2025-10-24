@@ -1,0 +1,91 @@
+Master Services Agreement (MSA) 
+Template - Key Clauses 
+Document ID: LC-MSA-2025.01 
+Version: 1.0 
+Department: Legal - Contracts 
+1. Purpose 
+This summary outlines the non-negotiable and standard clauses in NexaCore's Master 
+Services Agreement (MSA) for enterprise clients utilizing the AI Workflow Suite. 
+2. Essential Contractual Clauses 
+Clause Title 
+Key 
+Requirement/Standard 
+Position 
+Negotiability 
+Term and Termination 
+Standard 3-year initial term 
+with automatic 1-year 
+renewal (unless 90-day 
+notice is given). 
+Termination requires 
+material breach and 
+30-day cure period. 
+Limited; Term length is 
+flexible (1-5 years). 
+Payment Terms 
+Annual Recurring Revenue 
+(ARR) paid upfront, Net 30 
+days from invoice date. 
+Usage-based fees billed 
+monthly in arrears. 
+Credit terms (Net 45/60) 
+negotiable with Finance 
+approval. 
+Limitation of Liability 
+(LoL) 
+NexaCore's liability for all 
+claims shall not exceed the 
+greater of the total fees 
+paid in the preceding 12 
+months or [USD 
+$1,000,000]. Excludes 
+liability for IP infringement 
+or gross negligence. 
+Low; LoL cap is a critical 
+risk mitigation tool. 
+Indemnification 
+Mutual indemnification (IP 
+Standard; Must protect 
+
+infringement, bodily 
+injury/property damage). 
+Client must indemnify 
+NexaCore for unauthorized 
+use of the SaaS platform. 
+NexaCore's platform IP. 
+Data Protection and 
+Security 
+Client Data will be handled 
+per the Global Data 
+Privacy Policy. Client 
+remains the Data 
+Controller; NexaCore is the 
+Data Processor. Specific 
+regional clauses (e.g., KSA) 
+are added via Addendum. 
+Strict; Security exhibits are 
+non-negotiable. 
+Governing Law and 
+Jurisdiction 
+Governing Law: The laws 
+of the Dubai International 
+Financial Centre (DIFC). 
+Jurisdiction: DIFC Courts 
+or Arbitration Centre. 
+Low; Standard for 
+contracts originating from 
+UAE HQ. 
+Warranties and SLA 
+NexaCore warrants the 
+platform will perform 
+materially in accordance 
+with the documentation. 
+Service Level Agreement 
+(SLA) with minimum uptime 
+guaranteed (standard 
+99.9%). 
+SLA terms are sometimes 
+negotiable based on 
+premium tier. 
+Note: All deviations from these key requirements must be approved by the Head of Legal 
+before execution.

@@ -1,0 +1,60 @@
+Beta Testing Guidelines - Enterprise 
+Feature Pilot (PAWT) 
+Feature: Predictive AI Workflow Trigger (PAWT) 
+Phase: Closed Beta (10 Selected Enterprise Clients) 
+Duration: 8 Weeks (2025-12-01 to 2026-01-31) 
+Prepared By: Product Team 
+1. Beta Objectives 
+The primary objective of the PAWT beta is to validate the feature's core functionality, security, 
+and performance under real-world, high-volume enterprise load, specifically in the MENA 
+region. 
+1.1 Success Criteria 
+●​ Functionality: of beta testers confirm the PAWT successfully triggered the target 
+workflow as intended. 
+●​ Accuracy: The NexaCore-TSM v1.2 model must achieve a prediction accuracy (True 
+Positive Rate) of when tested against actual demand spikes. 
+●​ Stability: Zero P0 or P1 incidents caused by the PAWT microservice during the 8-week 
+period. 
+2. Participant Responsibilities 
+Role 
+Key Responsibility 
+Expected Weekly 
+Commitment 
+Beta Client (IT Director) 
+Provide access to 
+necessary telemetry data 
+and monitor regional 
+traffic. 
+1-hour feedback call 
+bi-weekly. 
+NexaCore Product 
+Manager 
+Overall management, 
+weekly check-ins, 
+prioritization of 
+feedback/bugs. 
+10 hours of active 
+management. 
+NexaCore R&D/SRE 
+Monitoring performance, 
+deploying hotfixes, and 
+model calibration. 
+24/7 PagerDuty coverage 
+for PAWT. 
+
+3. Feedback and Bug Reporting 
+●​ Feedback Channel: Dedicated Slack channel: #beta-pawt-pilot for immediate, 
+low-priority feedback. 
+●​ Bug Reporting: All bugs MUST be submitted via the internal [Product Feedback 
+Submission Form] (PF-001) and categorized as "Beta Bug". 
+●​ Severity Triage (Beta-Specific): 
+○​ Blk (Blocker): Prevents core workflow creation or triggers. Fix Target: 24 hours. 
+○​ Maj (Major): Causes minor failures or inaccurate predictions. Fix Target: 5 working 
+days. 
+○​ Min (Minor): UI/UX issues or documentation errors. Fix Target: Prioritized for GA. 
+4. Exit Strategy 
+1.​ Successful completion of the 8-week period and validation of all success criteria (1.1). 
+2.​ All P0/P1 blockers resolved. 
+3.​ The Product Team conducts a final exit interview with all 10 participants. 
+4.​ Data gathered is used to create the final Go/No-Go Decision Document for General 
+Availability (GA) launch.

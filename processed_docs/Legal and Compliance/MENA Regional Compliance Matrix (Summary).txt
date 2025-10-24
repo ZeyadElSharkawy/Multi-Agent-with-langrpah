@@ -1,0 +1,107 @@
+MENA Regional Compliance Matrix 
+(Summary) 
+Document ID: LC-RCM-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Legal & Compliance 
+1. Purpose 
+This matrix summarizes key regulatory requirements in core operating jurisdictions, 
+highlighting potential areas of conflict or heightened compliance risk for NexaCore's AI SaaS 
+business model. 
+2. Key Regulatory Considerations 
+Jurisdiction 
+Key Regulatory 
+Area 
+Requirement/Imp
+act on NexaCore 
+Mitigating 
+Action/Responsibl
+e Dept. 
+United Arab 
+Emirates (UAE) 
+Data Privacy Law 
+(PDPL) 
+General PD transfer 
+permitted with 
+safeguards; strong 
+consumer rights. 
+Standard DPA and 
+adherence to 
+Global Data Privacy 
+Policy. (Legal/IT) 
+ 
+Commercial Law 
+Operating entity 
+must comply with 
+onshore/free zone 
+regulations. 
+Maintain 
+DIFC/DMCC 
+licensing and 
+reporting structure. 
+(Legal/Finance) 
+Kingdom of Saudi 
+Arabia (KSA) 
+Data Localization 
+(SAMA/CST) 
+Financial/sensitive 
+government data 
+often must reside 
+within KSA borders. 
+Establish 
+KSA-specific cloud 
+tenancy/regional 
+PoP (Point of 
+Presence). 
+(IT/Product) 
+ 
+Foreign Investment 
+Strict rules on 
+foreign ownership 
+and local 
+Operate via a 
+registered local 
+partner/free zone 
+
+partnership for 
+certain sectors. 
+entity optimized for 
+KSA. (Legal/Ops) 
+Egypt 
+Cross-Border Data 
+Transfer 
+Requires specific 
+governmental 
+approvals for 
+transferring PD out 
+of Egypt (if 
+designated as 
+sensitive). 
+Implement explicit 
+client consent 
+mechanisms and 
+continuous 
+regulatory 
+monitoring. 
+(Legal/Product) 
+ 
+Telecommunication
+s/IT Law 
+Regulations may 
+impact the 
+deployment and 
+operation of 
+advanced AI tools. 
+Ongoing 
+consultation with 
+local counsel 
+regarding the AI 
+Workflow Suite. 
+(Legal/R&D) 
+3. Compliance Action Items (Next 6 Months) 
+1.​ KSA PoP: IT to confirm technical viability and financial feasibility of a physical 
+Point-of-Presence in KSA by Q2 2026. 
+2.​ Contract Localization: Legal to create jurisdiction-specific contract addenda for all new 
+KSA and Egypt enterprise contracts. 
+3.​ Training: Roll out mandatory training for Sales and Legal teams on regional data 
+handling requirements.

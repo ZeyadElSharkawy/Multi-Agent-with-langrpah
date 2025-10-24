@@ -1,0 +1,59 @@
+Sales Team Internal Communication 
+Guidelines 
+Document ID: SAL-ICG-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Sales Operations 
+1. Objective 
+To streamline communication between Sales, Solution Engineering (SE), and Product teams, 
+ensuring rapid access to technical expertise and minimizing internal friction. 
+2. Communication Channels and Purpose 
+Channel 
+Purpose 
+Response SLA (Sales 
+Director) 
+CRM Notes 
+Official Record. All client 
+interactions, pain points, 
+and decisions. 
+N/A (Mandatory logging 
+before end of day). 
+Slack Channel: 
+#sales-help-desk 
+Quick, low-priority product 
+or pricing questions. 
+Non-urgent SE support. 
+2 hours during business 
+hours. 
+Slack Channel: 
+#win-reports 
+Celebrating closed deals 
+and team morale. (Closed 
+Won only). 
+N/A 
+Email 
+Formal communication for 
+Legal/HR, Deal Review 
+Form submission, or 
+high-level client 
+correspondence. 
+4 hours. 
+Technical Sales Support 
+Form 
+Mandatory for all 
+client-facing SE/technical 
+engagement requests. 
+24 hours for SE 
+assignment. 
+
+3. Communication Protocol (SE Engagement) 
+●​ Do Not: Ping an SE directly on Slack for client-facing support without first submitting the 
+Technical Sales Support Form. 
+●​ Do: Provide full context (CRM Link, Client Name, specific question) when asking for help 
+on any channel. 
+●​ Never: Commit the SE team to a timeline or a custom solution with a client until the SE 
+has formally reviewed and signed off on the Technical Sales Support Form. 
+4. Weekly Forecast Call Standards 
+●​ AEs must be prepared to discuss all Stage 4+ (Negotiation) deals. 
+●​ Discussion must focus on the Next Step and Risk Factors, not just the close date. 
+●​ All forecast updates must be logged in the CRM before the start of the call.

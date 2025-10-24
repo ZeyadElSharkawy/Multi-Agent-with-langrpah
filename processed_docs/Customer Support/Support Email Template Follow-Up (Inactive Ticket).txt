@@ -1,0 +1,27 @@
+Support Email Template: Follow-Up 
+(Inactive Ticket) 
+Template Name: CS-EMAIL-002 (Awaiting Client Response) 
+Usage: To be sent when an L1/L2 agent is blocked, requiring input or action from the client to 
+proceed. 
+Subject: Follow-up Required: NexaCore Ticket #[TICKET_ID] - [Brief Summary of Issue] 
+Dear [Client Name], 
+I hope this email finds you well. 
+I am writing regarding your active ticket, #[TICKET_ID], where we are currently investigating 
+[State the general problem area, e.g., the failure of your custom Python module to 
+execute]. 
+To proceed with our diagnostic steps, we urgently require the following information from your 
+end: 
+●​ Required Action 1: [e.g., The raw JSON payload of the last successful workflow 
+execution.] 
+●​ Required Action 2: [e.g., A screenshot of the exact error message displayed in the 
+browser console.] 
+●​ Required Action 3: [e.g., Confirmation that your corporate firewall allows outbound 
+traffic to our required IP range.] 
+Please note: If we do not receive a response from you within 48 hours (2 business days), this 
+ticket will be automatically moved to a "Pending Closure" status. We will gladly re-open the 
+ticket if you provide the requested details later. 
+Thank you for your cooperation. 
+Best regards, 
+[Agent Name] 
+[Agent Title] 
+NexaCore Solutions

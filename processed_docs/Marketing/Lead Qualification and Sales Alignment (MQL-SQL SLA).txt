@@ -1,0 +1,83 @@
+Lead Qualification and Sales Alignment 
+(MQL/SQL SLA) 
+Document ID: MKT-SLA-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Marketing, Sales 
+1. Objective 
+To define the Service Level Agreement (SLA) between Marketing and Sales to ensure 
+high-quality lead generation, rapid response, and optimized conversion rates. 
+2. Lead Definitions 
+Term 
+Definition 
+Marketing Responsibility 
+MQL (Marketing 
+Qualified Lead) 
+A lead showing both Intent 
+(downloaded a Gated Tier 1 
+asset, attended a webinar) 
+and Fit (meets basic BANT 
+criteria: Budget, Authority, 
+Need, Timeline). 
+Nurture until qualification 
+score is met; pass to Sales 
+Development Rep (SDR). 
+SQL (Sales Qualified 
+Lead) 
+An MQL that has been 
+actively qualified by the 
+SDR/AE, has a verified use 
+case, and is ready for a 
+product demonstration or 
+discovery call. 
+Support with necessary 
+collateral and market data. 
+PQL (Product Qualified 
+Lead) 
+A user from a known 
+organization who actively 
+uses a free tier/pilot and 
+triggers key usage 
+milestones (e.g., integrates 
+API, runs first model). 
+Immediate high-priority 
+handoff to SDR. 
+3. Marketing-Sales SLA 
+
+Action 
+Responsible Team 
+Target Timeframe 
+Penalty for 
+Missed SLA 
+MQL Handoff 
+Marketing 
+Real-time (within 1 
+hour of MQL 
+status). 
+MQL is re-assigned 
+to the nurturing 
+queue. 
+SQL 
+Acceptance/Rejec
+tion 
+Sales 
+SDR must follow up 
+and update status 
+within 4 hours 
+during business 
+days. 
+Marketing reserves 
+the right to 
+re-qualify the lead. 
+Feedback Loop 
+Sales 
+Sales must provide 
+structured 
+feedback on MQL 
+quality weekly to 
+the Marketing 
+Lead. 
+Lack of feedback 
+pauses MQL flow 
+prioritization to the 
+Sales team.

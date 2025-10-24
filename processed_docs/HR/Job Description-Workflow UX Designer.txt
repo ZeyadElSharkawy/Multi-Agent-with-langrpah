@@ -1,0 +1,44 @@
+Job Description: Workflow UX Designer 
+Department: Product / R&D 
+Location: Dubai HQ 
+Reports To: Head of Product 
+Job Grade: D2 
+Date Created: [Date] 
+Summary 
+The Workflow UX Designer is essential for translating the complexity of AI-powered 
+automation into simple, intuitive, and efficient user experiences within the NexaCore platform. 
+This role involves deep user research, prototyping, and collaboration with Engineering to 
+design seamless workflow tools that maximize enterprise productivity. 
+Key Responsibilities 
+1.​ User Research and Analysis: 
+○​ Conduct user interviews, surveys, and A/B testing focused on enterprise users and 
+complex operational workflows. 
+○​ Develop and refine user personas, journey maps, and information architecture for 
+new product features. 
+2.​ Design and Prototyping: 
+○​ Create wireframes, flow diagrams, and high-fidelity prototypes for new and existing 
+product modules (e.g., AI configuration panels, data visualization dashboards). 
+○​ Work within and contribute to the NexaCore Design System to ensure brand and UI 
+consistency. 
+3.​ Cross-Functional Collaboration: 
+○​ Partner closely with Product Managers to understand business requirements and the 
+underlying AI logic. 
+○​ Collaborate with Senior Engineers to ensure technical feasibility and successful 
+implementation of designs. 
+4.​ Design System Maintenance: 
+○​ Own and update the company’s internal design component library, ensuring all 
+design elements are reusable, accessible, and optimized for speed. 
+Required Qualifications 
+●​ Bachelor's Degree in Interaction Design, HCI, or a related field. 
+●​ 3+ years of experience as a UX/UI Designer, preferably within the B2B SaaS or enterprise 
+software sector. 
+●​ Expert proficiency with design and prototyping tools (e.g., Figma, Sketch). 
+●​ A strong portfolio demonstrating complex problem-solving in workflow, data-heavy, or 
+automation product design. 
+
+●​ Familiarity with accessibility standards (WCAG) and responsive design principles. 
+Key Performance Indicators (KPIs) 
+●​ User Task Completion Rate (TCR) for core workflows. 
+●​ Time to Complete Task (TCT) for critical automation setup. 
+●​ Usability Score (e.g., SUS Score) for new features. 
+●​ Reduction in feature-related Customer Support tickets.

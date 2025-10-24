@@ -1,0 +1,59 @@
+KB-302: How to Check the Status of a 
+Feature Deployment 
+Applicable Product: All NexaCore Microservices 
+Target Audience: L1/L2 Support Agents, CSMs 
+Last Updated: 2025-10-28 
+Objective 
+To enable Support Agents to quickly determine if a reported client issue is caused by a recent 
+deployment (release) or is a genuine production bug. 
+Procedure: Checking the Release Management 
+Dashboard 
+All features and hotfixes are deployed using the official Release Management Process. You 
+can track the status using the internal NexaCore-Ops dashboard. 
+Step 1: Accessing the Dashboard 
+1.​ Navigate to the internal URL: https://ops.nexacore.com/releases. 
+2.​ Authenticate using your standard corporate SSO credentials. 
+Step 2: Locating the Relevant Release 
+Locate the last major release or hotfix that occurred immediately before the client reported 
+the issue. The releases are labeled by date and feature name (e.g., 
+RC-2025-11-01-PAWT-Beta). 
+Step 3: Checking Deployment Status 
+Review the following key indicators for the release: 
+Indicator 
+Status Meaning 
+Action for Support Agent 
+Canary Deployment 
+IN PROGRESS 
+The feature is only active 
+for a small, non-critical 
+segment (). Issues are 
+unlikely to affect the 
+general enterprise client 
+base. 
+
+Rollout Status 
+FULL ROLLOUT (100%) 
+The feature is live 
+everywhere. If the issue is 
+related, proceed to check 
+Smoke Tests. 
+Smoke Test Result 
+FAILED 
+A core functionality check 
+failed immediately 
+post-deployment. The 
+deployment is likely broken 
+or partially rolled back. 
+Action: Immediately 
+escalate as a P1 incident 
+(Release Failure). 
+Rollback Instructions 
+ACTIVE 
+The previous stable version 
+is being re-deployed. 
+Inform the client the issue 
+is temporary and 
+engineering is aware. 
+Key Metric for Agents: Change Failure Rate (CFR) 
+If the Change Failure Rate metric on the dashboard is for the last 24 hours, treat all 
+incoming tickets with increased urgency, as systemic instability is likely.

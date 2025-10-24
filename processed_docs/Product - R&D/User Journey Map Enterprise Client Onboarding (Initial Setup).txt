@@ -1,0 +1,222 @@
+User Journey Map: Enterprise Client 
+Onboarding (Initial Setup) 
+Persona: Sarah, IT Director at MegaCorp (NexaCore's newest enterprise client). 
+Goal: Successfully provision 500 users and launch 3 critical automation workflows. 
+Date: 2025-08-01 
+Stage 
+Action 
+(Sarah) 
+Experience 
+/ Emotion 
+NexaCore 
+Team 
+Key Pain 
+Points 
+Opportunit
+ies for 
+Improveme
+nt 
+1. 
+Preparatio
+n 
+Reviews 
+setup 
+documenta
+tion and 
+collects 
+necessary 
+internal 
+SSO details. 
+Neutral/An
+xious - 
+Hoping 
+documenta
+tion is clear. 
+Sales/Custo
+mer 
+Success 
+provides 
+the initial 
+setup 
+guide. 
+Documenta
+tion is 3 
+years old; 
+SSO field 
+requiremen
+ts are 
+unclear. 
+Opportunit
+y 1: Create 
+a dynamic, 
+searchable, 
+and current 
+self-service 
+setup guide 
+(Q1 2026 
+Initiative). 
+2. 
+Provisionin
+g 
+Attempts to 
+integrate 
+NexaCore 
+with 
+corporate 
+Azure AD 
+via SAML 
+2.0. 
+Frustrated 
+- Gets a 
+cryptic 
+SAML error 
+message 
+(Error Code 
+403). 
+Operations/
+SRE team 
+(L3 
+support) is 
+engaged 
+after 4 
+hours. 
+Error 
+messages 
+are not 
+actionable; 
+requires a 
+support 
+ticket. 
+Opportunit
+y 2: 
+Integrate AI 
+Documenta
+tion 
+Assistant to 
+interpret 
+error codes 
+and 
+suggest 
+fixes 
+immediately
+. 
+3. Testing 
+Provisions 5 
+pilot users 
+and tests a 
+simple 
+'Hello 
+Slightly 
+Relieved - 
+Basic test 
+works, but 
+the latency 
+Product 
+team 
+monitors 
+latency 
+metrics via 
+Initial 
+regional 
+data 
+ingress 
+latency is 
+Opportunit
+y 3: 
+Implement 
+auto-scalin
+g/pre-warm
+
+World' 
+workflow. 
+is high. 
+Datadog. 
+higher than 
+expected. 
+ing of new 
+regional 
+data nodes 
+(Project 
+Zenith). 
+4. First 
+Workflow 
+Launch 
+Designs 
+and 
+launches 
+the critical 
+'Expense 
+Report 
+Vetting' 
+workflow. 
+Optimistic/
+Hopeful - 
+This is the 
+moment of 
+truth for 
+the ROI. 
+Customer 
+Success 
+actively 
+monitors 
+workflow 
+health. 
+Workflow 
+fails 
+unexpected
+ly on the 
+50th item 
+due to an 
+unhandled 
+data 
+format. 
+Opportunit
+y 4: 
+Improve 
+data 
+validation 
+logic and 
+error 
+logging in 
+the 
+workflow 
+engine to 
+surface the 
+exact field 
+failure. 
+5. 
+Post-Laun
+ch Review 
+Reviews the 
+first week's 
+performanc
+e report. 
+Satisfied - 
+The 
+workflow 
+delivered 
+time 
+savings. 
+Sales/CS 
+schedules a 
+1-week 
+check-in 
+call. 
+Reporting 
+dashboard 
+lacks 
+filtering 
+flexibility 
+for 
+department
+-level data. 
+Opportunit
+y 5: 
+Enhance 
+reporting 
+API to allow 
+for detailed 
+department
+al filtering 
+(Upcoming 
+R&D task).

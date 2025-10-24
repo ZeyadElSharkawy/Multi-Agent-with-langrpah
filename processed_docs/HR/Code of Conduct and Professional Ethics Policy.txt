@@ -1,0 +1,45 @@
+Code of Conduct and Professional Ethics 
+Policy 
+Document ID: HR-CC-2025.01 
+Version: 1.0 
+Effective Date: 2025-08-15 
+Department: Legal & HR 
+1. Purpose 
+This Code of Conduct (the "Code") establishes the ethical standards and professional 
+expectations for all employees, contractors, and representatives of NexaCore Solutions. 
+Adherence to this Code is a condition of employment. 
+2. Workplace Behavior 
+2.1. Respect and Diversity 
+NexaCore is committed to a workplace free from harassment, discrimination, and bullying. We 
+respect and value the diverse backgrounds, cultures, and perspectives of all our employees 
+across the MENA region. Discriminatory behavior based on race, gender, religion, national 
+origin, age, disability, or any other protected characteristic is strictly prohibited. 
+2.2. Conflict of Interest 
+Employees must avoid situations where personal interests conflict, or appear to conflict, with 
+the interests of NexaCore Solutions. Any potential conflicts (e.g., holding a financial interest in 
+a competitor, supplier, or client) must be disclosed immediately to the Line Manager and the 
+Legal Department. 
+3. Handling Company Assets 
+3.1. Responsible Use of Technology 
+Company hardware, software licenses, network access, and proprietary AI model access are 
+provided solely for business purposes. Personal use must be minimal and never interfere with 
+job duties or compromise system security (see IT Security Policy). 
+3.2. Financial Integrity 
+All business records, financial transactions, and expense reports must be accurate, truthful, 
+and properly documented. Falsification of records or misuse of company funds is a serious 
+offense. 
+
+4. Anti-Bribery and Anti-Corruption 
+NexaCore has a zero-tolerance policy for bribery, corruption, and illicit payments. Employees 
+must not offer, promise, give, or accept any bribes, kickbacks, or inappropriate gifts to 
+improperly influence a business decision. Gifts or hospitality offered or accepted must be 
+nominal in value (below [500 AED]) and comply with the local law and cultural norms. 
+5. Reporting Violations 
+Employees who observe or suspect a violation of this Code have a duty to report it 
+immediately. Reports can be made confidentially and without fear of retaliation via the formal 
+Grievance Procedure Document or directly to the Head of HR, [Head of HR Name]. 
+Acknowledgment: 
+I have read, understand, and agree to abide by the NexaCore Solutions Code of Conduct. 
+[Employee Name]: _________________________ 
+[Employee Signature]: _________________________ 
+Date: [Date]

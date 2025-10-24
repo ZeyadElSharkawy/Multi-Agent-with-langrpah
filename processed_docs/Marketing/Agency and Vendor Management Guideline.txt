@@ -1,0 +1,30 @@
+Agency and Vendor Management 
+Guideline 
+Document ID: MKT-AVG-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Marketing, Finance 
+1. Objective 
+To establish a standardized, transparent process for selecting, onboarding, and managing 
+external marketing agencies and technology vendors. 
+2. Procurement Process 
+1.​ Needs Assessment: Document the clear objectives, scope of work (SOW), and budget. 
+2.​ Vendor Vetting: Agencies/Vendors must complete the Legal/Compliance Due 
+Diligence Form (especially regarding IP rights and data handling). 
+3.​ Contracting: All contracts must be reviewed and signed by Legal and Finance before 
+service commencement. Standard contract terms must include IP assignment to 
+NexaCore for all creative deliverables. 
+4.​ Budgeting: Contracts must be allocated against the approved Finance Budget Line 
+(per the Budget Approval Policy). 
+3. Performance Management 
+●​ Defined KPIs: Every SOW must include measurable, objective Key Performance 
+Indicators (e.g., increase in MQL volume, reduction in CPA, specific project completion 
+dates). 
+●​ Regular Review: Formal performance reviews must be held monthly or quarterly, 
+depending on the contract value. 
+4. Termination and Offboarding 
+●​ Data Return: Upon termination, the vendor must securely destroy or return all NexaCore 
+and client data within [7 business days]. 
+●​ Access Revocation: All system and platform access (CRM, analytics accounts, Slack 
+channels) must be revoked by the internal Digital team immediately upon contract 
+termination.

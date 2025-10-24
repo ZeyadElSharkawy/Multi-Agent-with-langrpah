@@ -1,0 +1,78 @@
+Post-Sale Handoff & Customer Success 
+Strategy 
+Document ID: SAL-CSS-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Sales, Customer Success 
+1. Objective 
+To ensure a seamless, high-touch transition from the Sales close to the Customer Success 
+(CS) onboarding, thereby minimizing churn and maximizing long-term account value. 
+2. Mandatory Handoff Protocol (The 72-Hour Rule) 
+The AE must complete the following steps within 72 business hours of the contract signing 
+(Closed Won status in CRM). 
+Step 
+Responsible Party 
+Description 
+CRM Requirement 
+1. Handoff 
+Meeting 
+AE & CS Manager 
+Mandatory internal 
+meeting to brief CS 
+on the client's 
+history, pain points, 
+and agreed-upon 
+ROI metrics. 
+Meeting logged on 
+Opportunity and 
+Account. 
+2. Client 
+Introduction 
+AE (Lead) 
+AE introduces the 
+dedicated CS 
+Manager via email 
+or introductory call, 
+setting 
+expectations for 
+onboarding. 
+Handoff Email 
+Template used; 
+stored in CRM. 
+3. Documentation 
+Transfer 
+AE 
+Upload the final 
+signed contract, 
+SOW, and the 
+Value Projection 
+Template to the 
+Account file. 
+All files tagged with 
+'Closed Won 
+Assets'. 
+
+4. Account Setup 
+CS Manager 
+Provision the client 
+environment and 
+schedule the 
+official Kick-Off 
+Meeting. 
+Project Plan 
+created in CS 
+platform. 
+3. Customer Success Focus: Maximize Adoption and 
+Expansion 
+The CS team is responsible for driving the following post-sale revenue pillars: 
+●​ Adoption: Ensure initial users are actively utilizing the platform to achieve the promised 
+ROI metrics established in the initial proposal. 
+●​ Expansion (Upsell/Cross-sell): Identify new departments or workflows within the 
+client's organization that could benefit from NexaCore (documented via the Upsell & 
+Cross-sell Playbook). 
+●​ Advocacy: Convert successful clients into references, case studies, and testimonial 
+providers (per Marketing's Case Study Process). 
+4. AE Compensation on Expansion Deals 
+The original AE retains a [X]% commission rate (vs. standard renewal commission) for any 
+expansion revenue (upsell/cross-sell) generated in the first [18] months post-initial contract 
+signing, provided they remain the assigned AE.

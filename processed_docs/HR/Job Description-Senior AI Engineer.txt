@@ -1,0 +1,44 @@
+Job Description: Senior AI Engineer 
+Department: IT / Engineering 
+Location: Dubai HQ (Hybrid) 
+Reports To: Head of Engineering 
+Job Grade: E4 
+Date Created: [Date] 
+Summary 
+The Senior AI Engineer will be responsible for the design, development, and deployment of 
+cutting-edge machine learning models and algorithms that power NexaCore's core 
+automation platform. This role requires deep expertise in MLOps, scalable cloud 
+infrastructure, and the ability to translate complex business problems into high-performing, 
+reliable AI solutions for our enterprise clients. 
+Key Responsibilities 
+1.​ AI/ML Model Development: 
+○​ Design, implement, and optimize scalable, production-ready AI models (e.g., NLP, 
+predictive analytics, computer vision) to solve enterprise workflow challenges. 
+○​ Ensure models are trained, validated, and deployed with high accuracy and low 
+latency. 
+2.​ Infrastructure & MLOps: 
+○​ Collaborate with DevOps to build and maintain robust CI/CD pipelines for ML models 
+(MLOps). 
+○​ Manage model versioning, monitoring, and retraining loops on our cloud platform 
+([AWS/Azure/GCP]). 
+3.​ Research & Innovation: 
+○​ Stay current with the latest advancements in AI and emerging tech, proposing 
+internal proofs-of-concept (PoCs) that align with NexaCore’s product roadmap. 
+○​ Act as a technical mentor to junior engineers. 
+4.​ Security & Compliance: 
+○​ Implement data governance and security best practices for all data utilized in model 
+training, adhering to regional and international data privacy laws. 
+Required Qualifications 
+●​ Master's Degree in Computer Science, AI, or a related quantitative field. 
+●​ 5+ years of experience in software development, with at least 3 years focused on 
+production-level ML engineering. 
+●​ Expertise in Python and common ML frameworks (TensorFlow, PyTorch, Scikit-learn). 
+●​ Proven experience deploying and managing ML models in a cloud environment (e.g., 
+Azure ML, Sagemaker). 
+
+●​ Strong understanding of data structures, algorithms, and distributed systems. 
+Key Performance Indicators (KPIs) 
+●​ Model latency and throughput (e.g., 99th percentile response time). 
+●​ Model accuracy (e.g., F1-score, AUC) in production. 
+●​ Adherence to deployment schedule (time-to-market for new features). 
+●​ Reduction in model-related incidents/bugs post-release.

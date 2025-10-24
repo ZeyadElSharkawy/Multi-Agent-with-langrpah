@@ -1,0 +1,86 @@
+NexaCore Product Roadmap Summary 
+(Q4 2025 - Q1 2026) 
+Focus Theme: Regional Expansion and Proactive Intelligence 
+Prepared By: [Head of Product] 
+Date: 2025-10-01 
+Q4 2025 (October - December) - Stability and 
+Regionalization 
+Objective: Stabilize core enterprise features and achieve readiness for KSA and UAE regional 
+data sovereignty requirements. 
+Initiative 
+Key Features / 
+Deliverables 
+Success Metric (OKR 
+Alignment) 
+Project Zenith (Core 
+Stability) 
+Latency reduction for 
+reporting (avg. ). Refactor 
+of 3 legacy microservices. 
+Reduce high-priority 
+support tickets related to 
+latency by . 
+MENA Data Residency 
+Compliance 
+Dedicated KSA-compliant 
+data segregation model. 
+Regional language UI 
+localization (Arabic). 
+Pass the internal Legal 
+audit for KSA data 
+handling. 
+Predictive AI Trigger 
+(PAWT) - Beta 
+Launch the Beta version of 
+the PAWT feature 
+(PRD-001). Internal 
+dogfooding only. 
+ internal adoption rate by 
+Ops team for system 
+scaling alerts. 
+Q1 2026 (January - March) - Proactive Intelligence and 
+Scaling 
+Objective: Launch intelligence features to key enterprise clients and begin preparation for 
+the large-scale US market entry plan. 
+Initiative 
+Key Features / 
+Deliverables 
+Success Metric (OKR 
+Alignment) 
+
+PAWT - General 
+Availability (GA) 
+Full commercial launch of 
+PAWT with premium 
+subscription tier. 
+Achieve adoption of the 
+PAWT premium tier among 
+existing enterprise clients. 
+Self-Service Onboarding 
+Portal 
+New portal enabling 
+enterprise clients to 
+manage their own 
+SSO/user provisioning 
+without manual Ops 
+intervention. 
+Reduce new client 
+onboarding time from 3 
+weeks to 1 week. 
+AI Documentation 
+Assistant 
+MVP feature using 
+generative AI to summarize 
+complex system logs and 
+provide actionable 
+suggestions to support 
+staff. 
+Improve Support MTTR by 
+through quicker incident 
+analysis. 
+Future Themes (H2 2026 Outlook) 
+●​ Global Expansion: US/EU compliance and infrastructure build-out. 
+●​ Deeper Automation: Multi-stage, cross-platform automation workflows (integrating 
+third-party enterprise tools). 
+●​ Low-Code Platform: Drag-and-drop interface for citizen developers to build basic 
+workflows.

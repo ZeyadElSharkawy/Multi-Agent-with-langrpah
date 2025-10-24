@@ -1,0 +1,88 @@
+Lead Qualification Checklist 
+(Nexa-BANT Framework) 
+Document ID: SAL-QUAL-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Sales Development, Sales Operations 
+MQL to SQL Transition Guide 
+This checklist must be completed by the SDR before formally passing an MQL (Marketing 
+Qualified Lead) to an AE (Account Executive). All checks must be logged in the CRM notes. 
+1. Fit Assessment (Is this the right company?) 
+Criteria 
+Status 
+Notes / Verification 
+Company Size 
+[Y/N] 
+Annual Revenue > $500M 
+or Employee Count > 
+1,000? 
+Industry Fit 
+[Y/N] 
+Is the business regulated or 
+does it rely on high-volume, 
+repetitive data workflows? 
+Geographic Fit 
+[Y/N] 
+Headquartered in a 
+supported territory (MENA, 
+APAC focus)? 
+2. Nexa-BANT (Qualification Deep-Dive) 
+We use an adapted BANT (Budget, Authority, Need, Timeline) framework focused on AI value. 
+Criteria 
+Question Focus 
+Minimum Requirement 
+for SQL 
+Budget (B) 
+"Do you currently allocate 
+budget to Digital 
+Transformation initiatives or 
+process automation?" 
+A clear budget line item 
+exists for 
+"Software/Automation," 
+even if uncommitted. 
+
+Authority (A) 
+"Who is the primary 
+economic decision-maker 
+for this AI project, and who 
+signs the PO?" 
+Access has been granted 
+to the Decision Maker 
+(VP/C-Level) or a clear path 
+to them is defined. 
+Need & Value (N) 
+"If we solved [Pain Point], 
+what is the annual financial 
+impact on your P&L?" 
+Client quantifies the pain: 
+must be a high-priority, 
+7-figure problem that 
+NexaCore can address. 
+Timeline (T) 
+"When must this 
+automation project be fully 
+operational to meet internal 
+mandates?" 
+Deployment required within 
+the next 6-9 months. Not 
+"Someday" or "Next year." 
+3. Competitor and Procurement 
+Criteria 
+Status 
+Notes / Verification 
+Current Vendor 
+[Y/N] 
+Is a legacy/competitor 
+solution currently in place? 
+(If Yes, why are they looking 
+to change?) 
+Procurement Process 
+[Defined/Vague] 
+Is the client's internal 
+procurement or legal 
+process mapped out? 
+(Needed before Stage 3). 
+SDR Certification: I verify that all criteria above have been met or addressed, and this lead is 
+ready for an AE. 
+Date & Signature: [SDR Name] on [Date]

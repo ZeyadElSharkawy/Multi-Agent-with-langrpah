@@ -1,0 +1,196 @@
+Procurement Process Guide - Appendix 
+B: Technical Vendor Sourcing Checklist 
+Document ID: PROC-CHECK-002 
+Purpose: Ensure all technical vendors (software, cloud services, and technical contractors) 
+meet NexaCore's operational requirements before contract initiation. 
+1. Technical Fit Assessment 
+Item 
+Requirement 
+Status 
+(Y/N/NA) 
+Score (1-5) 
+Notes 
+1.1 
+Deployment 
+Model 
+Is the solution 
+available via 
+API/SaaS or 
+does it require 
+on-premise 
+installation? 
+[Y/N/NA] 
+[Score] 
+SaaS preferred 
+to minimize 
+Ops overhead. 
+1.2 Data 
+Input/Output 
+Can the 
+service handle 
+JSON/XML/Pro
+tobuf standard 
+formats via 
+REST/gRPC 
+API? 
+[Y/N/NA] 
+[Score] 
+Mandatory for 
+AI workflow 
+integration. 
+1.3 High 
+Availability 
+(HA) 
+Does the 
+vendor 
+guarantee HA 
+infrastructure 
+(minimum 
+uptime)? 
+[Y/N/NA] 
+[Score] 
+Must align with 
+our own SLA. 
+1.4 
+Performance 
+(Throughput) 
+Can the 
+system 
+support [X] 
+transactions 
+per second 
+(TPS)? 
+[Y/N/NA] 
+[Score] 
+Test data must 
+be provided. 
+
+1.5 
+Monitoring & 
+Logging 
+Does the 
+vendor provide 
+standard 
+integration for 
+industry-stand
+ard monitoring 
+(e.g., 
+Prometheus, 
+Datadog)? 
+[Y/N/NA] 
+[Score] 
+Required for 
+centralized 
+observability. 
+2. Security and Integration Requirements 
+Item 
+Requirement 
+Status 
+(Y/N/NA) 
+Score (1-5) 
+Notes 
+2.1 SSO 
+Compatibility 
+Does the 
+service 
+support SAML 
+2.0 or OAuth 
+2.0 for single 
+sign-on 
+integration? 
+[Y/N/NA] 
+[Score] 
+Mandatory for 
+employee 
+access. 
+2.2 API Key 
+Management 
+Does the 
+system allow 
+for granular 
+permissioning 
+and rotation of 
+API keys? 
+[Y/N/NA] 
+[Score] 
+Required for 
+automated 
+workflows. 
+2.3 
+Encryption at 
+Rest/Transit 
+Is data 
+encrypted with 
+AES-256 (at 
+rest) and TLS 
+1.2+ (in 
+transit)? 
+[Y/N/NA] 
+[Score] 
+Mandatory. 
+2.4 
+Multi-Factor 
+Authenticatio
+n 
+Is MFA 
+mandatory for 
+all 
+administrative/
+[Y/N/NA] 
+[Score] 
+Mandatory. 
+
+privileged 
+access to the 
+vendor's 
+platform? 
+3. Commercial and Support Requirements 
+Item 
+Requirement 
+Status 
+(Y/N/NA) 
+Score (1-5) 
+Notes 
+3.1 Regional 
+Support 
+Does the 
+vendor offer 
+support with 
+personnel 
+fluent in 
+English/Arabic
+? 
+[Y/N/NA] 
+[Score] 
+Highly 
+preferred for 
+regional 
+operational 
+efficiency. 
+3.2 
+Commercial 
+Flexibility 
+Does the 
+vendor offer 
+consumption-
+based or 
+enterprise-leve
+l pricing 
+suitable for 
+scaling? 
+[Y/N/NA] 
+[Score] 
+ 
+3.3 Contract 
+Terms 
+Are data 
+extraction and 
+termination 
+clauses 
+favorable to 
+NexaCore? 
+[Y/N/NA] 
+[Score] 
+Must align with 
+Legal 
+guidelines.

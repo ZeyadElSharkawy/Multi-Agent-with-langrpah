@@ -1,0 +1,116 @@
+NexaCore Solutions Annual Budget 
+Report (FY 2026 - Summary) 
+Document ID: FN-ABR-2026.01 
+Version: 1.0 
+Date: 2025-12-01 
+Prepared By: Financial Planning & Analysis (FP&A) 
+1. Executive Summary 
+The FY2026 budget focuses on accelerating our leadership in the AI workflow market by 
+allocating 45% of total operating expense (OPEX) towards product development and 
+cloud infrastructure. This is a strategic shift to stabilize our core platform scalability 
+(reducing cloud costs) and fund the entry into two new regional markets (KSA and Egypt). We 
+project achieving 35% Year-over-Year (YoY) revenue growth while maintaining a 15% 
+EBITDA margin through automation of internal finance workflows (FinOps). 
+2. Key Financial Projections (USD) 
+Metric 
+FY2025 
+Actual (E) 
+FY2026 
+Budget 
+YoY Change 
+Notes 
+Total Revenue 
+(ARR) 
+$55,000,000 
+$74,250,000 
++35% 
+Driven by new 
+enterprise 
+product line 
+(AI Workflow 
+Suite). 
+Cost of 
+Revenue 
+(CoR) 
+$8,250,000 
+$10,395,000 
++26% 
+Lower growth 
+than revenue 
+due to 
+platform 
+optimization 
+efforts. 
+Gross Profit 
+$46,750,000 
+$63,855,000 
++36.6% 
+Strong Gross 
+Margin 
+maintained at 
+86%. 
+Operating 
+$37,500,000 
+$51,600,000 
++37.6% 
+Significant 
+
+Expenses 
+(OPEX) 
+investment in 
+R&D and 
+Sales/Marketin
+g expansion. 
+EBITDA 
+$9,250,000 
+$12,255,000 
++32.5% 
+Target EBITDA 
+Margin of 15% 
+achieved. 
+3. Operating Expense Breakdown (OPEX) 
+Department/Cate
+gory 
+FY2025 Allocation 
+FY2026 Budget 
+Justification 
+Product/R&D & 
+Engineering 
+35% 
+45% 
+Highest Priority: 
+New hiring (40 
+FTEs) and 
+advanced compute 
+resources (CapEx). 
+Sales & Marketing 
+35% 
+30% 
+Increased 
+efficiency through 
+AI-driven lead 
+scoring (SaaS 
+tools). 
+G&A (HR, Finance, 
+Legal, Ops) 
+20% 
+15% 
+Reduction driven by 
+automation of 
+internal 
+administrative 
+tasks. 
+Infrastructure/Clo
+ud Compute 
+10% 
+10% 
+Costs stabilized 
+due to migration 
+efficiency projects. 
+4. Capital Expenditure (CapEx) Highlights 
+The CapEx budget of $7.5 Million is primarily earmarked for: 
+1.​ Expansion of the Dubai HQ Data Center capacity for regional redundancy ($4.0M). 
+
+2.​ Acquisition of advanced, perpetual licenses for ML training tools ($1.5M). 
+3.​ New employee devices and specialized engineering hardware ($2.0M). 
+Next Review: Quarterly Budget vs. Actual (Q1 2026).

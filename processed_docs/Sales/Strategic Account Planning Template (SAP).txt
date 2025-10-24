@@ -1,0 +1,73 @@
+Strategic Account Planning Template 
+(SAP) 
+Document ID: SAL-SAP-2025.01 
+Version: 1.0 
+Account Name: [Client Name] (Strategic Account) 
+Account Executive: [AE Name] 
+Date: [Date] 
+1. Account Overview and Status 
+●​ Annual Revenue: [X] 
+●​ Industry: [X] 
+●​ Current Relationship Status: [Prospecting / Client - Tier X] 
+●​ Current Products/Modules Purchased: [List, e.g., Core Platform, Compliance Module] 
+●​ Strategic Goal for FY[XX]: [e.g., Secure an additional 500K ARR in the Risk department, 
+become the sole provider for predictive AI.] 
+2. Organizational Map and Key Contacts 
+Stakeholder Name 
+Title/Role 
+Authority 
+(Champion/Decisi
+on Maker/Blocker) 
+Business 
+Value/Pain Point 
+[Contact 1] 
+[CFO] 
+Economic Decision 
+Maker 
+Interested in TCO 
+reduction, CAPEX 
+vs. OPEX. 
+[Contact 2] 
+[Head of Data 
+Science] 
+Technical Buyer 
+Interested in 
+MLOps reliability 
+and model 
+performance. 
+[Contact 3] 
+[Director of Legacy 
+IT] 
+Blocker 
+Worried about 
+integration 
+complexity and 
+vendor lock-in. 
+3. Current Account Health and Risk Assessment 
+●​ Adoption Rate (If Client): [X]% of licensed users active. 
+
+●​ Risk Factors: [e.g., Strong political ties to competitor 'Atlas AI', recent budget freeze, 
+champion recently left the company.] 
+●​ Mitigation Plan: [e.g., Schedule QBR with the new replacement champion, engage the 
+Solution Architect immediately.] 
+4. Expansion Plan (Next 12 Months) 
+Expansion Target 
+(Dept/Workflow) 
+Projected Value 
+($) 
+Key Pain Point to 
+Address 
+NexaCore Product 
+to Propose 
+[Dept. 1] 
+ 
+ 
+ 
+[Dept. 2] 
+ 
+ 
+ 
+5. Required Internal Resources 
+●​ Solution Architect (SE) Time: [X] hours per month. 
+●​ Executive Sponsor: [VP of Sales / CEO] 
+●​ Marketing Support: [Case Study / Joint Webinar required for credibility].

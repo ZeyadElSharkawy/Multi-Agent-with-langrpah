@@ -1,0 +1,83 @@
+Remote Office IT Setup and Support 
+Guide 
+Department: Operations (Internal IT) 
+Applicable To: All NexaCore Remote Employees (outside Dubai HQ) 
+Date: 2025-09-01 
+1. Remote Workstation Requirements 
+All remote employees must meet the following minimum IT security and hardware standards to 
+access the NexaCore network. 
+Requirement 
+Specification 
+Enforcement 
+Device Security 
+Full Disk Encryption (FDE) 
+mandatory 
+(BitLocker/FileVault). 
+VPN access is blocked if 
+FDE is not detected. 
+Operating System 
+Windows 10/11 Pro or 
+macOS 13+. Must receive 
+automatic security 
+updates. 
+Updates must be applied 
+within 7 days of release. 
+VPN Access 
+Mandatory use of 
+NexaCore's VPN for all 
+access to internal services 
+(CRM, JIRA, internal cloud 
+console). 
+Enforced via SSO 
+integration. 
+Anti-Virus/EDR 
+Corporate-provided 
+Endpoint Detection and 
+Response (EDR) software 
+must be installed and 
+active. 
+Managed centrally by 
+Internal IT. 
+2. Network and Connectivity 
+●​ Minimum Speed: Employees must maintain a minimum reliable internet speed of 25 
+Mbps download and 5 Mbps upload. 
+●​ Wi-Fi Security: Home Wi-Fi network must use WPA2-Personal or WPA3 security. Using 
+public or unsecured Wi-Fi is strictly prohibited for accessing corporate resources. 
+
+●​ Home Router Security: Employees are required to change default router passwords 
+immediately. 
+3. Remote Support and Troubleshooting 
+Issue Type 
+Triage/Reporting 
+Troubleshooting Steps 
+(Self-Help) 
+VPN Connection Failure 
+Create a P3 ticket (Internal 
+IT). 
+1. Check internet 
+connection. 2. Restart the 
+VPN client. 3. Reboot the 
+machine. 
+Performance/Slowness 
+Create a P3 ticket with a 
+network traceroute 
+attached. 
+1. Close all unnecessary 
+applications. 2. Run a 
+speed test (report result). 
+Hardware Failure 
+Create a P2 ticket 
+(Requires asset number). 
+Contact IT immediately. We 
+will initiate the hardware 
+replacement policy 
+(next-day delivery in major 
+MENA cities). 
+4. Hardware Replacement Policy (Remote) 
+1.​ Employee reports hardware failure (P2 ticket). 
+2.​ IT confirms failure and initiates a replacement order. 
+3.​ The logistics partner delivers the replacement hardware within 2 business days (major 
+MENA cities). 
+4.​ The employee must return the faulty hardware using the prepaid shipping label within 5 
+business days of receiving the replacement. Failure to return the faulty asset will result in 
+a deduction from the next payroll cycle.

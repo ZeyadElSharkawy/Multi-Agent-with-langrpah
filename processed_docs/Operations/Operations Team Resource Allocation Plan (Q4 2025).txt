@@ -1,0 +1,132 @@
+Operations Team Resource Allocation 
+Plan (Q4 2025) 
+Department: Operations 
+Focus: Personnel and Budget Assignment for Key Initiatives 
+Period: October 1, 2025 – December 31, 2025 
+1. Team Allocation Summary 
+The Q4 focus shifts towards Infrastructure Hardening (migrating to new monitoring tools) 
+and Compliance Readiness (preparing for the annual data residency audit). 
+Team Member 
+Primary Role 
+Initiative 1 (70% 
+Focus) 
+Initiative 2 (30% 
+Focus) 
+[Head of Ops 
+Name] 
+Leadership & 
+Vendor Mgt. 
+Quarterly Budget 
+Review & Cloud 
+Cost Optimization. 
+Finalizing FY2026 
+Strategy 
+Document. 
+[SRE Lead Name] 
+System Reliability 
+Leading the CI/CD 
+Pipeline Migration 
+(ArgoCD Project). 
+Optimizing 
+Database Scaling 
+and Performance 
+(Latency 
+reduction). 
+[SRE Specialist 1] 
+Automation & 
+Tooling 
+Developing internal 
+tooling for 
+automated 
+environment 
+de-provisioning. 
+Disaster Recovery 
+(DR) 
+documentation 
+updates and 
+rehearsal. 
+[Infrastructure 
+Engineer] 
+Networking & 
+Hardware 
+Managing the 
+physical security 
+audit and server 
+room maintenance. 
+Implementing new 
+firewall rules for 
+KSA client access. 
+[Facility Manager] 
+Office & BCDR 
+Managing the 
+annual fire safety 
+inspection and 
+generator 
+maintenance. 
+Consolidating the 
+physical IT asset 
+inventory. 
+
+2. Key Initiative Budget Allocation 
+Initiative 
+Budget (Q4) 
+Rationale 
+Owner 
+ArgoCD Migration 
+(Tooling) 
+$40,000 
+Licensing and 
+consultant fees to 
+accelerate the 
+CI/CD pipeline 
+transition. 
+SRE Lead 
+Cloud Security 
+Audit 
+$25,000 
+External 
+penetration test 
+focused on regional 
+data residency 
+configurations. 
+Head of Ops 
+Physical 
+Maintenance & 
+CAPEX 
+$15,000 
+Replacement of 
+aging UPS batteries 
+in the Dubai Server 
+Room (mandatory). 
+Facility Manager 
+3. Staffing Requirements (Future State) 
+The following roles are anticipated to be required in Q1 FY2026 based on the projected 40% 
+client growth: 
+Role 
+Justification 
+Target Start Date 
+Notes 
+FinOps Specialist 
+Dedicated resource 
+required to manage 
+and forecast the 
+multi-million dollar 
+cloud budget. 
+2026-01-01 
+Requires expertise 
+in AWS/GCP cost 
+optimization. 
+Junior SRE 
+To manage the 
+increased volume 
+of low/medium 
+priority incidents 
+and assist with 
+patching SOP 
+2026-03-01 
+Focus on alert 
+triage and basic 
+infrastructure 
+monitoring. 
+
+execution.

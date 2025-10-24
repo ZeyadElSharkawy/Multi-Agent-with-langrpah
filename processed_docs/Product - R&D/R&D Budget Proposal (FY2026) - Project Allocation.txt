@@ -1,0 +1,130 @@
+R&D Budget Proposal (FY2026) - Project 
+Allocation 
+Department: Product & Research and Development 
+Prepared By: [Head of R&D] 
+Date: 2025-10-01 
+Goal: Secure $[Amount] in OPEX for R&D activities and staffing to deliver the Q1/Q2 2026 
+roadmap initiatives. 
+1. Executive Summary 
+This budget proposal prioritizes investment in AI Model Development and Platform 
+Scalability (Project Zenith) to support forecasted enterprise growth and the commercial 
+launch of the Predictive AI Workflow Trigger (PAWT). We propose a increase over the 
+FY2025 budget to fund 2 critical new hires. 
+2. OPEX Allocation Breakdown (FY2026) 
+Category 
+FY2025 
+Actual ($) 
+FY2026 
+Proposed ($) 
+Variance (%) 
+Rationale / 
+Strategic Link 
+Personnel 
+Costs 
+(Salaries) 
+5,000,000 
+5,750,000 
+ 
+Funds the 
+hiring of 1 Data 
+Scientist and 1 
+Senior 
+Backend 
+Engineer. 
+Cloud 
+Compute 
+(R&D 
+Sandbox) 
+800,000 
+1,100,000 
+ 
+Critical: 
+Increased 
+spend for AI 
+model training 
+compute (GPU 
+instances) and 
+data ingestion. 
+Software/Tool
+s Licenses 
+250,000 
+275,000 
+ 
+New licenses 
+for advanced 
+CI/CD tooling 
+(ArgoCD) and 
+security 
+
+scanning. 
+Technical 
+Training/Conf
+erences 
+50,000 
+75,000 
+ 
+Investment in 
+AI/ML 
+engineering 
+upskilling. 
+Total OPEX 
+6,100,000 
+7,200,000 
++18% 
+ 
+3. High-Priority Project Funding 
+The proposed budget is allocated to support the following key roadmap initiatives: 
+Project 
+Budget Share (%) 
+Key Deliverable 
+Personnel Focus 
+PAWT GA Launch 
+ 
+Production 
+deployment and 
+post-launch 
+monitoring/iterative 
+improvement of 
+NexaCore-TSM 
+v1.2. 
+Data Scientist, 
+Backend Eng. 
+Project Zenith 
+(Scalability) 
+ 
+Refactoring of 3 
+core microservices 
+and database 
+sharding 
+implementation. 
+Senior Backend 
+Eng., SRE support. 
+AI Documentation 
+Assistant 
+ 
+Initial MVP build 
+and integration 
+with existing 
+Support knowledge 
+base. 
+Full-stack 
+Developer. 
+Technical Debt 
+Reduction 
+ 
+Dedicated time for 
+addressing 
+high-impact legacy 
+code/frameworks 
+(as per TD 
+framework). 
+All R&D Engineers. 
+
+4. Risk Assessment (Funding Shortfall) 
+If the requested budget increase is not approved: 
+●​ Risk: The hiring of the Data Scientist will be deferred, jeopardizing the Q1 2026 PAWT GA 
+launch and subsequent AI feature roadmap. 
+●​ Impact: NexaCore would lose its competitive lead in the proactive intelligence space (as 
+highlighted in the Competitive Analysis). 
+●​ Mitigation: The Head of R&D will re-allocate internal engineers to model training, 
+increasing the risk of burnout and delaying Project Zenith.

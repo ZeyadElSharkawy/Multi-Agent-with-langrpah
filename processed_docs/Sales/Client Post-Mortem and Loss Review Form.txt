@@ -1,0 +1,32 @@
+Client Post-Mortem and Loss Review 
+Form 
+Document ID: SAL-PML-2025.01 
+Version: 1.0 
+Date: [Date] 
+Account Executive (AE): [AE Name] 
+1. Opportunity Details 
+●​ Client Name: [Client Name] 
+●​ Opportunity ID (CRM): [ID] 
+●​ Total Lost ARR: [AED/USD Amount] 
+●​ Final Loss Reason (CRM): [E.g., No Budget, Went with Competitor, Stalled] 
+2. Root Cause Analysis 
+A. Why Did We Lose? (Check all that apply) 
+●​ [ ] Budget: Client could not justify the cost or TCO. 
+●​ [ ] Authority: Never reached the true Economic Decision Maker. 
+●​ [ ] Need: The problem was not critical/painful enough (Nexa-BANT failure). 
+●​ [ ] Competition: Lost directly to a named competitor (Specify: [Competitor Name]). 
+●​ [ ] Internal Politics: Failed to navigate consensus or overcome a key Blocker. 
+●​ [ ] Technical: NexaCore platform lacked a required feature or integration. 
+●​ [ ] Timeline: Project was perpetually delayed (Stalled). 
+B. Lessons Learned (Narrative Summary) 
+Provide a candid, detailed summary of what the AE would do differently if starting the sales 
+process over today. (Minimum 200 words). 
+[Enter narrative summary here.] 
+3. Competitive Intelligence (If applicable) 
+●​ Competitor Won With: [Specific Product Feature / Pricing Model / Legal Term] 
+●​ Was their proposal substantially cheaper? [Yes / No / Comparable] 
+●​ What was the single most persuasive thing the competitor said or did? 
+4. Follow-Up Action 
+●​ Is the account worth revisiting in the future? [Yes / No] 
+●​ Re-Engage Timeline: [E.g., 12 months, after new product release, etc.] 
+Reviewed By Sales Director: [Signature / Date]

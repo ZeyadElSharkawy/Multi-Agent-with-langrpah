@@ -1,0 +1,41 @@
+Software Development Lifecycle (SDLC) 
+Overview 
+Department: R&D and Operations 
+Model: Agile (Scrum/Kanban Hybrid) 
+Objective: Define the standard phases and required gates for all software development 
+projects within NexaCore. 
+1. Phase 1: Planning & Definition 
+●​ Goal: Define the Why and What. 
+●​ Activities: Market research, competitive analysis, gathering stakeholder input. 
+●​ Output: Product Requirements Document (PRD), signed off by the Product Manager 
+and key stakeholders. 
+2. Phase 2: Design & Prototyping 
+●​ Goal: Define the How and create a technical blueprint. 
+●​ Activities: System architecture design, database schema, API design, UX/UI mockups. 
+●​ Output: Feature Specification Document, Architecture Review Document, and (for 
+new technology) a Prototype Evaluation Report (PE-001). 
+3. Phase 3: Implementation (Development) 
+●​ Goal: Write, test, and integrate the code. 
+●​ Activities: Agile Sprints (2-week cycles), daily stand-ups, code review (mandatory peer 
+review for all merges), unit testing. 
+●​ Gate: All code must pass automated security scanning and static analysis before 
+merging to the main branch. 
+4. Phase 4: Testing & Quality Assurance (QA) 
+●​ Goal: Validate functionality, performance, and stability. 
+●​ Environments: Development Integration Staging. 
+●​ Activities: Regression testing, load testing (for performance-critical features), security 
+penetration testing (for external-facing features). 
+●​ Gate: QA Lead signs off on the Release Candidate after verifying all Acceptance Criteria 
+in the PRD are met and no P1/P0 bugs remain. 
+5. Phase 5: Deployment & Release 
+●​ Goal: Deploy the software to the production environment. 
+●​ Activities: Follow the Release Management Process, perform phased/canary 
+deployments, notify stakeholders. 
+
+●​ Gate: Change Advisory Board (CAB) approval is required for all non-standard 
+production changes. 
+6. Phase 6: Maintenance & Iteration 
+●​ Goal: Monitor performance, fix bugs, and gather user feedback. 
+●​ Activities: Monitoring SLOs, managing technical debt (using the TD framework), 
+analyzing user feedback (PF-001). 
+●​ Cycle: Insights gained feed directly back into Phase 1 (Planning) for the next iteration.

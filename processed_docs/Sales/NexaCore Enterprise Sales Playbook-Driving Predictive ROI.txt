@@ -1,0 +1,95 @@
+NexaCore Enterprise Sales Playbook: 
+Driving Predictive ROI 
+Document ID: SAL-PB-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Sales 
+1. Our Sales Methodology: The Value Blueprint 
+NexaCore utilizes a Challenger-based, Value-Driven Methodology. Our sales team doesn't 
+just respond to needs; we teach prospects about unrecognized problems, tailor our solution 
+to their specific P&L impact, and take control of the sale process. 
+Phase 
+Objective 
+Key Activities 
+Required Asset 
+I. Discovery & 
+Education 
+(0-20%) 
+Uncover the 
+economic drivers, 
+challenge status 
+quo thinking, and 
+qualify the fit. 
+Automation Audit 
+Call, Identify key 
+stakeholders, Initial 
+Nexa-BANT check. 
+Discovery Call 
+Framework, Needs 
+Analysis 
+Questionnaire. 
+II. Solution Vision 
+& Alignment 
+(20-40%) 
+Present a tailored 
+solution that 
+quantifies the 
+projected ROI. 
+Secure 
+commitment to 
+change. 
+Custom Demo 
+focusing on 1-2 key 
+workflows, Internal 
+Champion 
+mapping. 
+Value Projection 
+Template, 
+Customized Pitch 
+Deck. 
+III. Validation & 
+Business Case 
+(40-60%) 
+Navigate the 
+consensus buying 
+process, secure 
+technical validation, 
+and build the 
+formal business 
+case. 
+Technical 
+deep-dive with 
+Solution Engineers, 
+Legal/Procurement 
+engagement. 
+Proof of Value 
+(POV) Plan, 
+Security 
+Compliance Report. 
+IV. Negotiation & 
+Close (60-100%) 
+Finalize terms, 
+secure signatures, 
+and ensure a 
+Deal Review Form 
+submission, 
+Contract 
+Standard Sales 
+Agreement Terms 
+Sheet. 
+
+seamless handover 
+to the Customer 
+Success team. 
+negotiation. 
+2. Ideal Customer Profile (ICP) Snapshot 
+Our primary focus is on enterprises with >$500M in annual revenue that rely on complex, 
+high-volume internal workflows (e.g., Financial Services, Logistics, Large-Scale 
+Manufacturing). 
+●​ Primary Buyer Persona: VP of Operations, Head of Digital Transformation. 
+●​ Critical Pain Points: High labor costs in data processing, low predictive model accuracy, 
+regulatory compliance risk. 
+3. Mandatory Deal Review (40%+ Stage) 
+Before advancing a deal past the 40% stage in the CRM, the Account Executive (AE) must 
+complete and submit the Deal Review and Approval Form to their Regional Sales Director. 
+This ensures alignment on pricing, scope, and technical viability.

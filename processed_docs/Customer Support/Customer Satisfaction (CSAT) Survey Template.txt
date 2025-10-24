@@ -1,0 +1,30 @@
+Customer Satisfaction (CSAT) Survey 
+Template 
+Usage: Emailed immediately after a ticket is marked as Resolved. 
+Goal: Measure the client's satisfaction with the interaction and the agent's performance. 
+Part 1: Resolution and Outcome 
+1. Was your issue completely resolved by NexaCore Support? 
+●​ [ ] Yes, fully resolved. 
+●​ [ ] Partially resolved (A workaround was provided). 
+●​ [ ] No, the issue remains unresolved. 
+2. How satisfied are you with the final solution provided? 
+●​ 1 (Very Dissatisfied) 
+●​ 2 (Dissatisfied) 
+●​ 3 (Neutral) 
+●​ 4 (Satisfied) 
+●​ 5 (Very Satisfied) 
+3. Did you receive a clear explanation of the root cause of the issue? 
+●​ [ ] Yes 
+●​ [ ] No 
+Part 2: Agent Performance 
+4. How would you rate the agent's technical knowledge regarding the product? 
+●​ 1 (Lacked knowledge) to 5 (Deep expert) 
+5. How would you rate the agent’s speed and responsiveness? 
+●​ 1 (Very Slow) to 5 (Very Fast/Responsive) 
+6. How would you rate the agent’s level of empathy and professionalism? 
+●​ 1 (Very Unprofessional) to 5 (Highly Professional and Empathetic) 
+Part 3: Open Feedback (Optional) 
+7. Do you have any suggestions on how we can improve our support service? 
+[Text Box for Open Feedback] 
+Thank you for taking the time to provide feedback. Your response directly contributes to 
+improving our service quality and meeting our Enterprise SLA commitments.

@@ -1,0 +1,101 @@
+Financial Forecasting Report - 
+Operations CAPEX & OPEX (Q4 2025) 
+Department: Operations (FinOps) 
+Date: 2025-10-01 
+Goal: Forecast operational expenditures (OPEX) and capital expenditures (CAPEX) for Q4 to 
+inform the annual budget finalization. 
+1. Operational Expenditure (OPEX) Forecast 
+OPEX includes recurring costs critical for running the business (cloud subscriptions, support 
+contracts, rent, utilities). 
+Expense Category 
+Q3 Actual Spend 
+($) 
+Q4 Forecast ($) 
+Variance 
+Rationale 
+Cloud Services 
+(AWS/GCP) 
+2,000,000 
+2,150,000 
+ due to new client 
+acquisition scaling 
+and increased AI 
+model training load. 
+Managed Services 
+& Licenses 
+350,000 
+360,000 
+Minor increase for 
+new security 
+scanning 
+subscription. 
+Facility/Utilities 
+(Dubai HQ) 
+120,000 
+120,000 
+Stable. 
+Staffing Costs 
+(Ops Team) 
+400,000 
+400,000 
+Stable (no planned 
+Q4 hires). 
+Travel & Training 
+10,000 
+25,000 
+Increase due to 
+mandatory training 
+for SRE team on 
+new CI/CD 
+platform. 
+Total OPEX 
+2,880,000 
+3,055,000 
++6.08% 
+
+2. Capital Expenditure (CAPEX) Forecast 
+CAPEX includes large, one-time purchases (assets) expected to have a lifespan greater than 
+one year. 
+Item 
+Q4 Forecast ($) 
+Justification 
+Project Name 
+Server Room UPS 
+Replacement 
+8,000 
+Replacement of 
+aged UPS system in 
+HQ Server Room 
+(Mandatory). 
+Facility Upgrade 
+Riyadh Office 
+Initial Hardware 
+45,000 
+Purchase of 
+networking gear 
+and 15 workstations 
+for the new KSA 
+office. 
+KSA Expansion 
+Development 
+Workstations 
+12,000 
+Purchase of 4 
+high-spec 
+workstations for 
+the R&D team's AI 
+modeling. 
+R&D Support 
+Total CAPEX 
+65,000 
+ 
+ 
+3. Mitigation Strategy (High OPEX) 
+The forecasted increase in cloud spend is a risk. We must focus on the following to prevent 
+further cost escalation: 
+1.​ Action: Expedite the purchase of $[Amount] in Reserved Instances (RIs) in October to 
+lock in discounted rates for predictable loads. 
+2.​ Action: Dedicate 10 hours per week of SRE time to automated resource rightsizing 
+across non-production environments. 
+Conclusion: The Q4 increase in OPEX is manageable, primarily driven by core business 
+scaling. The planned CAPEX for the KSA office is necessary for regional growth.

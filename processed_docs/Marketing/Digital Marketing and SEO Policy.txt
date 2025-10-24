@@ -1,0 +1,28 @@
+Digital Marketing and SEO Policy 
+Document ID: MKT-DMP-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Marketing - Digital 
+1. Channels and Responsibility 
+NexaCore will primarily focus on organic search (SEO), paid search (PPC), and professional 
+networking platforms (e.g., LinkedIn). Direct display advertising is a secondary channel. 
+2. Search Engine Optimization (SEO) Standards 
+●​ Technical SEO: Mandatory use of clean, canonical URLs, optimized meta descriptions, 
+and structured data markup (JSON-LD) for key pages (pricing, product). 
+●​ Keyword Cannibalization: Content teams must audit existing rankings before targeting 
+new keywords to prevent internal competition. 
+●​ Link Building: All external link acquisition (backlinks) must be organic, 
+relationship-driven, and adhere strictly to Google's Webmaster Guidelines. Black-hat 
+techniques (purchasing links, link farms) are strictly prohibited. 
+●​ Core Vitals: The website must maintain "Good" ratings for all Core Web Vitals to ensure 
+optimal user experience and ranking performance. 
+3. Paid Media (PPC) Governance 
+●​ Budget Approval: All paid media budgets exceeding [USD $10,000] per month require 
+VP of Marketing approval. 
+●​ Compliance: Advertising copy must be truthful, non-misleading, and comply with all 
+local advertising standards and the Brand Voice Standard. 
+●​ Tracking: Mandatory use of unique tracking URLs (UTMs) and conversion tracking across 
+all campaigns for accurate ROI measurement. 
+4. Compliance Check 
+All digital campaigns and landing pages must be reviewed for Data Privacy compliance, 
+specifically regarding cookie consent notices and lead capture forms, before launch.

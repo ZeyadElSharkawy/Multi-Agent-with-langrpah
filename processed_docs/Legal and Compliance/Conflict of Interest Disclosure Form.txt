@@ -1,0 +1,56 @@
+Conflict of Interest Disclosure Form 
+Document ID: LC-COIF-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Legal & HR 
+Instructions: All Employees must disclose any situation, transaction, or relationship that 
+could reasonably give rise to an actual or potential Conflict of Interest (CoI). Failure to disclose 
+may result in disciplinary action up to and including termination. 
+1. Employee Details 
+Field 
+Input 
+Employee Name: 
+ 
+Employee ID: 
+ 
+Department: 
+ 
+Date of Disclosure: 
+ 
+2. Nature of Potential Conflict 
+●​ Type of Conflict: 
+○​ Outside Employment or Consulting 
+○​ Financial Interest in a Competitor, Client, or Vendor 
+○​ Close Personal Relationship with a Business Associate or Subordinate 
+○​ Acceptance of Significant Gifts/Entertainment 
+○​ Other (Describe below) 
+●​ Detailed Description of the Situation: 
+○​ Please describe the parties involved, the nature of the relationship, and why you 
+believe it may constitute a conflict. 
+○​ 
+3. Financial Interest Details (if applicable) 
+Entity Name 
+Relationship 
+(Competitor/Clien
+t/Vendor) 
+Financial Interest 
+Type (e.g., Stock 
+Ownership, Debt) 
+Value/Percentage 
+
+ 
+ 
+ 
+ 
+4. Declaration and Review 
+I declare that the information provided is accurate and complete to the best of my knowledge. 
+I understand that I must abstain from participating in any business decision directly related to 
+the disclosed conflict until I receive written clearance from the Compliance Officer. 
+Employee Signature: _________________________ Date: 
+Compliance Officer Review: 
+●​ Decision:​
+Cleared​
+Managed (Conditions Apply)​
+Conflict Requires Termination/Change 
+●​ Mitigation Plan: 
+●​ Compliance Officer Signature: _________________________ Date:

@@ -1,0 +1,92 @@
+Internal Compliance Program Outline 
+(FY 2026) 
+Document ID: LC-ICO-2026.01 
+Version: 1.0 
+Period: Fiscal Year 2026 
+Prepared By: Compliance Officer 
+1. Program Objective 
+To establish a proactive, risk-based approach to compliance, ensuring NexaCore operates 
+ethically and legally across all jurisdictions, with a focus on mitigating risks related to data 
+security, anti-corruption, and intellectual property. 
+2. Core Compliance Pillars (FY 2026) 
+Pillar 
+Focus Area 
+Key Activity 
+(Q1-Q4) 
+Metric of Success 
+Regulatory 
+Compliance 
+MENA Data 
+Protection 
+Quarterly legal 
+review of 
+KSA/Egypt 
+regulations. 
+Zero regulatory 
+fines or breaches 
+related to data 
+localization. 
+Anti-Corruption 
+(ABC) 
+Third-Party Risk 
+Implement 
+mandatory due 
+diligence for all 
+high-risk vendors 
+(see Vendor Due 
+Diligence Form). 
+100% of high-risk 
+vendors screened 
+and approved. 
+Internal Controls 
+Financial Integrity 
+Quarterly audit of 
+expense claims 
+(T&E) and 
+segregation of 
+duties (SoD) in 
+Finance. 
+Zero material 
+weaknesses 
+reported by Internal 
+Audit. 
+Training & 
+Awareness 
+Policy 
+Dissemination 
+Mandatory annual 
+training for all 
+employees on the 
+95% employee 
+completion rate of 
+compliance 
+
+Code of Conduct 
+and Data Privacy. 
+training. 
+3. Internal Audit Schedule (FY 2026) 
+Quarter 
+Audit Focus 
+Responsible Department 
+Q1 
+Expense Reimbursement & 
+Travel Policy Compliance 
+Finance/Internal Audit 
+Q2 
+IT Access Controls and 
+Cloud Environment Security 
+IT Security/Internal Audit 
+Q3 
+Revenue Recognition and 
+Contract Management 
+(MSA adherence) 
+Accounting/Legal 
+Q4 
+Intellectual Property and 
+Open Source License 
+Usage 
+R&D/Legal 
+4. Reporting 
+The Compliance Officer will provide a quarterly report on compliance status, identified risks, 
+and remediation efforts to the Executive Committee and the Board of Directors' Audit 
+Committee.

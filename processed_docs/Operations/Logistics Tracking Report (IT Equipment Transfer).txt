@@ -1,0 +1,147 @@
+Logistics Tracking Report (IT Equipment 
+Transfer) 
+Project: KSA Regional Expansion - New Riyadh Office IT Setup 
+Date: 2025-10-15 
+Tracking Number: KSA-LOG-2025-10-004 
+Logistics Partner: [Regional Logistics Vendor] 
+1. Shipment Manifest Summary 
+Item ID 
+Descriptio
+n 
+Quantity 
+Serial 
+Number 
+Range 
+Destinatio
+n 
+Notes 
+IT-001 
+10GbE 
+Network 
+Switch 
+(Cisco) 
+2 
+SN-1001 to 
+SN-1002 
+Riyadh 
+Office 
+(Data 
+Closet) 
+Critical for 
+core 
+network. 
+IT-002 
+UPS Unit 
+(Server 
+Grade) 
+1 
+SN-2500 
+Riyadh 
+Office 
+(Data 
+Closet) 
+Mandatory 
+backup 
+power. 
+IT-003 
+Workstation
+s (Dev 
+Team) 
+15 
+SN-3001 to 
+SN-3015 
+Riyadh 
+Office 
+(Desks) 
+Pre-configu
+red with 
+standard 
+images. 
+IT-004 
+Multi-functi
+on Printer 
+1 
+SN-4001 
+Riyadh 
+Office 
+(Shared) 
+Standard 
+office 
+equipment. 
+2. Tracking Timeline 
+Date 
+Time (AST) 
+Location / 
+Status 
+Action / 
+Detail 
+Notes 
+2025-10-15 
+10:00 
+Dubai HQ 
+Warehouse 
+Package 
+Secured and 
+Tamper-eviden
+t seals applied 
+
+Sealed. 
+Verified all 
+serial numbers 
+against the 
+manifest. 
+to all boxes. 
+2025-10-15 
+14:00 
+Customs 
+Clearance 
+(UAE Exit) 
+Documents 
+submitted. 
+Awaiting 
+export 
+approval. 
+Delay of 2 
+hours due to 
+paper work. 
+2025-10-16 
+08:00 
+En Route to 
+Riyadh 
+Shipment is on 
+the road, 
+estimated 
+arrival . 
+ 
+2025-10-17 
+11:00 
+Riyadh 
+Customs 
+Customs Hold 
+for 
+Inspection. 
+Waiting for 
+local IT team 
+to coordinate 
+release. 
+High priority to 
+clear customs. 
+2025-10-18 
+15:30 
+Riyadh Office 
+Delivered. All 
+boxes received 
+by [Local IT 
+Lead Name]. 
+Physical 
+inspection of 
+seals 
+completed and 
+confirmed 
+intact. 
+3. Receiving Sign-Off 
+I, the undersigned, confirm the receipt of all items listed in the manifest (Section 1). I have 
+verified that all tamper-evident seals are intact and that the equipment appears undamaged. 
+Recipient Name (Riyadh): [Local IT Lead Name] 
+Date & Time of Receipt: [YYYY-MM-DD HH:MM] 
+Signature: _________________________

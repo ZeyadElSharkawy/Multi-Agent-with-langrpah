@@ -1,0 +1,101 @@
+NexaCore Customer Support Handbook 
+Department: Customer Support & Success 
+Version: 2.1 
+Date Issued: 2025-11-01 
+Prepared By: Head of Customer Support 
+1. Mission and Core Values 
+1.1 Support Mission Statement 
+To serve as the seamless extension of the NexaCore platform, providing rapid, accurate, and 
+empathetic technical assistance that enables our enterprise clients to maximize the value of 
+their AI automation workflows. 
+1.2 Core Support Principles 
+●​ Enterprise Empathy: Always understand the significant business impact of every issue. 
+A P1 incident for a client is a critical service disruption. 
+●​ Technical Authority: Become deep experts in our core technology (Workflow Engine, 
+API Gateway, AI Models). If you cannot solve it, you must know exactly who can. 
+●​ Proactive Resolution: Anticipate client needs. Don't just close the ticket; confirm the 
+root cause is fixed and provide documentation to prevent recurrence. 
+●​ Multilingual Competence: Serve our MENA clients with professionalism in both English 
+and Arabic, understanding local business context. 
+2. Channels and Operating Hours 
+Channel 
+Scope 
+Operating Hours (Dubai 
+Time, UTC+4) 
+Portal Ticket (Primary) 
+All requests (P2-P4) 
+ (Sunday 00:00 - Thursday 
+23:59) 
+Direct Phone Line 
+P1 Incidents only 
+ (On-call rotation) 
+In-App Chatbot 
+L0 Diagnostics & FAQ 
+ (Automated) 
+Dedicated Slack Channel 
+High-Value Clients (V-VIP) 
+ (Standard Business Hours) 
+3. The L0-L3 Support Tier Model 
+
+Tier 
+Role / Function 
+Focus Area 
+Escalation Point 
+L0 
+Automated Chatbot 
+& FAQ 
+Self-service 
+diagnostics, 
+general 
+information, basic 
+troubleshooting. 
+L1 Support Agent 
+L1 
+Support Agents 
+(First Line) 
+Triage, simple 
+configuration 
+errors, password 
+resets, basic API 
+usage questions. 
+Goal: Resolve of 
+tickets. 
+L2 Specialist 
+L2 
+Technical 
+Specialists 
+Complex workflow 
+debugging, 
+database query 
+assistance, initial 
+assessment of AI 
+model failure. 
+L3 R&D/SRE 
+L3 
+R&D / SRE 
+(Engineering) 
+Root cause analysis 
+(RCA), code fixes, 
+deployment of 
+patches, 
+large-scale 
+infrastructure 
+issues (P0/P1). 
+N/A (Responsible 
+for code fix) 
+4. Documentation and Knowledge Sharing 
+All agents are responsible for maintaining and improving the internal and external Knowledge 
+Base (KB). 
+●​ KB Policy: If you spend more than 1 hour solving a unique, repeatable problem, you must 
+write a KB article for it. 
+●​ Tone of Voice: Articles must be clear, concise, and structured with clear steps and visual 
+aids (screenshots/code blocks). Avoid informal language. 
+5. Agent Performance Metrics 
+
+Agents are evaluated based on the following key performance indicators (KPIs): 
+●​ First Contact Resolution (FCR) Rate: Percentage of tickets solved on the first 
+interaction (Target: ) 
+●​ Average Handle Time (AHT): Average time spent actively working on a ticket (Target: ) 
+●​ Customer Satisfaction Score (CSAT): Measured via post-interaction survey (Target: ) 
+●​ Time to Resolution (TTR) (Average): Total time from ticket open to close. Must comply 
+with the SLA.

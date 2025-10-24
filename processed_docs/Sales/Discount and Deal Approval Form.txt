@@ -1,0 +1,54 @@
+Discount and Deal Approval Form 
+Document ID: SAL-DRF-2025.01 
+Version: 1.0 
+Date Submitted: [Date] 
+Account Executive (AE): [AE Name] 
+1. Deal Summary (To be completed by AE) 
+Detail 
+Input 
+Client Name 
+ 
+Opportunity ID (CRM) 
+ 
+Total Net ARR (After Discount) 
+ 
+Subscription Tier 
+ 
+Standard List ARR (Before Discount) 
+ 
+Total Discount Percentage Requested 
+ 
+Approval Threshold Breached 
+[Yes / No] (If requested discount > 15%) 
+2. Business Justification (Mandatory) 
+Please explain why the requested discount is necessary to close this deal and how it aligns 
+with the long-term strategic value. 
+[Enter Detailed Justification Here - e.g., Multi-year commitment, competitive threat 
+(Atlas AI), reference client for a new vertical.] 
+3. Financial Impact Analysis 
+Metric 
+Calculation 
+Gross Margin Impact (%) 
+[X]% (Calculated by Finance) 
+Projected Customer Lifetime Value 
+(CLV) 
+[AED/USD Amount] 
+
+Risk Score 
+[Low / Medium / High] (Assessed by 
+Legal/Finance) 
+4. Approval Sign-Off (Required Sequence) 
+Approver Role 
+Signature / Date 
+Comments 
+Sales Director 
+ 
+ 
+VP of Sales 
+ 
+(Mandatory if Discount > 
+15%) 
+CFO / CEO 
+ 
+(Mandatory if Discount > 
+25%)

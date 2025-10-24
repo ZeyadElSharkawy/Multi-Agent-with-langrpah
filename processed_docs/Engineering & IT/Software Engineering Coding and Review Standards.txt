@@ -1,0 +1,40 @@
+Software Engineering Coding and 
+Review Standards 
+Document ID: IE-SCS-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: IT & Engineering - R&D 
+1. Goal 
+To ensure the delivery of high-quality, maintainable, secure, and performant code across all 
+product teams. 
+2. Code Quality and Style 
+●​ Linting and Formatting: Automated linting (e.g., ESLint, Black, Prettier) must be 
+enforced in the CI pipeline for all supported languages (Python, JavaScript/TypeScript, 
+Go). Code must conform to team-agreed style guides. 
+●​ Comments and Documentation: All public APIs, classes, and complex functions must 
+be documented with clear, concise inline comments and docstrings explaining purpose, 
+parameters, and return values. 
+●​ Readability: Code must be clear, simple, and self-documenting. Avoid excessive 
+abstraction or premature optimization. 
+3. Code Review (Pull Request) Process 
+●​ Mandatory Review: All code merged to main (or a release branch) requires approval 
+from a minimum of two qualified peers. 
+●​ Review Focus: Reviewers must check for: 
+○​ Functional correctness and test coverage. 
+○​ Adherence to security best practices (OWASP Top 10). 
+○​ Performance implications (e.g., N+1 query issues, complex loops). 
+○​ Documentation updates (READMEs, API specs). 
+●​ Size Limit: Pull Requests should be kept small (ideally < 300 lines of change) to facilitate 
+effective review. 
+4. Testing Requirements 
+●​ Unit Test Coverage: Mandatory minimum of 80% code coverage for all new feature 
+development and bug fixes, enforced in CI. 
+●​ Integration Tests: Critical application flows must be covered by integration tests that run 
+against the Staging environment. 
+●​ Security Testing: All new endpoints must pass SAST/DAST (Static/Dynamic Analysis) 
+
+scans run during the CI/CD pipeline. 
+5. Handling Technical Debt 
+Technical debt must be explicitly tracked in the backlog (e.g., JIRA). Teams must dedicate a 
+minimum of 20% of each sprint to addressing critical technical debt and refactoring activities 
+(per the Technical Debt Management Strategy).

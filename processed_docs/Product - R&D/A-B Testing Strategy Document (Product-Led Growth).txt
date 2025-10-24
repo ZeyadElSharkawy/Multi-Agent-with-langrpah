@@ -1,0 +1,84 @@
+A/B Testing Strategy Document 
+(Product-Led Growth) 
+Department: Product, UX, & Analytics 
+Objective: Standardize the methodology for running statistically significant A/B tests to 
+optimize conversion and feature adoption. 
+1. Core Principles 
+1.​ Hypothesis-Driven: Every test must start with a clear, measurable hypothesis (e.g., 
+"Changing the CTA button color to blue will increase trial sign-ups by ."). 
+2.​ Statistical Significance: All tests must run until they achieve statistical significance. Do 
+not end tests early. 
+3.​ Tiered Risk: Tests are categorized by risk to production stability and client experience. 
+High-risk tests (e.g., pricing changes, core workflow logic) require mandatory Ops 
+approval. 
+2. A/B Testing Workflow 
+Step 1: Hypothesis Formulation 
+●​ Template: "If we [change] the [element], then [metric] will [direction] because 
+[reason based on research]." 
+●​ Example: "If we change the initial setup wizard to include a pre-filled example 
+workflow, then first-week feature adoption will increase because users will have a 
+model to follow." 
+Step 2: Test Setup & Calculation 
+1.​ Metric Definition: Clearly define the Primary Metric (e.g., Click-Through Rate) and 
+Guardrail Metrics (e.g., Overall Service Latency). 
+2.​ Sample Size: Use the A/B testing calculator to determine the required sample size and 
+run time to achieve statistical significance, based on expected effect size. 
+○​ Note: Enterprise clients are grouped by region or segment for testing; avoid mixing 
+critical client traffic in early phases. 
+3.​ Test Deployment: R&D deploys the test using the feature flagging system (e.g., 
+Split/LaunchDarkly). 
+Step 3: Execution and Analysis 
+1.​ Monitoring: Operations monitors Guardrail Metrics for P1/P2 alerts during the entire test 
+duration. 
+2.​ Decision: Once significance is reached, the Product Manager makes the call: 
+○​ Winning Variant: Fully deploy the winning variant to of users. 
+○​ Inconclusive: Stop the test and document findings. 
+
+○​ Losing Variant: Document findings and kill the variant. 
+3. Experiment Tracker (Example) 
+Test ID 
+Hypothesi
+s 
+Primary 
+Metric 
+Required 
+Run Time 
+Status 
+Result 
+AB-005 
+Pricing 
+Page - Tier 
+Names 
+Trial-to-Pai
+d 
+Conversion 
+Rate 
+6 Weeks 
+Running 
+[Pending] 
+AB-006 
+Workflow 
+Editor - 
+Search Bar 
+Position 
+Time to 
+Launch 
+First 
+Workflow 
+4 Weeks 
+Complete 
+Variant B 
+(Top Right) 
+increased 
+success by 
+. 
+AB-007 
+AI Block 
+Tooltip 
+Content 
+Adoption 
+Rate of AI 
+Blocks 
+8 Weeks 
+Pending 
+[Pending]

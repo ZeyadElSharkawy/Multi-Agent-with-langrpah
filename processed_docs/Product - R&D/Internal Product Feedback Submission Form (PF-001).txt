@@ -1,0 +1,56 @@
+Internal Product Feedback Submission 
+Form (PF-001) 
+Purpose: To systematically capture and prioritize feedback, bug reports, and ideas from 
+internal teams (Sales, Support, Marketing, R&D). 
+Date of Submission: [YYYY-MM-DD] 
+Submitted By: [Name] 
+Department: [Sales / Support / Ops / R&D / Other] 
+1. Feedback Type 
+Please select the type of feedback you are submitting: 
+●​ [ ] Feature Request/Idea: Suggesting a new capability or product. 
+●​ [ ] Bug/Defect: Reporting a functional failure or error. 
+●​ [ ] Usability/UX Issue: Reporting confusion, poor design, or frustration with the user 
+interface. 
+●​ [ ] Competitive Insight: Reporting a feature a competitor has that we lack. 
+2. Details of Submission 
+Field 
+Details 
+Product Area Affected 
+[e.g., Reporting Dashboard, Workflow 
+Editor, API Gateway, Billing Portal] 
+Severity / Impact (1=Low, 5=Critical) 
+[Select 1-5] - How much does this impact a 
+core client's ability to use the product? 
+Detailed Description 
+[Describe the issue or idea clearly. Include 
+steps to reproduce the bug if applicable, or 
+the customer context for the feature 
+request.] 
+Screenshots / Attachments 
+[Link to any relevant screenshots, videos, 
+or log snippets.] 
+3. Justification (Mandatory for Feature Requests) 
+Field 
+Details 
+
+Client/Internal Pain Point 
+[Who is experiencing this pain point, and 
+why is it important now?] 
+Suggested Solution (Optional) 
+[If you have a solution in mind, briefly 
+describe it.] 
+Estimated Business Value 
+[e.g., Saves 5 hours/week for Support; 
+Needed to win Client X; Reduces cloud 
+cost.] 
+4. Product Team Review (Do Not Fill) 
+Field 
+Details 
+Prioritization Score 
+[Calculated by PM based on Impact, Effort, 
+and Strategic Alignment] 
+Assigned PRD/R&D Ticket 
+[JIRA/Asana Ticket ID] 
+Decision 
+[Scheduled for Next Sprint / Deferred / 
+Rejected (Reason: ...)]

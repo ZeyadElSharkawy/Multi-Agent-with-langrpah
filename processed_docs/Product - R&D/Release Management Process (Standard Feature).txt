@@ -1,0 +1,45 @@
+Release Management Process (Standard 
+Feature) 
+Department: R&D, Operations, Product, Marketing 
+Version: 3.0 
+Scope: Standard (non-emergency) deployment of major or minor features to the production 
+environment. 
+Phase 1: Planning and Approval (T-7 Days) 
+1.​ Release Candidate Selection: Product Manager (PM) selects approved feature 
+branches for the upcoming release train. 
+2.​ Release Plan Creation: R&D Lead creates the Release Plan Document (RPD), 
+including: affected services, new environment variables, necessary database migrations, 
+and rollback instructions. 
+3.​ CAB Review: The RPD is submitted to the Change Advisory Board (CAB) one week prior 
+to deployment. 
+○​ Go/No-Go: CAB provides final approval, checking for operational readiness, security 
+review completion, and impact assessment. 
+Phase 2: Staging and Pre-Flight Checks (T-3 Days) 
+1.​ Staging Deploy: The Release Candidate is deployed to the Staging environment 
+(staging.nexacore.com). 
+2.​ QA Sign-off: QA Team executes mandatory regression testing and the specific feature 
+test plan. The R&D Lead only proceeds with QA Sign-off confirmation. 
+3.​ Operations Readiness: Operations team pre-provisions necessary resources (e.g., new 
+database replicas, cloud functions) and confirms all new monitoring alerts are configured 
+and firing correctly in Staging. 
+Phase 3: Production Deployment (T-0 - Change 
+Window) 
+1.​ Notification: Operations sends an internal notification: "Production Deployment starting: 
+[Feature Name]." 
+2.​ Deployment (Phased): 
+○​ Canary Deployment: Deploy to of the production cluster (or 1 non-critical region). 
+○​ Monitor (15 minutes): Monitor key SLOs (latency, error rate). 
+○​ Full Rollout: If Canary is stable, deploy to the remaining . 
+3.​ Verification: Operations runs the pre-defined smoke test checklist to confirm basic 
+functionality post-deployment. 
+4.​ Completion: Operations sends final notification: "Deployment complete. Monitoring for 
+
+stabilization." 
+Phase 4: Post-Release Monitoring (T+0 to T+7 Days) 
+1.​ Hypercare: R&D and Operations teams maintain an elevated monitoring state 
+(Hypercare) for 48 hours following the release, focusing on the new feature's 
+performance. 
+2.​ Success Validation: Product Manager monitors the Success Metrics (KRs) defined in the 
+PRD for the first week to detect any immediate negative user impact. 
+3.​ Review: A mandatory Post-Release Review meeting is held (T+7 days) with Product and 
+R&D to discuss lessons learned and any technical debt created.

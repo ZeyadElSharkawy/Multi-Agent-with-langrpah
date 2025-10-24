@@ -1,0 +1,99 @@
+Business Continuity Plan (BCP) - IT 
+Systems (Tier 1) 
+Document ID: BCP-IT-CORE-002 
+Objective: Detail the plan to maintain or rapidly restore critical internal IT functions (Email, 
+Internal Network, VPN/SSO) following a localized disaster (e.g., Dubai HQ power failure). 
+1. Critical System List (Internal IT) 
+System 
+RTO Target 
+RPO Target 
+Backup 
+Strategy 
+Failover 
+Location 
+Corporate 
+Email/SSO 
+1 Hour 
+5 Minutes 
+Cloud-native 
+replication 
+(Microsoft 
+365/Google 
+Workspace). 
+Global Cloud 
+Region 
+(Outside 
+MENA) 
+Internal 
+VPN/Access 
+30 Minutes 
+N/A 
+Redundant 
+VPN 
+concentrators 
+in a secondary 
+regional cloud 
+zone. 
+[Secondary 
+Cloud Zone] 
+Internal 
+ERP/Finance 
+4 Hours 
+1 Hour 
+Daily snapshot 
+backups to 
+cold storage. 
+Secondary 
+Cloud Zone. 
+Internal File 
+Server 
+8 Hours 
+2 Hours 
+Continuous 
+synchronizatio
+n to cloud 
+storage 
+(OneDrive/Driv
+e). 
+Cloud Storage 
+2. Activation and Relocation Strategy (Localized 
+Disaster) 
+This plan is activated when the Dubai HQ is physically inaccessible or non-functional for more 
+
+than 4 hours (e.g., major power outage, fire, natural disaster). 
+1.​ Declaration: The Chief Operating Officer (COO) declares BCP Activation (Tier 1) and 
+notifies all staff via SMS/Emergency Email. 
+2.​ Relocation: All staff are instructed to work remotely or report to a pre-approved 
+alternate work site in Dubai/Sharjah (if available). 
+3.​ Critical Systems Check: Operations Team follows the BCP Activation checklist to verify 
+the accessibility of all critical systems (Section 1) from the remote locations. 
+3. IT Recovery Procedure (Loss of Server Room) 
+If the Dubai HQ Server Room is lost: 
+1.​ Networking: Switch internal DNS/DHCP services to the redundant cloud-based virtual 
+networking appliance. 
+2.​ File Servers: Initiate restoration of the Internal File Server snapshot to the cloud 
+environment. 
+3.​ User Support: IT Team immediately pivots to remote desktop support tools to assist 
+employees with connectivity issues. 
+4. BCP Testing Schedule 
+Test Type 
+Frequency 
+Date of Last 
+Test 
+Date of Next 
+Test 
+Participants 
+Tabletop 
+Walkthrough 
+Annual 
+2024-11-01 
+2025-11-01 
+Executive 
+Committee, 
+Ops, HR. 
+Live Remote 
+Access Test 
+Biannual 
+2025-06-01 
+2025-12-01 
+All Staff.

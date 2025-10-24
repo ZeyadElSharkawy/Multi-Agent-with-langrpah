@@ -1,0 +1,76 @@
+Capital Expenditure (CapEx) Approval 
+Form 
+Document ID: FN-CAPEX-2025.01 
+Version: 1.0 
+Date of Submission: [Date] 
+Submitting Department: [Department Name] 
+Project/Item Title: [e.g., New AI Model Training Server Cluster] 
+1. Expenditure Details 
+Field 
+Input 
+Total Estimated Cost (USD): 
+[Amount] 
+Depreciation Period (Years): 
+[e.g., 3 or 5] 
+Asset Type: 
+[ ] Hardware [ ] Software License 
+(Perpetual) [ ] Infrastructure [ ] Facility 
+Improvement 
+Vendor Name: 
+[Vendor Name] 
+Required By Date: 
+[Date] 
+Associated Budget Line Item: 
+[e.g., EN-INF-003 Cloud Migration] 
+2. Justification and Business Case 
+2.1. Project Overview 
+●​ Provide a brief, non-technical summary of the asset and its primary function.​
+[Justification Text] 
+2.2. Strategic Alignment 
+●​ How does this CapEx directly support NexaCore's mission or a core business objective 
+(e.g., scalability, security, product launch)?​
+[Alignment Text] 
+2.3. Financial Impact and ROI 
+●​ What are the measurable returns or cost savings associated with this investment?​
+[e.g., Reduces cloud compute costs by 20%; Enables a new product line projected to 
+
+generate $2M ARR in Year 1.]​
+[Financial Impact Text] 
+2.4. Alternatives Considered 
+●​ Why is this capital expenditure (purchase) preferred over leasing, utilizing existing assets, 
+or a lower-cost alternative?​
+[Alternatives Text] 
+3. Approval Flow 
+Role 
+Name 
+Signature 
+Date 
+Submitting 
+Manager 
+[Manager Name] 
+__________________
+_______ 
+[Date] 
+Department Head 
+[Head Name] 
+__________________
+_______ 
+[Date] 
+Head of IT/Ops 
+(Technical 
+Review) 
+[IT Head Name] 
+__________________
+_______ 
+[Date] 
+Head of Finance 
+(Financial Review) 
+[CFO/Head of 
+Finance Name] 
+__________________
+_______ 
+[Date] 
+Finance Office Use Only: 
+●​ Final Approval Status: [ ] Approved [ ] Denied [ ] Deferred 
+●​ ERP/Asset Tag: [Tag ID] 
+●​ Date Processed: [Date]

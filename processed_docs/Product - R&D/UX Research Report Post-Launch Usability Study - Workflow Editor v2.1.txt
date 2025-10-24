@@ -1,0 +1,55 @@
+UX Research Report: Post-Launch 
+Usability Study - Workflow Editor v2.1 
+Project: Workflow Editor Redesign (v2.1) 
+Researcher: [UX Specialist Name] 
+Date: 2025-09-20 
+Participants: 10 Enterprise Workflow Creators (5 UAE, 5 Remote) 
+1. Executive Summary 
+The v2.1 Workflow Editor successfully resolved of the navigation issues identified in v2.0. The 
+primary goal of reducing task completion time for the 'If/Then' Logic Block was met (a 
+reduction). However, a critical usability issue emerged regarding the discovery of new AI 
+blocks. 
+2. Methodology 
+●​ Type: Moderated, task-based usability testing (Remote via video conference). 
+●​ Tasks: Participants were given 5 specific tasks, including "Create a workflow that uses 
+the new sentiment analysis block to route emails." 
+●​ Metrics: Task Success Rate, Time on Task, and System Usability Scale (SUS). 
+3. Key Findings 
+Finding 3.1: Task Success (Positive) 
+●​ Result: Average Task Success Rate was (v2.0 was ). 
+●​ Conclusion: The new left-side navigation panel is effective and intuitive for existing 
+workflow blocks. 
+Finding 3.2: AI Block Discovery (Critical Pain Point) 
+●​ Observation: participants failed to find the new 'AI Content Summarization' block in 
+under 60 seconds. They expected the block to be in the "Data Transformation" section, 
+but it was located under the "Intelligence" section. 
+●​ Impact: New AI features are effectively hidden, limiting adoption. 
+●​ Recommendation: Rename the 'Intelligence' block category to 'AI & Data 
+Transformation' and/or add an "AI" tag that is searchable via the editor's search bar. 
+Finding 3.3: Mobile Responsiveness (Low Priority) 
+●​ Observation: All users primarily use the Editor on a desktop, but 3 users attempted to 
+check basic workflow status on a mobile tablet. The canvas rendering on tablet screens is 
+distorted. 
+●​ Recommendation: Address the mobile canvas rendering distortion for viewing 
+
+workflows in Q1 2026. Prioritize desktop experience for editing. 
+4. UX Action Items (Product Backlog) 
+Item 
+Priority 
+Owner 
+Target Resolution 
+Rename Category 
+P1 (Critical) 
+Product Team 
+Next Sprint (Within 
+2 weeks) 
+Add Search Tags 
+P1 (Critical) 
+R&D Lead 
+Next Sprint (Within 
+2 weeks) 
+Fix Tablet 
+Rendering 
+P3 (Low) 
+R&D Team 
+Q1 2026

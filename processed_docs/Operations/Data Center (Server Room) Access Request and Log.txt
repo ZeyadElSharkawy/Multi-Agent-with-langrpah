@@ -1,0 +1,94 @@
+Data Center (Server Room) Access 
+Request and Log 
+Document ID: FAC-ACCESS-001 
+Location: Dubai HQ - Server Room [1] 
+1. Access Request Details (To be completed by 
+Requester) 
+Field 
+Details 
+Requester Name: 
+[Employee Name] 
+Department: 
+[Department] 
+Date of Access: 
+[YYYY-MM-DD] 
+Time Window Requested: 
+From [HH:MM] to [HH:MM] AST 
+Access Duration (Max 4 Hrs): 
+[Total Hours] 
+Purpose of Access: 
+[Select One: Maintenance / Deployment / 
+Audit / Decommissioning / 
+Troubleshooting] 
+Detailed Task Description: 
+[Mandatory: e.g., Replace failed power 
+supply on Switch-003, Install new 
+firewalled network segment for R&D lab.] 
+Escort Required (Y/N): 
+[Y/N] (Non-Ops personnel require a 
+mandatory Ops escort) 
+Access Approved By: 
+[Head of Operations/SRE Lead Name] 
+Requester Signature: _________________________ Date: [Date] 
+2. Approvals 
+Approval Role 
+Name 
+Signature 
+Date/Time 
+
+Security/Facility 
+Mgr. 
+[Name] 
+ 
+[Date] 
+Head of 
+Operations 
+[Name] 
+ 
+[Date] 
+3. Access Log (To be completed at Time of Entry/Exit) 
+ATTENTION: This log MUST be signed by both the Accessor and the Escort (if 
+applicable) at the point of entry and exit. 
+Action 
+Accessor 
+Signature 
+Escort 
+Signature 
+Date 
+Time 
+Notes 
+(e.g., 
+Equipment 
+moved 
+in/out) 
+TIME IN 
+ 
+ 
+ 
+ 
+ 
+TIME OUT 
+ 
+ 
+ 
+ 
+ 
+4. Post-Access Review Checklist 
+Checklist Item 
+Status (Y/N/NA) 
+Notes 
+All equipment secured? 
+[Y/N] 
+ 
+Area cleaned and debris 
+removed? 
+[Y/N] 
+ 
+Server Room door fully 
+secured 
+(Locked/Alarmed)? 
+[Y/N] 
+ 
+Facility Manager 
+Sign-off: 
+_________________________

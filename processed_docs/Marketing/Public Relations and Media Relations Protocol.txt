@@ -1,0 +1,32 @@
+Public Relations and Media Relations 
+Protocol 
+Document ID: MKT-PRP-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Marketing - Communications 
+1. Objective 
+To manage NexaCore's external narrative, build relationships with key media and industry 
+analysts, and ensure message consistency. 
+2. Spokesperson Policy 
+●​ Authorized Spokespersons: Only the CEO, CTO, and VP of Marketing are authorized 
+to speak on behalf of the company regarding strategy, financial performance, and 
+sensitive matters. 
+●​ Technical Spokespersons: Select R&D Leads may speak on technical deep-dives (e.g., 
+MLOps), but must receive mandatory media training and adhere to pre-approved talking 
+points. 
+●​ Unauthorized Statements: Employees are strictly prohibited from commenting on 
+non-public company strategy, financials, legal matters, or client data to any external 
+media or analyst without explicit authorization. 
+3. Media Engagement Protocol 
+1.​ Inquiry Received: All media/analyst inquiries must be immediately forwarded to the 
+Head of Communications. 
+2.​ Vetting: Communications vets the reporter/analyst, topic, and deadline. 
+3.​ Preparation: Talking points are drafted, reviewed by Legal/Compliance, and briefed to 
+the authorized spokesperson. 
+4.​ Post-Interview: A record of the interview is maintained, and follow-up is handled by 
+Communications. 
+4. Crisis Communications 
+In the event of a significant incident (security breach, major outage, negative event), the 
+Crisis Communications Team (CEO, Legal, Head of Communications, CTO) takes 
+immediate control of all external messaging. The default response is "We are aware of the 
+situation, investigating actively, and will provide a verifiable update by [TIME]."

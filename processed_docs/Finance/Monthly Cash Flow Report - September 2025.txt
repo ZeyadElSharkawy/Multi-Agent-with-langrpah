@@ -1,0 +1,139 @@
+Monthly Cash Flow Report - September 
+2025 
+Document ID: FN-CFR-2025-09 
+Reporting Period: 2025-09-01 to 2025-09-30 
+Prepared By: Treasury Management Team 
+1. Executive Summary 
+September closed with a strong positive net cash flow of $1.85 Million, exceeding the 
+forecasted $1.5M due to accelerated collection of two key enterprise annual recurring revenue 
+(ARR) payments. Total cash reserves remain robust at $18.5 Million, providing a liquidity 
+runway of over 6 months, even accounting for Q4 CapEx deployments. 
+2. Cash Flow Statement (USD) 
+Category 
+Forecast 
+Actual 
+Variance 
+Notes 
+CASH 
+INFLOWS 
+ 
+ 
+ 
+ 
+Collections 
+from Clients 
+(A/R) 
+$6,500,000 
+$6,950,000 
++$450,000 
+Strong 
+collection 
+performance. 
+New 
+Financing/Inve
+stment 
+$0 
+$0 
+$0 
+No external 
+funding 
+sought. 
+Other Income 
+(Interest, FX) 
+$50,000 
+$55,000 
++$5,000 
+Higher interest 
+yield on 
+short-term 
+deposits. 
+Total Inflow 
+$6,550,000 
+$7,005,000 
++$455,000 
+ 
+CASH 
+OUTFLOWS 
+ 
+ 
+ 
+ 
+Payroll & 
+Benefits 
+($2,100,000) 
+($2,150,000) 
+-$50,000 
+Reflects 
+monthly 
+recruitment 
+
+additions. 
+Vendor 
+Payments 
+(A/P) 
+($1,800,000) 
+($1,755,000) 
++$45,000 
+Negotiated 
+60-day terms 
+for key 
+suppliers. 
+Cloud 
+Compute & 
+Data Costs 
+($900,000) 
+($950,000) 
+-$50,000 
+Higher model 
+training costs 
+than expected. 
+Capital 
+Expenditures 
+(CapEx) 
+($200,000) 
+($300,000) 
+-$100,000 
+Accelerated 
+purchase of 
+engineering 
+equipment. 
+Sales & 
+Marketing 
+Spend 
+($1,050,000) 
+($1,000,000) 
++$50,000 
+Marketing 
+campaign 
+costs slightly 
+deferred. 
+Total Outflow 
+($6,050,000) 
+($5,155,000) 
++$895,000 
+ 
+NET 
+MONTHLY 
+FLOW 
+$500,000 
+$1,850,000 
++$1,350,000 
+ 
+Opening Cash 
+Balance 
+$16,650,000 
+$16,650,000 
+ 
+ 
+Closing Cash 
+Balance 
+$17,150,000 
+$18,500,000 
+ 
+ 
+3. Action Items 
+1.​ A/R: Maintain aggressive follow-up on outstanding receivables to sustain inflow trend. 
+2.​ Cloud Costs: IT/Engineering to provide a detailed report on the $50k variance in 
+compute costs for Q4 optimization planning. 
+3.​ CapEx: Monitor Q4 CapEx pipeline (total $5M pending approval) to ensure cash liquidity 
+remains above $15M threshold.

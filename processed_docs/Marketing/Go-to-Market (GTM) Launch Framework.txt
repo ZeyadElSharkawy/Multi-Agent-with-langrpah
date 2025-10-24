@@ -1,0 +1,67 @@
+Go-to-Market (GTM) Launch Framework 
+Document ID: MKT-GTM-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Marketing, Product, Sales 
+1. Objective 
+To provide a standardized, cross-functional framework for the successful launch of new 
+NexaCore products, features, or major updates, ensuring maximum market impact. 
+2. Launch Tiers and Requirements 
+Tier 
+Description 
+Minimum 
+Preparation Time 
+Mandate 
+Tier 1 (New 
+Product/Major 
+Release) 
+Entry into a new 
+market category or 
+a fundamentally 
+new AI model. 
+90 Days 
+Full press release, 
+analyst briefing, 
+internal sales 
+training, dedicated 
+landing page. 
+Tier 2 (Major 
+Feature Update) 
+Significant 
+enhancement to an 
+existing product 
+with material 
+customer value. 
+45 Days 
+Blog 
+announcement, 
+customer email, 
+updated product 
+documentation, 
+internal sales 
+enablement. 
+Tier 3 (Minor 
+Update/Patch) 
+Small bug fixes, 
+minor UX 
+improvements, or 
+non-disruptive 
+backend changes. 
+7 Days 
+In-app 
+announcement or 
+short release notes. 
+3. Mandatory GTM Milestones (Tier 1) 
+1.​ Definition (D-90): Finalize ICP (Ideal Customer Profile), pricing, and packaging. Draft the 
+Market Requirements Document (MRD). 
+2.​ Internal Readiness (D-45): Complete Sales Training and finalize the Sales Playbook. 
+
+3.​ External Assets (D-15): Finalize all marketing collateral (website copy, pitch deck, press 
+release draft). Legal/Compliance approval secured. 
+4.​ Launch (D-0): Execution of all planned activities. Go-live of website changes. 
+5.​ Review (D+30): Conduct a Post-Launch Review focusing on initial pipeline generated, 
+website traffic, and key media mentions. 
+4. Ownership 
+The Product Marketing Manager (PMM) is the central owner of the GTM process, 
+responsible for driving the timeline and coordinating efforts across Engineering, Sales, and 
+Corporate Marketing.

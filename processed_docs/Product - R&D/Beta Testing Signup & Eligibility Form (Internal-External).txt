@@ -1,0 +1,91 @@
+Beta Testing Signup & Eligibility Form 
+(Internal/External) 
+Program: [e.g., Predictive AI Workflow Trigger (PAWT) Pilot] 
+Date: [YYYY-MM-DD] 
+Prepared By: Product Management 
+1. Applicant Details 
+Field 
+Details 
+Organization Name: 
+[If External Client, use Client Name] 
+Contact Name: 
+[Primary POC for the Beta] 
+Email: 
+[Contact Email] 
+Current NexaCore Subscription Tier: 
+[Basic / Pro / Enterprise - Must be 
+Enterprise for PAWT] 
+2. Technical Eligibility Criteria (Mandatory) 
+Criteria 
+Required Status 
+Applicant Status 
+(Y/N) 
+Notes 
+Workflow Volume 
+Must run 
+automated 
+workflows daily. 
+[Y/N] 
+Required for 
+adequate AI 
+training data and 
+load testing. 
+Regional Data 
+Must have primary 
+data residency 
+configured in the 
+MENA region 
+(UAE/KSA). 
+[Y/N] 
+Necessary to test 
+regional latency 
+and compliance. 
+Data Format 
+Must utilize 
+standard 
+JSON/REST API 
+input for of 
+[Y/N] 
+Legacy systems 
+using XML may be 
+excluded from this 
+beta. 
+
+workflows. 
+Commitment 
+Agree to the 
+8-week 
+commitment and 
+bi-weekly feedback 
+calls. 
+[Y/N] 
+ 
+3. Current Pain Point 
+Describe the most significant operational challenge your organization faces today that you 
+believe this new feature (PAWT) could solve. 
+[Applicant's Detailed Response] 
+4. Final Approval (Product Team Use Only) 
+Role 
+Name 
+Status 
+(Approved/Reject
+ed) 
+Date 
+Product Manager 
+[Name] 
+[Approved/Rejecte
+d] 
+[Date] 
+R&D/Tech Lead 
+[Name] 
+[Approved/Rejecte
+d] 
+[Date] 
+Reason for 
+Decision (If 
+Rejected): 
+[e.g., Does not 
+meet the minimum 
+workflow volume 
+requirement, risk 
+profile is too high.]

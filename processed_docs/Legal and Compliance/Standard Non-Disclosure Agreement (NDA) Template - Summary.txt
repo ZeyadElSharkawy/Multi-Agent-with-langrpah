@@ -1,0 +1,84 @@
+Standard Non-Disclosure Agreement 
+(NDA) Template - Summary 
+Document ID: LC-NDA-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Legal - Contracts 
+1. Purpose 
+This summary outlines the core terms of NexaCore's standard Mutual and Unilateral 
+Non-Disclosure Agreements (NDAs), used to protect Confidential Information (CI) when 
+exploring partnerships, vendor relationships, or major client pre-sales discussions. 
+2. Key Definitions and Clauses 
+Clause Title 
+NexaCore Standard 
+Requirement 
+Key Rationale 
+Confidential Information 
+(CI) 
+Broadly defined to include 
+technical data, know-how, 
+product roadmaps, source 
+code, AI model 
+architecture, pricing, and 
+business plans. CI must be 
+marked as "Confidential" 
+or, if oral, confirmed in 
+writing within [30 days]. 
+Ensures broad protection 
+of NexaCore’s core 
+intellectual property. 
+Exclusions from CI 
+Information that is already 
+public knowledge, 
+independently developed 
+without reference to the CI, 
+or legally received from a 
+third party. 
+Standard exclusion clauses 
+to make the NDA legally 
+enforceable. 
+Obligation of Receiving 
+Party 
+The Receiving Party must 
+use the CI only for the 
+defined "Purpose" and use 
+the same degree of care 
+(no less than reasonable) 
+Establishes the duty of 
+care and limits use to the 
+agreed purpose. 
+
+to protect it as they use for 
+their own confidential 
+information. 
+Term 
+The agreement term is 
+typically [2 years] from the 
+effective date. The 
+confidentiality obligations 
+survive the termination of 
+the NDA for a period of [5 
+years] (or indefinitely for 
+trade secrets). 
+Ensures protection of 
+sensitive information well 
+after discussions cease. 
+Return or Destruction 
+Upon termination or 
+request, the Receiving 
+Party must promptly return 
+or destroy all CI and certify 
+its destruction in writing. 
+Critical to prevent residual 
+knowledge and data 
+leakage. 
+Governing Law 
+Typically the laws of the 
+Dubai International 
+Financial Centre (DIFC). 
+Consistency with the 
+corporate MSA and ease of 
+enforcement from HQ. 
+3. Approval 
+All NDAs, especially those deviating from these standard terms or involving high-risk 
+jurisdictions, must be reviewed and signed by the Legal Counsel.

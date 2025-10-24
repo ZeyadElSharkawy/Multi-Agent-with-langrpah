@@ -1,0 +1,107 @@
+NexaCore Solutions Annual Performance 
+Review (APR) 
+Employee: [Employee Name] 
+Role: [Employee Job Title] 
+Department: [Department Name] 
+Review Period: [Start Date] - [End Date] 
+Reviewer: [Manager Name] 
+Date of Review: [Date] 
+Part 1: Performance Against Objectives (PAO) 
+Relate performance directly to the use of AI/automation tools and the company's "Simplifying 
+operations" mission. 
+Objective 
+Category 
+Target/Goal (from 
+previous review) 
+Manager Rating 
+(1-5) 
+Employee 
+Comments 
+Technical/Core 
+Skill 
+[E.g., Successfully 
+deploy 3 new AI 
+features in Q3/Q4.] 
+[Rating] 
+[Employee Input] 
+Automation & 
+Efficiency 
+[E.g., Reduce 
+manual workflow 
+steps for client 
+onboarding by 25% 
+using NexaCore 
+tools.] 
+[Rating] 
+[Employee Input] 
+Collaboration & 
+Teamwork 
+[E.g., Lead 
+cross-functional 
+documentation 
+efforts for the new 
+API v2 release.] 
+[Rating] 
+[Employee Input] 
+Client/Stakeholde
+r Focus 
+[E.g., Maintain 
+CSAT score of 
+90%+ across all 
+managed 
+accounts.] 
+[Rating] 
+[Employee Input] 
+
+Overall PAO Score (Manager): _________________________ 
+Part 2: Competency Assessment 
+Rate employee on core competencies (1=Needs Improvement, 5=Exceeds Expectations). 
+Competency Area 
+Rating 
+Manager Justification 
+Problem Solving 
+(AI-Centric) 
+[Rating] 
+Ability to analyze complex 
+enterprise problems and 
+propose AI/automation 
+solutions. 
+Adaptability & Learning 
+[Rating] 
+Ability to quickly learn new 
+programming languages, 
+cloud services, or AI 
+frameworks. 
+Communication & 
+Presentation 
+[Rating] 
+Clarity in presenting 
+technical or sales concepts 
+to internal and external 
+stakeholders. 
+Cultural Agility (MENA 
+Focus) 
+[Rating] 
+Effectiveness in navigating 
+diverse regional business 
+cultures and expectations. 
+Part 3: Development Plan & Next Steps 
+3.1. Strengths to Leverage 
+[Manager/Employee agreement on 3 key strengths.] 
+3.2. Areas for Development 
+[Specific skills or behaviors requiring focus. E.g., Advanced Python for Data Science, 
+Negotiation Skills.] 
+3.3. Training & Resources 
+Action Item 
+Target Completion Date 
+
+[E.g., Complete AWS Certified Cloud 
+Practitioner training.] 
+[Date] 
+[E.g., Bi-weekly 1:1 mentorship sessions 
+with Head of Product.] 
+[Ongoing] 
+Part 4: Sign-Off 
+Employee Signature: _________________________ Date: [Date] 
+Manager Signature: _________________________ Date: [Date] 
+HR Representative: _________________________ Date: [Date]

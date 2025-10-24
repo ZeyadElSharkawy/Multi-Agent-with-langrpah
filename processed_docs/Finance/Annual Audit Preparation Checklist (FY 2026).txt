@@ -1,0 +1,148 @@
+Annual Audit Preparation Checklist (FY 
+2026) 
+Audit Firm: [Auditor Name] 
+Audit Period: FY 2026 (Jan 1 - Dec 31, 2026) 
+Kick-off Date: [Date] 
+Prepared By: Financial Controller, [Controller Name] 
+Phase 1: Planning and Initial Documentation (Q4 2026) 
+Task 
+Status (Y/N/NA) 
+Responsible Team 
+Notes 
+1. Engagement 
+Letter Signed 
+[ ] 
+CFO/Legal 
+Finalize terms and 
+scope with the 
+audit firm. 
+2. Finalized Trial 
+Balance 
+[ ] 
+Accounting 
+Ensure all 
+month-end 
+adjustments are 
+posted. 
+3. Financial 
+Statements 
+Drafted 
+[ ] 
+Accounting 
+Draft P&L, Balance 
+Sheet, and Cash 
+Flow Statement. 
+4. Fixed Asset 
+Register Updated 
+[ ] 
+Finance/IT 
+All new CapEx 
+acquisitions tagged 
+and depreciated 
+correctly. 
+5. Entity Structure 
+Documentation 
+[ ] 
+Legal 
+Up-to-date legal 
+structure, including 
+all regional 
+subsidiaries. 
+6. Inventory of 
+Material 
+Contracts 
+[ ] 
+Legal/Sales 
+High-value client 
+contracts and 
+vendor 
+agreements. 
+
+Phase 2: Controls and Policy Review 
+Task 
+Status (Y/N/NA) 
+Responsible Team 
+Notes 
+7. Payroll/HR 
+Policy Review 
+[ ] 
+HR/Payroll 
+Confirm adherence 
+to local labor laws 
+and gratuity 
+calculations. 
+8. T&E 
+Compliance 
+Review 
+[ ] 
+Finance 
+Sample testing of 
+high-value 
+Expense 
+Reimbursement 
+Forms. 
+9. IT System 
+Access Logs 
+[ ] 
+IT/Engineering 
+Documentation of 
+access controls for 
+core financial 
+systems (ERP, 
+Payroll). 
+10. Revenue 
+Recognition 
+Policy 
+[ ] 
+Accounting 
+Evidence of 
+adherence to IFRS 
+15 (SaaS 
+subscription 
+model). 
+Phase 3: Fieldwork and Follow-up (Q1 2027) 
+Task 
+Status (Y/N/NA) 
+Responsible Team 
+Notes 
+11. A/R & A/P 
+Confirmations 
+Sent 
+[ ] 
+Accounting 
+Send confirmation 
+requests to top 10 
+vendors/clients by 
+value. 
+12. Legal 
+Representation 
+Letter 
+[ ] 
+Legal 
+Confirmation of no 
+undisclosed 
+litigation or 
+contingent 
+
+liabilities. 
+13. Supporting 
+Docs Organized 
+[ ] 
+All Teams 
+All supporting 
+documentation 
+(invoices, bank 
+statements, asset 
+purchases) indexed 
+in the central audit 
+folder. 
+14. FinTech/AI 
+Model Valuation 
+[ ] 
+R&D/Finance 
+Provide justification 
+for the valuation of 
+internal Intellectual 
+Property (AI 
+Models). 
+Deadline for Auditor Data Room Access: [Date]

@@ -1,0 +1,159 @@
+User Story Mapping: Enterprise 
+Onboarding - Technical Flow 
+Epic: Enterprise Client Onboarding (Q1 2026 Initiative) 
+Goal: Reduce manual IT/Ops time spent on client provisioning by 50%. 
+Date: 2025-10-15 
+User 
+Activity 
+(High-Leve
+l) 
+1. Initial 
+Contract 
+2. Identity 
+Setup 
+(SSO) 
+3. Data 
+Ingestion 
+4. First 
+Workflow 
+Launch 
+5. Ongoing 
+Manageme
+nt 
+User (IT 
+Director) 
+Sign 
+contract. 
+Set up user 
+sync. 
+Upload 
+historical 
+data. 
+Launch 1st 
+automation. 
+Monitor 
+usage. 
+ 
+Detailed 
+User 
+Stories 
+(Features) 
+ 
+ 
+ 
+ 
+ 
+Authentica
+tion 
+US-1: As 
+Admin, I 
+can register 
+a new 
+tenant ID in 
+the system. 
+US-2: As 
+Admin, I 
+can upload 
+the SAML 
+metadata 
+file to 
+enable 
+SSO. 
+ 
+ 
+US-9: As 
+Admin, I 
+can 
+force-log 
+out a 
+specific 
+user. 
+Data Setup 
+ 
+ 
+US-3: As 
+Admin, I 
+can use the 
+new upload 
+wizard to 
+ingest 
+historical 
+log files 
+(CSV). 
+ 
+US-10: As 
+Admin, I 
+can archive 
+old 
+ingestion 
+logs. 
+
+Configurat
+ion 
+ 
+US-4: As 
+Admin, I 
+can map 
+corporate 
+roles (e.g., 
+'Finance', 
+'HR') to 
+NexaCore 
+access 
+roles. 
+US-5: As 
+Admin, I 
+can 
+configure 
+the regional 
+data 
+residency 
+preference 
+(UAE/KSA). 
+US-6: As 
+Creator, I 
+can select a 
+pre-built 
+automation 
+template 
+(e.g., 
+Expense 
+Vetting). 
+US-11: As 
+Admin, I 
+can view 
+my current 
+cloud cost 
+usage by 
+department 
+tag. 
+Support/H
+elp 
+ 
+US-7: As 
+Admin, I 
+see an 
+actionable 
+error 
+message 
+when SSO 
+fails. 
+ 
+US-8: As 
+Creator, I 
+can click a 
+'Help' icon 
+to launch 
+the AI 
+Documenta
+tion 
+Assistant. 
+ 
+Technical 
+Debt 
+ 
+TD-1: Clean 
+up legacy 
+client 
+configurati
+on tables.

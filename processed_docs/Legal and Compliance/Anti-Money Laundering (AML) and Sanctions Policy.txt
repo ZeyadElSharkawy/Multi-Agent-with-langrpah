@@ -1,0 +1,35 @@
+Anti-Money Laundering (AML) and 
+Sanctions Policy 
+Document ID: LC-AML-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Legal & Finance 
+1. Policy Statement 
+NexaCore Solutions is committed to preventing its products or services from being used for 
+money laundering, terrorist financing, or other illegal activities. We strictly comply with all 
+applicable AML laws and international sanctions regimes (e.g., UN, US OFAC, EU, and local 
+UAE/GCC sanctions). 
+2. Customer Due Diligence (CDD) 
+●​ Required CDD: Before onboarding any new client (especially Enterprise clients), the 
+Sales and Legal teams must perform enhanced Customer Due Diligence (CDD). 
+●​ KYC (Know Your Customer) Documentation: Required documentation includes, but is 
+not limited to, official company registration documents, list of directors, and identification 
+of ultimate beneficial owners (UBOs) for private entities. 
+●​ Enhanced Due Diligence (EDD): EDD is mandatory for high-risk clients, including those 
+operating in high-risk jurisdictions, politically exposed persons (PEPs), or clients paying 
+via unusual methods. 
+3. Sanctions Compliance 
+●​ Screening: All prospective and existing clients, partners, and vendors must be screened 
+against relevant international and local sanctions lists (e.g., OFAC SDN List, UNSC). 
+●​ Prohibition: NexaCore is strictly prohibited from engaging in any transaction, directly or 
+indirectly, with any sanctioned entity, individual, or country, even if the transaction is 
+otherwise legal. 
+4. Reporting Suspicious Activity 
+Any Employee who suspects that a client or transaction may involve money laundering or 
+sanctions violations must immediately report the concern to the Compliance Officer. 
+●​ Tipping Off: Employees are strictly prohibited from informing the subject of a suspicious 
+transaction report (STR) that a report has been or will be filed. 
+●​ Record-Keeping: All CDD records and transaction data must be retained for a minimum 
+of [7 years] after the client relationship is terminated, as per UAE regulatory 
+
+requirements.

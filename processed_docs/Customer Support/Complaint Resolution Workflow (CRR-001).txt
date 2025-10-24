@@ -1,0 +1,39 @@
+Complaint Resolution Workflow 
+(CRR-001) 
+Department: Customer Support & Success 
+Objective: Provide a standardized, transparent process for handling and resolving 
+high-severity customer complaints that threaten retention or brand image. 
+Phase 1: Triage and Registration (L1 Agent) 
+1.​ Identification: L1 Agent identifies the ticket as a formal complaint (usually marked by 
+frustration, threats of contract termination, or repeated unresolved P2/P3 issues). 
+2.​ Registration: Register the complaint in the CRM system under the "Retention Risk" tag 
+and assign a Complaint Reference Number (CRN). 
+3.​ Acknowledgement: Send a personalized (non-templated) email to the client within 1 
+hour acknowledging the complaint, assuring them that a dedicated manager will take 
+over. 
+Phase 2: Dedicated Manager Ownership (L2/CSM) 
+1.​ Transfer: The ticket is immediately transferred to a dedicated L2 Specialist or the 
+assigned Customer Success Manager (CSM). 
+2.​ Internal Review (The 3 Whys): The owner conducts an internal review of the ticket 
+history and asks: 
+○​ Why did the issue occur? (Root Cause) 
+○​ Why was the previous resolution inadequate? (Process Failure) 
+○​ Why did the client feel the need to complain formally? (Communication/Empathy 
+Failure) 
+3.​ Contact: The owner contacts the client via phone call within 4 hours of ownership to 
+verbally apologize, confirm understanding of the issue, and set expectations for the 
+resolution plan. 
+Phase 3: Resolution and Internal Correction 
+1.​ Action Plan: The owner generates a concise, internal Action Plan detailing the steps 
+(technical fix, process change, or credit offer) needed to satisfy the client. 
+2.​ Execution: Technical fixes are prioritized by R&D/SRE (treated as a high-P2 issue). 
+3.​ Confirmation: Once the technical fix is deployed, the owner confirms resolution with the 
+client and seeks formal written sign-off ("Resolution Confirmed"). 
+Phase 4: Post-Mortem and Prevention 
+1.​ Root Cause Analysis (RCA): The owner documents the full RCA, focusing on the 
+process failures (Phase 2, Question 2). 
+2.​ Knowledge Base Update: If the issue was due to lack of information, a new KB article or 
+
+internal training must be created. 
+3.​ Process Improvement: The RCA is shared with the Head of Support to identify systemic 
+issues and prevent future recurrence of the same failure type.

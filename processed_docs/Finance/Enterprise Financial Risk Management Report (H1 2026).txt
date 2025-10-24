@@ -1,0 +1,140 @@
+Enterprise Financial Risk Management 
+Report (H1 2026) 
+Document ID: FN-RMR-2026-H1 
+Reporting Period: Jan 1, 2026 - June 30, 2026 
+Prepared By: Risk & Compliance Team 
+1. Executive Summary 
+Overall financial risk remains Moderate-Low. The primary risk exposure has shifted from 
+Liquidity Risk (mitigated by strong Q1 cash flow) to Foreign Exchange (FX) Risk due to 
+increased sales into non-USD pegged currencies (e.g., EGP, SAR) for the expansion into Egypt 
+and KSA. Technology risk is managed but remains high due to our reliance on proprietary AI 
+algorithms. 
+2. Key Risk Assessment Matrix 
+Risk 
+Category 
+Descriptio
+n 
+Likelihood 
+(L) 
+Impact (I) 
+Rating (L x 
+I) 
+Mitigation 
+Strategy 
+(H2 Focus) 
+Foreign 
+Exchange 
+(FX) Risk 
+Exposure to 
+fluctuating 
+EGP/SAR 
+rates 
+impacting 
+recognized 
+revenue/pro
+fit margins. 
+Moderate 
+(3) 
+High (4) 
+12 (High) 
+Implement 
+currency 
+hedging 
+strategies 
+(forward 
+contracts) 
+for all 
+non-USD 
+contracts 
+over 
+$500k. 
+Credit Risk 
+(A/R) 
+Major 
+enterprise 
+clients 
+delaying or 
+defaulting 
+on large 
+ARR 
+payments. 
+Low (2) 
+High (4) 
+8 
+(Moderate) 
+Maintain 
+strict credit 
+vetting; 
+implement 
+credit 
+insurance 
+for 
+contracts 
+
+exceeding 
+$5M TCV. 
+Cloud Cost 
+Volatility 
+Unexpecte
+d spikes in 
+compute 
+costs due 
+to 
+inefficient 
+AI model 
+scaling or 
+platform 
+usage. 
+Moderate 
+(3) 
+Moderate 
+(3) 
+9 
+(Moderate) 
+Implement 
+FinOps 
+governance 
+(cost 
+control 
+automation
+) and strict 
+usage 
+quotas with 
+Engineering
+. 
+Regulatory 
+Risk 
+New 
+regional 
+data 
+localization 
+laws 
+requiring 
+unforeseen 
+data center 
+investments
+. 
+Low (2) 
+High (4) 
+8 
+(Moderate) 
+Proactively 
+monitor 
+KSA/Egypt 
+regulations; 
+allocate a 
+contingenc
+y fund in 
+the CapEx 
+budget. 
+3. Financial Controls Status 
+●​ Compliance Audit: Q1 internal controls review showed zero material weaknesses. 
+●​ Segregation of Duties (SoD): The implementation of automated two-factor 
+authentication for high-value payments has successfully separated the duties of 
+payment initiation and final release. 
+●​ Fraud: No incidents of internal or external payment fraud reported in H1 2026. 
+4. Recommendations 
+1.​ Treasury: Immediately execute FX hedging for the top 5 EGP and SAR-denominated 
+contracts. 
+2.​ IT/Engineering: Finalize and deploy the FinOps automation tool by the end of Q3 to 
+reduce cost volatility risk.

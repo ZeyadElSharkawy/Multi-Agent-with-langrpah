@@ -1,0 +1,75 @@
+Quarterly Sales Performance Report 
+(QSR) Template 
+Document ID: SAL-QSR-2025.01 
+Reporting Period: Q[X] FY[XX] 
+Date Prepared: [Date] 
+Prepared By: Sales Operations Analyst 
+1. Executive Summary 
+●​ Total Quarterly ARR Booked: [AED/USD Amount] (vs. Target: [AED/USD Target]) 
+●​ Total Pipeline Coverage (Start of Q[X+1]): [X]x 
+●​ Key Insight: [Brief 1-2 sentence summary of primary success (e.g., Enterprise deal 
+velocity increased) or challenge (e.g., High MQL-to-SQL drop-off).] 
+2. Performance Against Targets 
+Metric 
+Q[X] Target 
+Q[X] Actual 
+Variance 
+Notes 
+New ARR 
+Booked 
+[Target 
+Amount] 
+[Actual 
+Amount] 
+[+/- %] 
+ 
+Customer 
+Expansion 
+ARR 
+[Target 
+Amount] 
+[Actual 
+Amount] 
+[+/- %] 
+(Upsell/Cross-
+sell) 
+Average Deal 
+Size (ADS) 
+[Target 
+Amount] 
+[Actual 
+Amount] 
+[+/- %] 
+ 
+Sales Cycle 
+Length (Days) 
+[Target Days] 
+[Actual Days] 
+[+/- Days] 
+(From Stage 1 
+to Closed 
+Won) 
+New MQLs 
+Processed 
+[Target Count] 
+[Actual Count] 
+[+/- %] 
+ 
+3. Pipeline Analysis 
+●​ Pipeline Health by Stage: 
+○​ Stage 1-2 (Early): [X]% of Total Pipeline 
+○​ Stage 3-4 (Mid/Late): [Y]% of Total Pipeline 
+●​ Top 3 Largest Opportunities in Pipeline: 
+
+1.​ [Opportunity Name] - [Amount] - [AE Name] 
+2.​ [Opportunity Name] - [Amount] - [AE Name] 
+3.​ [Opportunity Name] - [Amount] - [AE Name] 
+4. Headcount & Training 
+●​ Total AEs: [X] 
+●​ Ramp Time (Average): [X] Months 
+●​ Training Needs Identified: [e.g., Advanced financial modeling, Negotiation skills]. 
+5. Key Recommendations for Q[X+1] 
+1.​ [Recommendation 1]: E.g., Focus SDR efforts exclusively on the Logistics vertical to 
+increase MQL quality. 
+2.​ [Recommendation 2]: E.g., Standardize the Value Projection Template to reduce 
+late-stage deal negotiation time.

@@ -1,0 +1,78 @@
+Service Level Agreement (SLA) Template 
+- NexaCore Solutions 
+Document ID: SLA-CORE-ENT-2025 
+Client Name: [Client Name] 
+Effective Date: [Start Date] 
+Service Covered: NexaCore AI Workflow Automation Platform 
+1. Service Availability Guarantee (Uptime) 
+NexaCore guarantees a minimum level of Service Availability, measured monthly, excluding 
+scheduled maintenance. 
+1.1 Availability Metric 
+Guaranteed Monthly Availability (SLA): 
+Monthly Uptime Percentage 
+Maximum Downtime Allowed per Month 
+ 
+ Minutes 
+ (Optional Add-on) 
+ Minutes 
+1.2 Scheduled Maintenance 
+●​ Scheduled Maintenance Windows are defined as the first Sunday of every month, 
+between 12:00 AM and 4:00 AM UTC. 
+●​ Scheduled downtime does not count toward Unscheduled Downtime for the purposes of 
+calculating the SLA. 
+2. Service Credits (SLA Breach Compensation) 
+If NexaCore fails to meet the Guaranteed Monthly Availability (99.95%), the Client is eligible to 
+receive Service Credits against their monthly subscription fees as follows: 
+Monthly Availability Achieved 
+Service Credit Percentage 
+ to 
+ of Monthly Fee 
+ to 
+ of Monthly Fee 
+Below 
+ of Monthly Fee 
+
+●​ Note: Service Credits are capped at of the Client’s total monthly recurring charges for 
+the affected month. 
+3. Incident Response and Support 
+Priority Level 
+Description 
+Target Response 
+Time (Initial 
+Triage) 
+Target Resolution 
+Time (MTTR) 
+P1: Critical 
+Full production 
+service outage or 
+major data loss. 
+< 15 Minutes 
+(24/7/365) 
+Best Effort, 
+followed by P1 
+Incident Runbook. 
+P2: High 
+Significant service 
+impairment for 
+multiple users. 
+< 30 Minutes 
+(Business Hours) 
+Defined by Incident 
+Commander during 
+Triage. 
+P3: Medium 
+Minor service issue; 
+workflow issues. 
+< 2 Hours (Business 
+Hours) 
+Defined by Incident 
+Commander during 
+Triage. 
+●​ Business Hours: 09:00 - 18:00 AST (Arabia Standard Time), Sunday to Thursday. 
+●​ Regional Support: Primary support language is English, with Arabic language support 
+available during Business Hours. 
+4. Data Backup and Recovery 
+●​ Recovery Point Objective (RPO): NexaCore maintains an RPO of 1 hour for all customer 
+data. 
+●​ Recovery Time Objective (RTO): NexaCore commits to an RTO of 4 hours for the 
+restoration of critical systems following a major failure.

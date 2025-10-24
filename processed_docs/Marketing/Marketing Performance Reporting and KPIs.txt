@@ -1,0 +1,80 @@
+Marketing Performance Reporting and 
+KPIs 
+Document ID: MKT-KPI-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Marketing, Finance 
+1. Objective 
+To define the essential metrics used to measure marketing efficiency, contribution to revenue, 
+and overall market impact. 
+2. Key Performance Indicators (KPIs) 
+KPI Category 
+Metric 
+Definition 
+Target Baseline 
+Pipeline 
+Contribution 
+Marketing 
+Originated 
+Pipeline ($) 
+Value of new 
+pipeline generated 
+directly from 
+Marketing-sourced 
+leads (MQLs). 
+> 30% of total 
+pipeline. 
+Efficiency 
+Customer 
+Acquisition Cost 
+(CAC) 
+Total marketing and 
+sales cost divided 
+by the number of 
+new customers 
+acquired. 
+Maintain CAC < 1/3 
+of projected 
+Customer Lifetime 
+Value (CLV). 
+Lead Quality 
+MQL-to-SQL 
+Conversion Rate 
+(%) 
+Percentage of 
+MQLs that are 
+accepted by Sales 
+and converted to 
+SQLs. 
+> 15% 
+Brand/Digital 
+Organic Search 
+Traffic (%) 
+Percentage of 
+website sessions 
+coming from 
+organic (non-paid) 
+search. 
+> 50% 
+
+Content Impact 
+Total Gated Asset 
+Downloads 
+Number of unique 
+users accessing 
+Tier 1 content, 
+indicating high 
+intent. 
+Monthly Growth 
+Rate > 10% 
+3. Reporting Cadence 
+●​ Weekly Dashboard Review: Focus on MQL volume, MQL-to-SQL conversion rate, and 
+pipeline velocity. 
+●​ Monthly Performance Review: Comprehensive review of all KPIs, CAC, and channel 
+spend efficiency. 
+●​ Quarterly Business Review (QBR): Deep dive into strategic performance (Brand 
+Awareness, CLV analysis, Budget Variance). 
+4. Attribution Model 
+NexaCore uses a Weighted Multi-Touch Attribution model, giving partial credit to all 
+marketing touches (first touch, mid-touch, and final touch) that occurred before the lead 
+converted to a Sales Accepted Lead (SAL).

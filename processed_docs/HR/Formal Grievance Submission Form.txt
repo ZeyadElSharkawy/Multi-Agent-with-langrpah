@@ -1,0 +1,57 @@
+Formal Grievance Submission Form 
+Document ID: HR-GSF-2025.01 
+Version: 1.0 
+Date of Submission: [Date] 
+Confidentiality: HIGH (Managed by HR/Legal) 
+1. Employee Details (Complainant) 
+Field 
+Input 
+Name: 
+[Employee Name] 
+Job Title: 
+[Job Title] 
+Department: 
+[Department] 
+Contact Phone: 
+[Phone Number] 
+Contact Email: 
+[Email Address] 
+Preferred Method of Contact: 
+[ ] Phone [ ] Email 
+2. Grievance Details 
+Field 
+Input 
+Name(s) of Person(s) Involved: 
+[Name(s)] 
+Department(s) of Person(s) Involved: 
+[Department(s)] 
+Date of Incident (Last Occurence): 
+[Date] 
+Type of Grievance (Check one): 
+[ ] Harassment [ ] Discrimination [ ] Unfair 
+Treatment [ ] Policy Violation [ ] Other: 
+[Specify] 
+3. Detailed Description of the Grievance 
+●​ Please describe the event(s) in chronological order. Include all relevant facts, dates, 
+times, locations, and any witnesses.​
+
+[Detailed Description Text - Minimum 300 words] 
+4. Supporting Documentation 
+●​ List any attached documents (e.g., emails, chat logs, medical notes, etc.).​
+[List of Documents] 
+5. Desired Resolution 
+●​ What outcome are you seeking from this formal procedure?​
+[Desired Resolution Text] 
+Complainant Signature: _________________________ 
+Date: [Date] 
+HR Use Only 
+Field 
+Input 
+Received By: 
+[HR Name] 
+Date Acknowledged: 
+[Date] 
+Investigator Assigned: 
+[Investigator Name] 
+Case File ID: 
+[HR-CASE-YYYY-NNN]

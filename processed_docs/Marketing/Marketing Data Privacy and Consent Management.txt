@@ -1,0 +1,28 @@
+Marketing Data Privacy and Consent 
+Management 
+Document ID: MKT-DPC-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Marketing, Legal & Compliance 
+1. Compliance Mandate 
+All marketing data collection, processing, and storage must strictly comply with global 
+regulations, including the GDPR, CCPA, and regional laws where data subjects reside. Data 
+Privacy is a core priority. 
+2. Consent Acquisition and Management 
+●​ Explicit Consent: For all non-essential data processing (e.g., personalized marketing 
+emails, third-party advertising tracking), explicit, affirmative consent must be obtained. 
+Pre-checked boxes are prohibited. 
+●​ Cookie Consent: Mandatory use of a robust Consent Management Platform (CMP) on 
+the website to manage visitor preferences for non-essential cookies. 
+●​ Proof of Consent: The date, time, method, and specific text of the consent granted must 
+be logged and auditable in the CRM. 
+3. Data Processing and Retention 
+●​ Purpose Limitation: Data collected for marketing purposes (e.g., newsletter signup) 
+must not be used for a separate, incompatible purpose (e.g., R&D model training) without 
+new consent. 
+●​ Retention: Marketing prospect data will be purged from the active database if there is 
+no recorded activity (clicks, opens, form submission) for [24 months]. 
+4. Right to Opt-Out and Be Forgotten 
+Every marketing communication (email, SMS) must include a clear, one-click mechanism to 
+unsubscribe. Requests for the "Right to Erasure" must be processed by the Digital Marketing 
+team and confirmed within [30 calendar days].

@@ -1,0 +1,101 @@
+Design System Audit Report - Usability 
+and Branding 
+Department: UX / R&D Front-End 
+Date: 2025-11-01 
+Version: 1.0 
+Objective: Assess the compliance of the current production UI with the NexaCore Brand Style 
+Guide and identify inconsistencies that impact usability. 
+1. Executive Summary 
+The audit found that while of core components (buttons, navigation bars) are compliant, 
+several newly implemented R&D features (specifically the data filtering panel in the Reporting 
+Dashboard) are using custom, non-compliant components. This inconsistency is creating 
+significant Cumulative Layout Shift (CLS) issues and cognitive load for enterprise users. 
+2. Branding Compliance Review 
+Component 
+Status (Pass/Fail) 
+Finding 
+Recommendation 
+Primary CTA 
+Button 
+Pass 
+Compliant with 
+NexaCore Blue 
+(#004080) and 
+standard border 
+radius (0.5rem). 
+None. 
+Typography 
+Fail 
+The Reporting 
+Dashboard uses 
+'Roboto' instead of 
+the mandated 
+'Inter' font for data 
+labels. 
+Front-end team 
+must enforce the 
+'Inter' font via the 
+global CSS 
+framework for all 
+data views. 
+Logo Usage 
+Pass 
+Correct SVG usage 
+on all login and 
+application pages. 
+None. 
+Color Palette 
+Fail 
+The new error state 
+color in the 
+Workflow Editor is a 
+non-compliant 
+Update the error 
+red to the 
+mandated 
+#B00020 in the 
+
+ 
+shade of red, failing 
+AA contrast 
+standards. 
+global style sheet. 
+3. Usability and Consistency Issues 
+Issue 3.1: Data Filter Component (Reporting) 
+●​ Observation: The custom filter panel uses fixed pixel widths and does not collapse 
+correctly on smaller desktop screens (causing horizontal scroll). 
+●​ Impact: High usability barrier; violates the "Fully Responsive Layouts" operational 
+guideline. 
+●​ Recommendation: R&D must replace the custom component with the standard, 
+responsive shadcn/ui dropdown and input field components. 
+Issue 3.2: Iconography Inconsistency 
+●​ Observation: The main navigation uses Lucide icons, but the new AI feature blocks use 
+custom Phosphor icons, creating a disjointed experience. 
+●​ Recommendation: Standardize all application iconography to Lucide-React by the end 
+of Q1 2026. 
+4. Audit Action Plan 
+Action Item 
+Priority 
+Owner (Team) 
+Due Date 
+Replace custom 
+filter component 
+with standard UI 
+components. 
+P1 (Critical) 
+R&D Front-End 
+End of next sprint 
+(2 weeks) 
+Enforce 'Inter' font 
+globally and fix the 
+error color shade. 
+P2 (Medium) 
+R&D Front-End 
+4 Weeks 
+Standardize all new 
+features to use 
+Lucide icons only. 
+P3 (Low) 
+UX Lead 
+(Monitoring) 
+Ongoing

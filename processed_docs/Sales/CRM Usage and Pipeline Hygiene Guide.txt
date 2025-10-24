@@ -1,0 +1,99 @@
+CRM Usage and Pipeline Hygiene Guide 
+Document ID: SAL-CRM-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Sales Operations 
+1. Data Integrity Mandate 
+The CRM is the single source of truth for all customer interactions, forecast data, and pipeline 
+metrics. Inaccurate data directly impacts commissions, forecasting, and company 
+strategy. 
+2. Mandatory Data Entry Standards 
+Object 
+Field 
+Requirement 
+When to Update 
+Account 
+Legal Name 
+Must match the 
+official client name. 
+Creation of new 
+account. 
+Contact 
+Role & Authority 
+Must use the 
+standard dropdown 
+list (Champion, 
+Decision Maker, 
+Technical Buyer). 
+Initial qualification 
+& before any 
+Proposal. 
+Opportunity 
+Next Step & Date 
+Must be a concrete 
+action (e.g., "Send 
+Proposal 10/12"). 
+Not vague (e.g., 
+"Follow up"). 
+After every 
+customer 
+interaction. 
+Opportunity 
+Forecast Category 
+Must accurately 
+reflect the deal 
+stage confidence 
+(Pipeline, Best 
+Case, Commit, 
+Closed Won/Lost). 
+Weekly Forecast 
+Review. 
+Opportunity 
+Revenue/ARR 
+Must reflect the 
+current negotiated 
+price from the 
+Pricing Matrix. 
+Prior to 40% stage 
+completion. 
+
+3. Pipeline Stage Gates and Definitions 
+An Opportunity cannot advance to the next stage unless the corresponding mandatory 
+actions have been completed and documented. 
+Stage 
+% Probability 
+Stage Gate Criteria 
+0 - Prospecting 
+10% 
+Verified Need (from 
+Nexa-BANT check) and 
+assigned a contact. 
+1 - Discovery Complete 
+20% 
+Budget identified, and the 
+primary Champion has 
+been engaged. 
+2 - Solution Presentation 
+40% 
+Full demo delivered, and 
+the client agrees to a 
+formal proposal timeline. 
+3 - Negotiation 
+60% 
+Proposal submitted, and 
+Legal/Procurement has 
+engaged NexaCore. 
+4 - Verbal Commit 
+80% 
+Client has verbally agreed 
+to the commercial terms. 
+Deal Review Form is 
+Approved. 
+5 - Closed Won/Lost 
+100%/0% 
+Contract signed/lost. 
+4. Pipeline Hygiene Rules 
+●​ Opportunities dormant for 45 days without a "Next Step" update will be automatically 
+flagged for review by Sales Operations and may be moved to the "Stalled" pipeline. 
+●​ All customer-facing documents (Proposals, SOWs) must be uploaded to the 
+corresponding Opportunity file.

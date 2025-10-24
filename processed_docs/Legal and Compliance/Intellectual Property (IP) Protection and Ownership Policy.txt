@@ -1,0 +1,56 @@
+Intellectual Property (IP) Protection and 
+Ownership Policy 
+Document ID: LC-IPP-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Legal & R&D 
+1. Ownership of Developed IP 
+NexaCore Solutions is a technology company whose core value lies in its Intellectual Property 
+(IP). 
+●​ Work Product: All inventions, discoveries, software code, algorithms, machine learning 
+models, training data sets, technical documentation, and business processes developed 
+or created by an Employee during the course of employment shall be deemed "Work 
+Product". 
+●​ Assignment: All rights, title, and interest in and to the Work Product are the exclusive 
+property of NexaCore Solutions, with no additional consideration due to the Employee 
+beyond their regular salary. This is confirmed via the standard Employee Confidentiality 
+and IP Assignment Agreement. 
+2. Protection of Core Assets 
+IP Asset 
+Protection Method 
+Responsibility 
+Source Code/Algorithms 
+Copyright, Trade Secret 
+protection, Restricted 
+Access (Zero Trust). 
+Engineering/Legal 
+Brand Name and Logo 
+Trademark registration in 
+key jurisdictions (UAE, KSA, 
+EU, US). 
+Legal/Marketing 
+Proprietary ML Models 
+Trade Secret protection, 
+encryption, strict access 
+control, non-disclosure 
+agreements (NDAs). 
+R&D/Security 
+Patents 
+Proactive assessment and 
+filing of patent applications 
+for novel architectural 
+Legal/R&D Innovation 
+Committee 
+
+breakthroughs. 
+3. Third-Party IP and Open Source Software (OSS) 
+●​ Use of Third-Party Materials: No external software, code snippets, licensed APIs, or 
+data sets may be incorporated into NexaCore’s products without prior written approval 
+from the Engineering Lead and Legal Department, confirming license compatibility. 
+●​ Open Source Governance: The use of Open Source Software (OSS) must comply with 
+the Software Licensing and Open Source Policy. Developers must use an approved 
+software composition analysis (SCA) tool to track and manage all OSS dependencies and 
+licenses. 
+4. Enforcement 
+The Legal Department is mandated to actively monitor and pursue all necessary legal action 
+against any infringement, misappropriation, or unauthorized disclosure of NexaCore’s IP.

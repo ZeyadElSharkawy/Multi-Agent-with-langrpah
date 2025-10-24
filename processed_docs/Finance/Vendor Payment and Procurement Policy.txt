@@ -1,0 +1,41 @@
+Vendor Payment and Procurement Policy 
+Document ID: FN-VPP-2025.01 
+Version: 1.0 
+Effective Date: 2025-10-01 
+Department: Finance & Operations 
+1. Policy Objective 
+To establish standardized, transparent, and compliant procedures for the procurement of 
+goods/services and the timely, accurate processing of vendor payments across NexaCore 
+Solutions. 
+2. Procurement Process Overview (P2P) 
+2.1. Requisition 
+All purchases exceeding [USD $1,000] must begin with an approved Purchase Requisition 
+(PR) submitted through the designated ERP system ([ERP System Name]). 
+2.2. Vendor Selection & Due Diligence 
+●​ Tendering: Purchases over [USD $50,000] require a minimum of three competitive 
+quotes (tenders). 
+●​ Compliance: New vendors must complete a mandatory KYC (Know Your Customer) and 
+anti-corruption declaration, reviewed by the Legal and Finance departments. 
+3. Payment Procedures 
+3.1. Required Documentation 
+No invoice will be processed for payment without the following: 
+1.​ A valid, corresponding Purchase Order (PO) number. 
+2.​ A signed Goods/Service Receipt Note (GRN/SRN) confirming delivery or satisfactory 
+completion. 
+3.​ A correctly addressed and itemized Vendor Invoice. 
+3.2. Standard Payment Terms 
+NexaCore’s standard payment term is Net 60 Days from the date of the verified invoice and 
+GRN/SRN, unless a different term is explicitly negotiated and approved by the Head of 
+Finance. 
+3.3. Payment Methods 
+All payments exceeding [USD $500] must be made via electronic bank transfer (SWIFT/IBAN). 
+
+Cash payments are strictly prohibited unless pre-approved for petty cash expenses under the 
+[AED 1,000] limit. 
+4. Compliance and Audit 
+●​ Delegation of Authority (DoA): All payment approvals must adhere to the established 
+DoA limits. Managers authorizing payments beyond their limit will be subject to 
+disciplinary action. 
+●​ Anti-Corruption: Finance and Legal will screen payments for high-risk jurisdictions or 
+dubious transactions (refer to the Code of Conduct). 
+Process Flow: PR PO GRN/SRN Invoice Payment Approval Payment

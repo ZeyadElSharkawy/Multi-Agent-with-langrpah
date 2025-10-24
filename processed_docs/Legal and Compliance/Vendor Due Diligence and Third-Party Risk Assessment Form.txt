@@ -1,0 +1,81 @@
+Vendor Due Diligence and Third-Party 
+Risk Assessment Form 
+Document ID: LC-TPA-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Legal & Procurement 
+Instructions: This form must be completed for all new vendors providing services or software 
+that interact with NexaCore's IT environment, process customer data, or manage sensitive 
+financial transactions (High and Medium Risk only). 
+1. Vendor Information 
+Field 
+Input 
+Vendor/Supplier Name: 
+ 
+Service/Product Provided: 
+ 
+NexaCore Department Requesting: 
+ 
+Contract Value (Annual): 
+ 
+2. Risk Scoring (To be completed by Procurement/IT) 
+Risk Category 
+Score (1-5, 5=Highest) 
+Justification 
+Data Access Risk 
+ 
+Does the vendor access 
+NexaCore customer data or 
+internal employee PD? 
+Financial Stability Risk 
+ 
+Is the vendor financially 
+stable enough to deliver 
+the service for the contract 
+duration? 
+Geographic/Jurisdiction 
+Risk 
+ 
+Is the vendor located in a 
+high-risk regulatory or 
+sanctions jurisdiction? 
+
+Business Continuity Risk 
+ 
+Is this a single-source 
+supplier for a critical 
+function (e.g., core cloud 
+provider)? 
+OVERALL RISK RATING: 
+ 
+(Low: 1-5, Medium: 6-10, 
+High: 11+) 
+3. Mandatory Compliance Checklist 
+Requirement 
+Vendor Confirmation 
+(Y/N/NA) 
+Evidence (e.g., Audit 
+Report) 
+ISO 27001 Certification 
+ 
+ 
+Proof of Data 
+Localization (if 
+applicable) 
+ 
+ 
+Signed NDA and Data 
+Processing Addendum 
+(DPA) 
+ 
+ 
+Acceptance of 
+ABC/Sanctions Policy 
+ 
+ 
+Cybersecurity Incident 
+Response Plan Review 
+ 
+ 
+4. Final Approval 
+Risk Management Approval: _________________________ Date:

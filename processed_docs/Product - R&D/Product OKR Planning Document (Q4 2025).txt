@@ -1,0 +1,36 @@
+Product OKR Planning Document (Q4 
+2025) 
+Department: Product & R&D 
+Objective Owner: [Head of Product] 
+Period: October 1, 2025 - December 31, 2025 
+Objective 1: Achieve Regional Readiness for KSA 
+Enterprise Market 
+●​ KR 1 (Compliance): Complete and pass the internal Legal & Ops audit for KSA data 
+residency and sovereignty requirements by November 30th. 
+○​ Owner: [PM - Compliance] 
+●​ KR 2 (UI/UX): Localize of the primary workflow creation path UI/documentation into 
+high-quality technical Arabic by December 15th. 
+○​ Owner: [UX Lead] 
+●​ KR 3 (Performance): Ensure the maximum latency () for the regional API gateway does 
+not exceed for KSA clients. 
+○​ Owner: [R&D Lead] 
+Objective 2: Validate the Value and Stability of 
+Proactive Intelligence 
+●​ KR 1 (Usage): Achieve adoption of the Predictive AI Trigger (PAWT) in the internal 
+Operations team sandbox environment during the closed beta. 
+○​ Owner: [PM - AI Features] 
+●​ KR 2 (Accuracy): Achieve an True Positive Rate for demand spike prediction using the 
+NexaCore-TSM v1.2 model during the 8-week beta. 
+○​ Owner: [Data Scientist] 
+●​ KR 3 (Risk): Maintain a Change Failure Rate (CFR) of across all production deployments 
+during the quarter. 
+○​ Owner: [R&D Lead] 
+Objective 3: Reduce Systemic Technical Debt and 
+Improve Maintainability 
+●​ KR 1 (Codebase): Refactor the Auth microservice (identified as Tier 1 debt) to a modern 
+framework, achieving test coverage by December 31st. 
+○​ Owner: [Senior Backend Engineer] 
+●​ KR 2 (Dependencies): Reduce the number of critical vulnerability alerts (CVEs) in 
+third-party libraries by . 
+
+○​ Owner: [Security Engineer]

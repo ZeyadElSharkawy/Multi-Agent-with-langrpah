@@ -1,0 +1,153 @@
+IT and Facility Equipment Maintenance 
+Schedule (Q4 2025) 
+Department: Operations & IT Infrastructure 
+Period: October 1, 2025 – December 31, 2025 
+Custodian: [IT/Facility Manager] 
+1. Cloud Infrastructure Maintenance (Automated) 
+Component 
+Task 
+Frequency 
+Task Details 
+Responsible 
+Team 
+Status 
+K8s Control 
+Plane 
+Monthly 
+Review master 
+node logs, 
+check security 
+group 
+compliance, 
+apply minor 
+patches. 
+SRE Team 
+Ongoing 
+Database 
+Patches 
+(RDS) 
+Quarterly 
+Apply minor 
+version 
+patches to 
+non-critical 
+databases 
+during 
+scheduled 
+maintenance 
+windows. 
+SRE Team 
+Q4: November 
+3rd 
+OS Security 
+Patches (EC2) 
+Weekly 
+Automated 
+scanning and 
+patching of 
+base AMI 
+images 
+(non-prod 
+first). 
+Ops Team 
+Ongoing 
+2. Dubai HQ Server Room Maintenance 
+
+Component 
+Task 
+Frequency 
+Task Details 
+Responsible 
+Team 
+Due Date 
+(Q4) 
+HVAC Unit 
+(Server 
+Room) 
+Quarterly 
+Full service 
+check (filter 
+cleaning, gas 
+level 
+verification, 
+temperature 
+check). 
+Facility Vendor 
+October 15th 
+UPS Battery 
+Load Test 
+Monthly 
+Test the UPS 
+runtime 
+capacity to 
+ensure 
+minimum 
+30-minute 
+support. 
+Facility 
+Manager 
+Last Sunday of 
+Month 
+Physical 
+Access Audit 
+Biannually 
+Review all 
+physical 
+access logs for 
+unauthorized 
+entries. 
+Ops Lead 
+November 
+10th 
+Core Network 
+Switches 
+Quarterly 
+Firmware audit 
+and update (if 
+critical CVEs 
+are identified). 
+IT 
+Infrastructure 
+December 1st 
+3. General Office Equipment 
+Component 
+Task 
+Frequency 
+Task Details 
+Responsible 
+Team 
+Due Date 
+(Q4) 
+Fire 
+Extinguishers 
+Quarterly 
+Inspection and 
+certification by 
+approved 
+third-party 
+vendor. 
+Facility 
+Manager 
+October 1st 
+
+Conference 
+Room AV/VC 
+Monthly 
+Test all video 
+conferencing 
+equipment, 
+audio inputs, 
+and network 
+connectivity. 
+Internal IT 
+Last Friday of 
+Month 
+Backup 
+Generator 
+Quarterly 
+Run a 2-hour 
+full load test 
+and check fuel 
+levels. 
+Facility Vendor 
+December 15th

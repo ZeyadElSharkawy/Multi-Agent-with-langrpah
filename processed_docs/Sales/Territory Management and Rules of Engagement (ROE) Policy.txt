@@ -1,0 +1,37 @@
+Territory Management and Rules of 
+Engagement (ROE) Policy 
+Document ID: SAL-TER-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Sales Operations 
+1. Objective 
+To ensure equitable account distribution, minimize sales channel conflict, and provide clear 
+rules for claiming and managing enterprise accounts within the MENA region. 
+2. Territory Definition 
+Territories are primarily defined by the following two factors, in order of priority: 
+1.​ Geographic Region (Primary): The country/emirate where the client's corporate 
+headquarters is physically registered (e.g., UAE - Dubai, KSA - Riyadh). 
+2.​ Vertical Industry (Secondary): The client's primary sector as defined by the [Internal 
+Industry Classification System] (e.g., Banking, Oil & Gas, Aviation). 
+●​ Example Territory: "UAE - Financial Services" or "KSA - Petrochemicals." 
+3. Account Assignment Rules 
+●​ New Account Claim: The first AE/SDR to create an Opportunity in the CRM against an 
+Account that meets the NexaCore ICP and follows the territory rules has the right to 
+claim it for 90 days. 
+●​ Expiration: If no activity (logged call, email, meeting) occurs on the Opportunity within 
+90 days, the claim expires, and the account returns to the pool. 
+●​ House Accounts: A defined list of global strategic accounts (e.g., Sovereign Wealth 
+Funds) are managed directly by the VP of Sales and are off-limits for general assignment. 
+4. Rules of Engagement (ROE) for Conflict Resolution 
+1.​ Conflict Definition: A conflict occurs when two AEs/SDRs log activity on the same 
+Account (under the same territory definition) within a 30-day window. 
+2.​ Resolution: The AE/SDR who first created the first qualified opportunity (Stage 1+) in 
+the CRM, provided they remain active, will be deemed the owner. 
+3.​ Mediation: All territory disputes must be immediately escalated to the respective Sales 
+Directors. If the Directors cannot resolve it within 48 hours, the VP of Sales will issue the 
+final, non-appealable decision. 
+
+5. Internal Transfer Policy 
+An Account may be formally transferred between territories only with the written approval of 
+both the giving and receiving Sales Directors. Commissions will be split on a prorated basis 
+based on pipeline contribution metrics documented in the CRM.

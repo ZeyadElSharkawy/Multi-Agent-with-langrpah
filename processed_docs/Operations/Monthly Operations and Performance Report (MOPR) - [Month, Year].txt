@@ -1,0 +1,141 @@
+Monthly Operations and Performance 
+Report (MOPR) - [Month, Year] 
+Prepared For: Executive Committee 
+Prepared By: Operations Lead 
+Date: [Date] 
+1. Executive Summary 
+A concise overview of platform performance, reliability, and key operational 
+achievements/challenges for the month. 
+●​ Overall Platform Uptime: [99.998%] (Target: ) - [Status: On Target] 
+●​ Mean Time To Restore (MTTR): [28 Minutes] (Target: < 30 Minutes) - [Status: On 
+Target] 
+●​ Cloud Cost Variance: [$5,000 Under Budget] (Target: ) - [Status: Favorable] 
+2. Service Reliability Metrics 
+Metric 
+Target 
+Result (This 
+Month) 
+Variance 
+Commentary 
+Service 
+Uptime (SLO) 
+ 
+[99.998%] 
+ 
+Two minor 
+incidents 
+caused 
+minutes of 
+downtime 
+combined. 
+MTTR (Mean 
+Time To 
+Restore) 
+< 30 Mins 
+[28 Mins] 
+ Mins 
+Mitigation 
+success due to 
+quick rollback 
+procedures 
+defined in the 
+new Runbook. 
+P0/P1 
+Incidents 
+< 2 
+[1 P1 Incident] 
+On Target 
+Single P1 
+incident 
+involving the 
+regional API 
+gateway in 
+KSA. Resolved 
+
+ 
+via failover. 
+Change 
+Failure Rate 
+(CFR) 
+< 
+ 
+On Target 
+1 rollback 
+required out of 
+12 production 
+deployments. 
+3. Financial & Resource Efficiency 
+Metric 
+Target 
+Result (This 
+Month) 
+Variance 
+Commentary 
+Total Cloud 
+Spend 
+$[Budget] 
+$[Actual] 
+[Variance 
+Amount] 
+Cost was lower 
+than budget 
+due to 
+deferred data 
+ingestion 
+project start. 
+Infra Cost per 
+Active Client 
+$[Target] 
+$[Actual] 
+[Variance 
+Amount] 
+[Commentary 
+on efficiency] 
+RI/Spot 
+Utilization 
+ 
+ 
+ 
+RI coverage 
+dropped 
+slightly due to 
+scaling up a 
+new client 
+environment 
+on-demand. 
+Action Item: 
+Review Q4 RI 
+purchase. 
+4. Key Operational Activities and Projects 
+Project / Activity 
+Status 
+Notes 
+CI/CD Pipeline Upgrade 
+ Complete 
+Migrating deployment logic 
+to ArgoCD. Expected 
+
+ 
+completion: Next month. 
+Quarterly BCDR Test 
+Completed 
+Test of Failover to 
+secondary AZ successful. 
+RTO achieved in 3.5 hours 
+(Target: 4 hours). 
+New Vendor Onboarding 
+Complete 
+Successful integration of 
+"X-Analytics" platform. 
+Security audit passed. 
+5. Risk Register Update 
+●​ Top Risk Reviewed: OPRISK-022 (Regulatory change in KSA). Action: Legal is drafting a 
+pre-emptive data anonymization layer. Status: On track. 
+●​ New Risks: None identified this month. 
+6. Action Items for Next Month 
+1.​ Finalize and deploy ArgoCD migration to reduce deployment lead time. (Owner: [Ops 
+Lead]) 
+2.​ Review all non-production AWS EC2 instances for further rightsizing opportunities. 
+(Owner: [SRE Team]) 
+3.​ Schedule the bi-annual audit of physical access logs for the Dubai Server Room. (Owner: 
+[Facility Manager])

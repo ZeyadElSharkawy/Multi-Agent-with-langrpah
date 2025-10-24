@@ -1,0 +1,101 @@
+Equipment Maintenance Schedule - 
+Office Network & Peripherals 
+Document ID: FAC-MNT-OFFICE-003 
+Department: Operations (Internal IT) 
+Period: Quarterly 
+1. Network Infrastructure Maintenance (Non-Server 
+Room) 
+Component 
+Location 
+Task 
+Frequency 
+Task Details 
+Due Date 
+(Q4) 
+Core Office 
+Firewall 
+Security Closet 
+Quarterly 
+Firmware 
+update and 
+rule set audit 
+(VPN tunnels, 
+external 
+access). 
+2025-11-15 
+Wireless 
+Access Points 
+(WAPs) 
+All Floors 
+Monthly 
+Load 
+balancing 
+check, channel 
+optimization, 
+and SSID 
+security audit. 
+Last Thursday 
+of Month 
+Patch 
+Panels/Cablin
+g 
+All Closets 
+Biannual 
+Visual 
+inspection for 
+damaged 
+cables; 
+re-terminate 
+messy runs. 
+2025-12-01 
+2. Office Peripherals and AV Maintenance 
+Component 
+Location 
+Task 
+Frequency 
+Task Details 
+Due Date 
+(Q4) 
+
+Multi-functio
+n Printers 
+All Shared 
+Areas 
+Monthly 
+Routine 
+service, toner 
+replacement, 
+driver updates 
+on print server. 
+Last Friday of 
+Month 
+All Meeting 
+Room 
+TVs/Projector
+s 
+Conference 
+Rooms 
+Quarterly 
+Calibration 
+check, clean 
+dust, test all 
+inputs 
+(HDMI/Wireles
+s). 
+2025-10-30 
+VOIP Phone 
+System 
+All Desks 
+Quarterly 
+System 
+upgrade/patch
+ing, check line 
+quality and 
+voicemail 
+function. 
+2025-11-30 
+3. Preventative Measures 
+●​ Dust Control: Server room and network closets must be vacuumed and cleaned weekly 
+by the facilities team. 
+●​ Physical Security: Ensure all network closets remain locked at all times. Keys are held 
+exclusively by the Facility Manager and Infrastructure Engineer.

@@ -1,0 +1,36 @@
+Service Degradation Notification 
+Template (Internal Staff) 
+Internal Communication Channel: #incident-updates (Slack/Teams) 
+[INCIDENT] - [P-Level: P0/P1/P2] - [Brief Service 
+Name] Impairment 
+Incident ID: [INC-YYYY-MM-XXX] 
+P-Level: [P0 / P1 / P2] 
+Incident Commander (IC): [IC Name] 
+Start Time: [HH:MM] AST 
+1. Initial Assessment (Within 5 Minutes of Declaration) 
+Status: Confirmed Incident. Investigation is active. 
+Affected Services: [List all affected services, e.g., Core Workflow Engine, US-East Data Store, 
+Internal CRM API] 
+Client Impact: [Brief internal summary, e.g., High-volume clients are seeing transaction failure 
+rates increase by 10%] 
+Root Cause Hypothesis: [e.g., Recent configuration change deployment; Unexpected scaling 
+event.] 
+2. Actions and Mitigation (Ongoing) 
+●​ [HH:MM] AST: IC established command and assembled the core response team. 
+●​ [HH:MM] AST: Operations Lead executing Backout Plan A (rollback recent config 
+change). 
+●​ [HH:MM] AST: Communications Manager initiated external notification process for 
+P1/P0. 
+●​ [HH:MM] AST: [Technical update on monitoring/diagnosis]. 
+3. Status Update (Every [15/30] Minutes) 
+[HH:MM] AST: Update on technical progress. Example: Rollback completed. Monitoring is 
+showing initial stabilization in latency metrics. Waiting for a 15-minute stable window before 
+confirming resolution. 
+4. RESOLVED / RESTORED 
+[HH:MM] AST: The Incident Commander has declared the service RESTORED. 
+Root Cause (Tentative): [Brief description of the cause, e.g., A bug in the new rate-limiter 
+service caused premature connection termination.] 
+Next Steps: All teams stand down. P-Level 1 incidents require a mandatory Post-Mortem 
+
+meeting within 48 hours. 
+Thank you to the response team for the quick MTTR.

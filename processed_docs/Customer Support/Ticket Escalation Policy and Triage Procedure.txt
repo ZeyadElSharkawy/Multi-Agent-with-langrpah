@@ -1,0 +1,96 @@
+Ticket Escalation Policy and Triage 
+Procedure 
+Department: Customer Support & SRE 
+Policy ID: CS-POL-001 
+Date: 2025-11-01 
+1. Ticket Severity Definitions 
+The severity of a ticket is defined by the impact on the client's core business operation, not 
+the complexity of the underlying issue. 
+Severity 
+Definition of 
+Business Impact 
+Target Client 
+Example Scenario 
+P0 (Critical) 
+Core service is 
+unusable. Affects 
+all users/workflows. 
+Complete system 
+downtime. 
+All Enterprise 
+Clients 
+Entire API Gateway 
+is down; no 
+workflows can 
+execute. 
+P1 (High) 
+Major functionality 
+impaired. Affects 
+critical workflows 
+and multiple users. 
+No viable 
+workaround. 
+Enterprise Clients 
+A core AI model is 
+consistently failing, 
+causing a financial 
+workflow to halt. 
+P2 (Medium) 
+Minor functionality 
+impaired or 
+frequent 
+intermittent issues. 
+Workaround exists 
+but is inefficient. 
+All Clients 
+Reporting 
+dashboard fails to 
+load historical data 
+for a specific 
+period. 
+P3 (Low) 
+Minor configuration 
+issue, general 
+question, or 
+low-priority bug 
+report. No impact 
+on core workflows. 
+All Clients 
+UI display error, 
+request for 
+documentation 
+clarification. 
+
+P4 (Feature 
+Request) 
+Request for new 
+functionality or 
+product 
+enhancement. 
+All Clients 
+Suggesting a new 
+data source 
+integration. 
+2. Escalation Workflow (L1 to L3) 
+P0 and P1 Escalation (Critical/High) 
+1.​ L1 Action: Agent must confirm the P0/P1 status and create an internal Incident Report 
+Form within 5 minutes of receiving the ticket. 
+2.​ L1 Escalation: Immediately notify the L2 Technical Specialist via phone/dedicated 
+PagerDuty channel. Do NOT rely on standard ticket assignment. 
+3.​ L2 Action: L2 confirms the severity and immediately escalates the ticket to the relevant 
+R&D/SRE On-Call Engineer (L3) via the official incident management system. 
+4.​ L3 Action: The L3 Engineer takes ownership, starts Root Cause Analysis (RCA), and 
+begins working on a hotfix. 
+P2 and P3 Escalation (Medium/Low) 
+1.​ L1 Action: Agent attempts to resolve the issue for 30 minutes. If no progress is made, the 
+L1 Specialist documents all troubleshooting steps taken. 
+2.​ L1 Escalation: The ticket is internally tagged as Escalate-L2 and assigned to the L2 
+queue. 
+3.​ L2 Action: L2 takes ownership and has 2 working days to resolve or hand off to L3 (R&D) 
+if a code fix or database modification is required. 
+4.​ Ownership Rule: Once escalated to L3 (R&D), the L2 Specialist remains the primary 
+client communicator to ensure consistent messaging. 
+3. Communication Protocol 
+For P0/P1 incidents, the Head of Customer Support or Customer Success Manager (CSM) 
+must send a 2-hour update to the client until the issue is resolved, providing status and 
+estimated time of resolution (ETR).

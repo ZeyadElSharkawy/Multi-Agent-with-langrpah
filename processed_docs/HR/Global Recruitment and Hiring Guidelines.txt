@@ -1,0 +1,47 @@
+Global Recruitment and Hiring 
+Guidelines 
+Document ID: HR-RG-2025.01 
+Version: 1.0 
+Effective Date: 2025-07-20 
+Department: Human Resources 
+1. Introduction 
+This document establishes the standard procedure for attracting, assessing, and hiring top 
+talent globally, with a focus on roles critical to NexaCore’s AI and SaaS product delivery. 
+2. The Hiring Process Flow 
+Step 1: Needs Assessment and Authorization (Manager/HR) 
+●​ The hiring manager completes a Requisition Form detailing the role's justification, core 
+responsibilities, and necessary budget. 
+●​ The form must be approved by the Department Head and the Head of Finance. 
+●​ HR finalizes the Job Description (JD), ensuring alignment with the required technical 
+skills and NexaCore’s mission. 
+Step 2: Sourcing and Advertising (HR/Manager) 
+●​ HR determines the sourcing strategy: internal mobility, online job boards, specialized 
+AI/Tech recruitment agencies, or regional career fairs. 
+●​ All job advertisements must be inclusive, non-discriminatory, and clearly articulate 
+NexaCore's core values. 
+Step 3: Candidate Screening (HR/Manager) 
+●​ HR Screening: Initial review of applications for basic qualifications, cultural fit, and salary 
+expectations. 
+●​ Manager/Technical Screening: Deeper dive into technical competencies, previous 
+project success, and relevance to the SaaS industry. 
+Step 4: Interview Process 
+A structured interview process is mandatory to ensure fairness and consistency: 
+1.​ Stage 1 (Behavioral): Focused on cultural fit, work ethic, and alignment with NexaCore 
+values. 
+2.​ Stage 2 (Technical/Functional): Skills assessment, live coding (for Engineers), or case 
+studies (for Sales/Product). AI-centric roles must include a competency task. 
+
+3.​ Stage 3 (Leadership/Final): Interview with a Department Head or C-Level Executive. 
+Step 5: Offer and Onboarding 
+●​ HR verifies references and conducts necessary background checks. 
+●​ The hiring manager and HR determine the final compensation offer based on internal 
+equity and market rates. 
+●​ HR extends a formal, written Offer of Employment. 
+●​ Once accepted, the new hire is moved into the Onboarding Checklist process. 
+3. Interview Best Practices 
+●​ Consistency: All candidates for the same role must be asked the same core set of 
+questions. 
+●​ Focus on Impact: Questions should focus on past results and measurable contributions, 
+not just tasks performed. 
+●​ Avoid Bias: Interviewers must be trained to recognize and mitigate unconscious bias. 
+Hiring decisions must be documented and merit-based.

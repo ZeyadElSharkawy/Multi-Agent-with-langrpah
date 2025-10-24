@@ -1,0 +1,103 @@
+NexaCore Solutions Training & 
+Development Plan (2025-2026) 
+Document ID: HR-TDP-2025.01 
+Version: 1.0 
+Review Date: [Date] 
+Department: Human Resources & L&D 
+1. Vision and Strategic Focus 
+The T&D plan is directly aligned with NexaCore’s mission. Our focus is on maintaining a 
+competitive edge by upskilling our workforce in advanced AI and cloud technologies 
+while ensuring strong operational and regional cultural competency. 
+2. Core Training Programs 
+2.1. AI/Automation Technical Proficiency (Mandatory for IT, Product, 
+Sales) 
+Program 
+Target Audience 
+Key Modules 
+Foundations of 
+Generative AI 
+All Employees 
+Ethics, use cases, prompt 
+engineering basics. 
+Advanced Cloud 
+Certification Path 
+Engineering/IT 
+Certification sponsorship 
+for AWS/Azure/GCP (choice 
+based on role). 
+MLOps & Deployment 
+Pipelines 
+Engineers 
+Automated testing, 
+monitoring, and scaling of 
+production models. 
+Data Governance & 
+Privacy 
+Legal/Product/Engineers 
+Focus on GDPR, CCPA, and 
+regional data handling 
+laws. 
+2.2. Professional and Leadership Development 
+Program 
+Target Audience 
+Key Modules 
+
+Cross-Cultural 
+Communication 
+All Employees 
+Focus on effective remote 
+and regional 
+communication (e.g., UAE, 
+KSA, Egypt business 
+etiquette). 
+Agile & Workflow 
+Management 
+Product/Operations 
+Scrum master certification 
+and effective sprint 
+management. 
+Sales Negotiation in SaaS 
+Sales/Account Mgmt 
+Value-based selling, 
+handling large enterprise 
+procurement cycles. 
+Management Essentials 
+New Managers 
+Coaching, performance 
+feedback, and distributed 
+team leadership. 
+3. Training Delivery Methods 
+●​ NexaCore Academy (LMS): Online self-paced modules for compliance and foundational 
+knowledge. 
+●​ External Certifications: Full sponsorship for pre-approved, role-critical external 
+certifications (e.g., PMP, Cloud Architect, Data Scientist). 
+●​ Lunch & Learns: Monthly internal knowledge sharing sessions led by technical experts. 
+●​ Mentorship Program: Formal pairing of senior leaders with high-potential junior 
+employees for 6-month cycles. 
+4. Budget Allocation (FY 2025-2026) 
+Total T&D Budget: [USD $X] 
+Category 
+Allocated Percentage 
+Notes 
+Cloud/AI Certifications 
+40% 
+Highest priority investment. 
+Professional Skills (Soft 
+Skills) 
+25% 
+Includes management and 
+cross-cultural training. 
+External Conference 
+Attendance 
+20% 
+For key technical and sales 
+leadership roles. 
+
+Internal LMS & Content 
+Creation 
+15% 
+Maintenance and creation 
+of NexaCore-specific 
+content. 
+Employees must discuss their individual development paths with their manager during the 
+annual performance review process.

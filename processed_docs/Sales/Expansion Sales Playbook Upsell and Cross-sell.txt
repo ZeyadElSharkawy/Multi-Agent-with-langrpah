@@ -1,0 +1,79 @@
+Expansion Sales Playbook: Upsell and 
+Cross-sell 
+Document ID: SAL-EXP-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Sales, Customer Success 
+1. Objective 
+To systematically grow Annual Recurring Revenue (ARR) within the installed customer base by 
+maximizing adoption and identifying new value opportunities. 
+2. Key Expansion Triggers 
+AEs must monitor the following signals (in partnership with the CS Manager): 
+Trigger Event 
+Signal in the CRM/CS 
+Platform 
+Recommended Action 
+High Utilization 
+Client approaching 80% of 
+their licensed API calls or 
+data throughput limit. 
+Propose a Tier Upgrade 
+(e.g., Professional to 
+Enterprise) to lock in a new 
+rate before overages hit. 
+Annual Renewal (D-90) 
+Opportunity flagged for 
+renewal in the next 90 
+days. 
+Initiate the Value Review, 
+showing YTD ROI metrics 
+and proposing a multi-year 
+renewal with an added 
+module. 
+Internal Referral 
+Successful project 
+completion leads to an 
+introduction to a new 
+department (e.g., Finance 
+introduces AE to HR). 
+Initiate a new Automation 
+Audit specific to the new 
+department's workflows 
+(Cross-sell). 
+Compliance Change 
+Client is facing a new 
+regulatory mandate (e.g., 
+new AML law). 
+Propose the Compliance & 
+Audit Log Module add-on 
+as a rapid solution (Upsell). 
+
+3. Upsell Strategy: Tier Upgrades 
+Focus on moving clients to the next tier by emphasizing risk mitigation and predictable 
+budgeting. A higher tier removes usage limits, provides a better SLA, and includes advanced 
+governance features necessary for mission-critical adoption. 
+4. Cross-sell Strategy: Adjacent Workflows 
+Map the client's organizational chart to identify adjacent workflows that suffer from similar 
+manual data problems. 
+Existing Workflow 
+Target Cross-sell 
+Workflow 
+Selling Point 
+Fraud Detection (Risk) 
+Predictive Credit Scoring 
+(Finance) 
+Leverage the existing 
+security infrastructure and 
+deployment model for rapid 
+time-to-value. 
+Logistics Forecasting (Ops) 
+Production Line 
+Optimization 
+(Manufacturing) 
+Apply the same anomaly 
+detection algorithms to 
+machine sensor data. 
+5. Sales Approach 
+The expansion sale should be positioned as a strategic business review, not a pitch. Lead 
+with the success metrics achieved in the initial deployment and ask, "Where else can we 
+replicate this quantifiable success?"

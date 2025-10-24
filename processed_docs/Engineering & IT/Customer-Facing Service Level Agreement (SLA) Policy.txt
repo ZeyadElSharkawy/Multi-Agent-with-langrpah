@@ -1,0 +1,49 @@
+Customer-Facing Service Level 
+Agreement (SLA) Policy 
+Document ID: IE-SLP-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: IT & Engineering, Sales 
+1. Service Commitment 
+NexaCore commits to providing high availability for its core AI Workflow SaaS platform ("The 
+Service") as defined below. This policy is incorporated into the Master Services Agreement 
+(MSA). 
+2. Uptime Guarantees 
+Service Tier 
+Monthly Uptime 
+Percentage 
+Allowed Downtime per 
+Month 
+Core AI Service (Tier 1) 
+99.9% 
+43 minutes 49 seconds 
+Standard Service (Tier 2) 
+99.5% 
+3 hours 36 minutes 
+Note: Core AI Service 
+includes the primary 
+inference API and user 
+authentication. 
+ 
+ 
+3. Exclusions from Downtime Calculation 
+The following are not counted as service downtime: 
+1.​ Scheduled Maintenance (pre-notified at least 48 hours in advance). 
+2.​ Factors outside of NexaCore's reasonable control (Force Majeure, client's network 
+issues). 
+3.​ Client's use of non-approved third-party software or configurations. 
+4. Service Credits (Remedies) 
+If the actual Monthly Uptime Percentage for the Core AI Service falls below the guaranteed 
+99.9% threshold, the client is eligible for the following service credits: 
+
+Monthly Uptime Percentage 
+Service Credit Applied (as % of Monthly 
+Fee) 
+99.0% to 99.9% 
+5% 
+95.0% to 98.9% 
+10% 
+Below 95.0% 
+20% 
+●​ Note: Credit claims must be submitted in writing within 30 days of the end of the month 
+in question.

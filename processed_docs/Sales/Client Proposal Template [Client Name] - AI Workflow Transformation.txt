@@ -1,0 +1,54 @@
+Client Proposal Template: [Client Name] 
+- AI Workflow Transformation 
+Document ID: SAL-PRO-2025.01 
+Version: 1.0 
+Date: [Date] 
+Account Executive (AE): [AE Name] 
+I. Executive Summary 
+●​ The Challenge: [Client Name] currently faces significant operational friction in their 
+[Specific Department, e.g., Supply Chain Forecasting] workflow, resulting in [Quantifiable 
+Problem: X% inventory waste, Y hours of manual labor, Z cost]. 
+●​ The NexaCore Solution: NexaCore’s Predictive Automation Platform will integrate 
+with [Key System, e.g., SAP/Oracle] to automate [Core Tasks]. 
+●​ Projected ROI: We project a verifiable improvement of [X]% efficiency gain and [Y] 
+AED/USD in annual cost savings within the first 12 months. 
+II. Scope of Work and Deliverables 
+A. Phase 1: Implementation & Training (First 90 Days) 
+1.​ Initial Integration: API connectivity between NexaCore Platform and client data lakes. 
+2.​ Workflow Model Deployment: Deployment of the customized [Product Name, e.g., 
+NexaPredict v3.0] model. 
+3.​ Team Enablement: Comprehensive training for [X] users across [Department]. 
+B. Phase 2: Ongoing Managed Services 
+●​ Subscription: Enterprise Tier 3 access, including unlimited compute usage and [X] 
+simultaneous API calls. 
+●​ SLA: 99.9% uptime guarantee with P1 incident response time of less than 30 minutes. 
+III. Investment Summary 
+Item 
+Description 
+Investment (Annual) 
+Software License 
+NexaCore Enterprise Tier 3 
+Platform Access 
+[AED/USD Amount] 
+Implementation Services 
+One-time integration and 
+customization fee 
+[AED/USD Amount] 
+
+Total Annual Investment 
+ 
+[Total Annual 
+Investment] 
+Discount Applied (If 
+applicable) 
+[X]% Discount for [Reason, 
+e.g., Multi-Year Agreement] 
+([AED/USD Amount]) 
+Net Total Annual 
+Investment 
+ 
+[Net Total Annual 
+Investment] 
+IV. Next Steps 
+We recommend scheduling a final technical deep-dive and submitting this proposal to your 
+internal procurement team by [Date] to ensure the Q[X] deployment timeline.

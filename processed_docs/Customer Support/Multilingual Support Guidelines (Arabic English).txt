@@ -1,0 +1,29 @@
+Multilingual Support Guidelines 
+(Arabic/English) 
+Department: Customer Support (MENA Operations) 
+Guideline ID: CS-GL-002 
+Objective: Standardize service quality for both English and Arabic-speaking enterprise clients, 
+ensuring cultural competence and technical accuracy. 
+1. Language Prioritization and Triage 
+1.​ Ticket Queueing: All incoming tickets are processed by a language detection model. 
+They are then routed to the English Queue or the Arabic Queue. 
+2.​ L1 Assignment: Only certified bilingual agents (internal certification required) are 
+allowed to work the Arabic Queue. 
+3.​ Technical Terminology: When responding in Arabic, use widely accepted, modern 
+technical Arabic terms (e.g., بوابة واجهة برمجة التطبيقات - API Gateway or سيرفر - Server) to 
+maintain clarity and professionalism. 
+2. Communication Best Practices 
+●​ Tone: Maintain a highly professional and formal tone in Arabic correspondence, 
+reflecting the importance of enterprise communication in the region. 
+●​ Translation Tools: Agents may use internal, approved translation tools (like the in-app 
+Gemini Assistant) for initial understanding of complex, colloquial Arabic tickets, but all 
+final outbound communication must be reviewed by a certified bilingual agent for 
+accuracy and cultural nuance before sending. 
+●​ Escalation: If a technically complex P1 ticket is written in Arabic, the L1 agent must 
+provide a concise English Summary (including all technical details) before escalating to 
+the L2/L3 Engineering team, as not all R&D staff may be fluent in technical Arabic. 
+3. Knowledge Base (KB) Management 
+●​ Mandate: All critical KB articles relating to SSO, Data Residency, and P1 incident 
+troubleshooting must have an up-to-date Arabic translation (KB-XXX-AR). 
+●​ Review Cycle: Arabic KB articles must be reviewed quarterly by the Head of Support to 
+ensure linguistic and technical accuracy.

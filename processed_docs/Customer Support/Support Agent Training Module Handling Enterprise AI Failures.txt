@@ -1,0 +1,63 @@
+Support Agent Training Module: 
+Handling Enterprise AI Failures 
+Module: Advanced Technical Support (L2 Focus) 
+Duration: 90 Minutes 
+Objective: Equip L2 agents to diagnose and communicate effectively during failures of 
+AI/ML-driven features. 
+Section 1: Understanding AI Failures 
+AI issues rarely mean "the code broke"; they often mean the prediction was wrong. 
+●​ Technical Failure: A microservice outage, API latency, or a database connection failure. 
+(Handled by SRE/R&D - P0/P1) 
+●​ Model Failure (Drift): The model is running, but the data it sees now is statistically 
+different from its training data, leading to poor performance (inaccuracy). (Handled by 
+Data Science/L2 - P2) 
+●​ Configuration Failure: The user fed the wrong data types or formats to the AI block in 
+the workflow. (Handled by L1/L2 - P3/P2) 
+Section 2: L2 Diagnostic Checklist (AI-LT-504 Errors) 
+When receiving an AI latency or timeout error, follow this checklist before escalating to R&D: 
+Step 
+Action 
+Rationale 
+1. Verify Input Payload 
+Size 
+Use the internal logger to 
+check the size of the data 
+packet passed to the AI 
+block. 
+Payloads cause timeouts. 
+Advise client to 
+pre-process data. 
+2. Check Model Health 
+Dashboard 
+Look up the specific Model 
+ID (e.g., NexaCore-TSM 
+v1.2) in the R&D Model 
+Dashboard. 
+Check the Confidence 
+Score and Data Drift 
+warning. If low, model 
+re-train is needed. 
+3. Test with Known Good 
+Data 
+Run the client's workflow 
+with a small, pre-approved 
+"clean" test data set. 
+If the clean data works, the 
+client's current input data 
+is the problem (Go back to 
+Configuration). 
+4. Regional Latency 
+Check 
+Ping the AI inference 
+endpoint from the client's 
+Confirm network latency is 
+not the root cause before 
+
+regional API Gateway. 
+involving SRE. 
+Section 3: Communication - Setting Expectations 
+●​ Avoid: "The AI is broken." 
+●​ Use: "There appears to be a prediction confidence deviation in your customized model 
+instance." 
+●​ Expectation Setting: Model re-training is not an instant fix. Inform the client that a 
+re-train cycle typically takes and will require additional configuration testing.

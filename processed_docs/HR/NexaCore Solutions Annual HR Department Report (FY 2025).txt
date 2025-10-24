@@ -1,0 +1,76 @@
+NexaCore Solutions Annual HR 
+Department Report (FY 2025) 
+Reporting Period: 2024-07-01 to 2025-06-30 
+Date of Report: 2025-07-15 
+Prepared By: HR Strategy and Analytics Team 
+1. Executive Summary 
+FY2025 was a period of aggressive expansion, aligned with the launch of our new AI Workflow 
+Suite. Headcount grew by [35%], primarily in Engineering and Sales. Key challenges include 
+increased attrition in senior AI/ML roles and the integration of a multi-regional, hybrid 
+workforce. Core successes include a 20% reduction in average time-to-hire for technical roles 
+and the successful rollout of the new global HRIS platform. 
+2. Workforce Metrics 
+2.1. Headcount Growth and Distribution 
+●​ Total Headcount (End of Period): 485 
+●​ Net Growth (YOY): +126 employees 
+●​ Department Breakdown: Engineering (40%), Sales (30%), Product/R&D (15%), 
+Operations/Admin/HR/Finance/Legal (15%). 
+2.2. Attrition Rate 
+Category 
+FY2024 Rate 
+FY2025 Rate 
+Trend Analysis 
+Voluntary Attrition 
+(Total) 
+8.5% 
+12.1% 
+Significant 
+increase, largely 
+concentrated in the 
+2–3 year tenure 
+bracket. 
+High-Potential 
+Talent 
+4.0% 
+6.5% 
+Concern: Requires 
+immediate focus on 
+retention strategies 
+(compensation/equi
+ty review). 
+2.3. Time-to-Hire (TTH) 
+
+Role Category 
+Target (Days) 
+Average TTH 
+(Days) 
+Improvement 
+(YOY) 
+Technical (E3+) 
+45 
+36 
+20% faster due to 
+specialized 
+sourcing pipelines. 
+Sales/Marketing 
+30 
+32 
+Slight delay due to 
+rigorous regional 
+language 
+assessment. 
+3. Talent Development and Compliance 
+3.1. Training Completion 
+●​ IT Security Policy & AI Ethics: 100% completion rate for all employees. 
+●​ Management Essentials: 85% of new managers completed the training within 90 days. 
+3.2. Performance Management Cycle 
+●​ PAO Completion Rate: 95% of eligible employees completed their annual review. 
+●​ Goal Alignment: 88% of employee goals were demonstrably linked to an overarching 
+company OKR (Objective and Key Result). 
+4. Key Recommendations for FY2026 
+1.​ Retention: Launch an immediate review of the E3–E5 compensation band, focusing on 
+enhanced equity grants to stabilize critical mid-career technical talent. 
+2.​ Culture: Initiate a "Hybrid Work Effectiveness" survey to refine the Remote Work Policy 
+and improve team cohesion across geographical boundaries. 
+3.​ Hiring: Expand the talent pool to include non-traditional educational backgrounds to 
+address the demand for specialized AI skills.

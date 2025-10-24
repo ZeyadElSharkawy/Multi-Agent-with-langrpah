@@ -1,0 +1,37 @@
+Service Degradation Notification 
+Template (External Client) 
+Subject: NexaCore Service Status Update: [Incident ID, e.g., INC-2025-10-042] - [Brief 
+Summary] 
+Date & Time: [YYYY-MM-DD] at [HH:MM] AST 
+Prepared By: Communications Manager (Operations Team) 
+1. Initial Report / Confirmation 
+Dear [Client POC Name], 
+NexaCore Solutions is currently investigating an elevated service degradation impacting 
+[State Scope: e.g., the core workflow engine / a specific regional cluster / reporting 
+functionality]. 
+Incident ID: [INC-YYYY-MM-XXX] 
+Priority Level: P1 (High Severity) 
+Affected Scope: [Specify exact services: e.g., New workflow creation is failing; Real-time data 
+processing is delayed.] 
+Client Impact: [Briefly describe the likely effect on the client: e.g., Users may experience 
+timeouts when attempting to launch new automation workflows.] 
+We have engaged our senior SRE and Operations teams and are working with the highest 
+priority to diagnose the root cause and implement mitigation measures. 
+2. Current Status and Actions Taken 
+●​ Status: Investigation is ongoing. We have identified a potential issue with [e.g., a recent 
+configuration change / an unexpected surge in load in the [Region] cloud zone]. 
+●​ Actions: 
+○​ The Incident Commander has been assigned and is coordinating the response. 
+○​ We have isolated the suspected component to prevent further service degradation. 
+○​ We are currently executing the automated failover procedure to our secondary 
+availability zone. 
+3. Mitigation and Next Update 
+Our immediate goal is to restore service stability and performance. 
+Mitigation Plan: [e.g., Rollback to the pre-change configuration / Manually increase cluster 
+capacity] 
+Estimated Time to Next Update: We will provide an update within [30 Minutes] or sooner if the 
+
+service is restored. 
+We apologize for the disruption and thank you for your patience. 
+Sincerely, 
+The NexaCore Operations Team

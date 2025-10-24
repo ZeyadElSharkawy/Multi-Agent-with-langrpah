@@ -1,0 +1,33 @@
+Sales Demo Environment and Sandbox 
+Guide 
+Document ID: SAL-DEMO-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Sales Enablement, Engineering 
+1. Objective 
+To maintain a high-performance, secure, and consistent demonstration environment 
+(Sandbox) that accurately reflects NexaCore's production capabilities without compromising 
+data security. 
+2. The Standard Demo Environment (SDE) 
+●​ Access: All AEs and SDRs are granted automatic access. 
+●​ Use Case: The SDE is pre-configured with the "Simulated Bank Fraud Detection" and 
+"Logistics Route Optimization" workflows. 
+●​ Data: Contains anonymized, synthetic, non-identifiable data only. Never upload live 
+client data to the SDE. 
+●​ Refreshes: The SDE is automatically reset to its base state every Saturday at 02:00 
+GST to ensure performance and data consistency. Do not save custom client-specific 
+data here. 
+3. Custom Proof of Value (POV) Sandbox 
+●​ Purpose: Used only for high-priority Enterprise deals (Stage 4+) requiring a 
+client-specific pilot and model training. 
+●​ Request: Requires submission and approval of the Technical Sales Support Request 
+Form. 
+●​ Security: Every POV Sandbox is isolated, containerized, and subject to an automatic 
+90-day expiry unless extended by the VP of Sales. 
+●​ Data Handling: Client data uploaded to a POV Sandbox must be handled per the Legal 
+Data Privacy Policy and requires a signed Data Processing Addendum (DPA). 
+4. Policy for Demo Failures 
+If a demo fails due to a technical error: 
+1.​ Immediately switch to a pre-approved back-up presentation (screenshot/video demo). 
+2.​ Log a P1 ticket with Engineering immediately after the call. 
+3.​ Do not attempt to debug the issue live on the call.

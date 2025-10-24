@@ -1,0 +1,122 @@
+Customer Support Escalation Matrix 
+(Contact & Responsibility) 
+Objective: Clearly define the internal resources responsible for P0 and P1 incidents and the 
+required communication method. 
+Date: 2025-11-01 
+Severity 
+Responsibl
+e Tier 
+On-Call 
+Team/Role 
+Contact 
+Method 
+(Internal) 
+Target 
+Response 
+Time (SLA) 
+Primary 
+Client 
+Communic
+ator 
+P0 
+(Critical) 
+L3 
+(Engineerin
+g) 
+SRE 
+PagerDuty 
+Rotation 
+PagerDuty 
+Alert 
+(Immediate) 
+& 
+Dedicated 
+Slack 
+Channel: 
+#ops-p0-al
+ert 
+ 
+Head of 
+Support / 
+CSM 
+P1 (High) 
+L3 
+(Engineerin
+g) 
+R&D Lead 
+On-Call 
+Slack DM + 
+Internal 
+Phone Call 
+(Priority) 
+ 
+L2 
+Technical 
+Specialist 
+P2 
+(Medium) 
+L2 
+(Specialist) 
+L2 
+Specialist 
+Queue 
+Standard 
+Ticket 
+Assignment 
+(CRM) 
+2 hours 
+(Business 
+Hours) 
+L1/L2 Agent 
+P3 (Low) 
+L1 (Agent) 
+L1 Global 
+Queue 
+Standard 
+Ticket 
+Assignment 
+(CRM) 
+4 hours 
+(Business 
+Hours) 
+L1 Agent 
+Complaint/
+Risk 
+Executive/C
+SM 
+Head of 
+Customer 
+Success 
+Email Alert 
++ Phone 
+Call 
+(Mandatory
+1 hour 
+Head of 
+Customer 
+Success 
+
+) 
+Incident Management Protocol for P0/P1 
+1.​ Initial Alert (L1): Within 5 minutes of confirmation, the L1 agent must post the issue and 
+the client's Tenant ID into the relevant Slack channel (e.g., #ops-p0-alert). 
+2.​ Acknowledgement (L3): The PagerDuty-alerted L3 engineer must acknowledge the 
+incident within the SLA window and confirm the lead engineer on the issue. 
+3.​ Executive Notification: The Head of Support must notify the VP of Operations and the 
+Head of R&D for P0 incidents immediately via internal chat/phone, regardless of the time 
+of day. 
+Key Internal Contact Details (Placeholder) 
+Role 
+Contact (Internal) 
+Backup Contact 
+Head of Customer 
+Support 
+[Phone Number] 
+[Backup Manager Phone] 
+SRE On-Call Leader 
+PagerDuty: 
+sre-rotation-main 
+[SRE Manager Phone] 
+R&D Code Fix Lead 
+PagerDuty: rd-feature-lead 
+[R&D Manager Phone]

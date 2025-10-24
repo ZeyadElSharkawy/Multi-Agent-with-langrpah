@@ -1,0 +1,31 @@
+Website and Digital Property 
+Governance 
+Document ID: MKT-WGP-2025.01 
+Version: 1.0 
+Effective Date: 2025-11-01 
+Department: Marketing, IT & Engineering 
+1. Scope 
+This policy covers the primary corporate website, all product landing pages, and associated 
+subdomains used for marketing or developer documentation. 
+2. Content and Messaging Accuracy 
+●​ Source of Truth: The website must reflect the most current and accurate product 
+features, pricing, and claims. Discrepancies between the website and the Sales 
+Playbook must be resolved within 48 hours. 
+●​ Legal Pages: All Legal documents (Terms of Service, Privacy Policy) must be prominently 
+linked in the global footer and managed via a version control system by the Legal 
+department. 
+3. Technical and Security Requirements 
+●​ Hosting: The website must be hosted on secure, high-availability infrastructure managed 
+by the IT/DevOps team. 
+●​ Security: Mandatory implementation of a Web Application Firewall (WAF) to protect 
+against common web attacks (e.g., XSS, SQLi). 
+●​ Performance: All pages must adhere to the SEO standards for speed and mobile 
+responsiveness. Core marketing pages must load in < 3 seconds globally. 
+4. Change Management and Approval 
+1.​ Request: Marketing submits a change request via the ticketing system. 
+2.​ Staging: The change is deployed to a password-protected staging environment for 
+review. 
+3.​ Approval: Marketing Manager and PMM approve the functional and aesthetic changes. 
+Legal/Compliance approves any copy related to claims or privacy. 
+4.​ Deployment: IT/Engineering deploys the change to production via the standard CI/CD 
+pipeline.

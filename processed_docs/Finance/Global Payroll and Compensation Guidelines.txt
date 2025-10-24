@@ -1,0 +1,39 @@
+Global Payroll and Compensation 
+Guidelines 
+Document ID: FN-PG-2025.01 
+Version: 1.0 
+Effective Date: 2025-08-01 
+Department: Finance & HR 
+1. Scope and Authority 
+These guidelines detail the procedures for calculating, processing, and distributing 
+compensation to all NexaCore Solutions employees, adhering strictly to the labor laws and tax 
+regulations of the jurisdictions in which we operate (primarily UAE, but including other MENA 
+regions). 
+2. Payroll Cycle 
+●​ Standard Pay Date: Payroll is processed monthly and deposited on the [25th] of each 
+calendar month. If the 25th falls on a weekend or public holiday, payment will be made on 
+the preceding business day. 
+●​ Pay Period: The pay period runs from the 1st day through the last day of the calendar 
+month. 
+3. Compensation Components 
+●​ Base Salary: Paid monthly in the local currency (or USD equivalent based on contract). 
+Exchange rates for non-AED contracts are fixed at the 1st of the month. 
+●​ Commissions & Bonuses: Sales commissions are calculated based on the signed 
+contract date and paid in the month following closure. Annual performance bonuses are 
+paid in [March] (refer to Compensation & Benefits Overview). 
+●​ Overtime: Overtime must be pre-approved by the department head. Compensation for 
+overtime follows local labor law minimums. 
+4. Deductions 
+Standard deductions include: 
+1.​ Statutory deductions (e.g., Pension contributions, local income tax, if applicable). 
+2.​ Employee share of medical insurance premiums. 
+3.​ Approved loan repayments or salary advances. 
+5. Employee Responsibility 
+●​ Employees must ensure their bank details and personal information in the HRIS are 
+
+always current. 
+●​ All time-off (leave, sick days) must be correctly entered into the HRIS before the [15th] of 
+the month to ensure accurate processing. 
+●​ Any payroll discrepancy must be reported in writing to the Payroll Specialist within [5 
+business days] of receiving the payslip. 
+Payroll Contact: [Payroll Specialist Name], Email: [payroll.email@nexacore.com]

@@ -1,0 +1,63 @@
+Service Level Agreement (SLA) - 
+Enterprise Clients 
+Service Owner: NexaCore Solutions 
+Applicable To: All clients on the Enterprise Subscription Tier. 
+Effective Date: 2026-01-01 
+1. Uptime Guarantee (Service Availability) 
+NexaCore guarantees a minimum Service Uptime Level of per calendar month ("Four Nines" 
+Reliability). 
+1.1 Calculation of Downtime 
+Downtime is defined as any period where the core NexaCore Workflow Engine or API Gateway 
+is inaccessible or unusable (P0/P1 incidents). Scheduled maintenance is excluded if notified 
+48 hours in advance. 
+2. Support Response and Resolution Targets 
+This section defines the maximum acceptable timeframes for initial response and final 
+resolution, based on the Ticket Severity defined in the Escalation Policy (CS-POL-001). 
+Severity 
+Definition of 
+Impact 
+Initial Response 
+Time (Maximum) 
+Time to 
+Resolution (TTR) 
+Target 
+P0 (Critical) 
+Core Service Down 
+ 
+ 
+P1 (High) 
+Major Functionality 
+Impaired 
+ 
+ 
+P2 (Medium) 
+Minor Functionality 
+Impaired 
+2 hours (Business 
+Hours) 
+3 working days 
+P3 (Low) 
+General Query / 
+Minor Bug 
+4 hours (Business 
+Hours) 
+5 working days 
+Note: Business Hours are defined as Sunday-Thursday, 09:00 - 18:00 GST. 
+3. Service Credit Policy (Remediation) 
+
+If NexaCore fails to meet the guaranteed Service Uptime Level or fails to meet the P0/P1 
+Response Time targets in a given calendar month, the client may be eligible for a Service 
+Credit, applied against the subsequent month's subscription fee. 
+Failure Condition 
+Service Credit Percentage 
+Service Uptime between and 
+ 
+Service Uptime between and 
+ 
+Service Uptime less than 
+ 
+Failure to meet P0 Response Time three or 
+more times in a month 
+ 
+Credit Limit: The total maximum Service Credit applied in any single month shall not exceed 
+of the client's monthly subscription fee.

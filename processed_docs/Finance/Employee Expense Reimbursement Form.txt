@@ -1,0 +1,111 @@
+Employee Expense Reimbursement Form 
+Document ID: FN-ERF-2025.01 
+Version: 1.1 
+Effective Date: 2025-09-01 
+Department: Finance 
+Instructions: Please complete all required fields and attach original, legible receipts for all 
+expenses over [AED 50/USD 15]. Claims must be submitted within [30 days] of the expense 
+incurrence date. Review the Travel & Expense Policy before submission. 
+1. Employee and Submission Details 
+Field 
+Input 
+Employee Name: 
+[Employee Name] 
+Employee ID: 
+[ID Number] 
+Department: 
+[Department] 
+Date of Submission: 
+[Date] 
+Purpose/Client Project: 
+[e.g., Q3 Sales Trip to KSA, Product R&D 
+Research] 
+2. Expense Summary 
+Date 
+Descripti
+on/Vend
+or 
+Categor
+y (T&E 
+Policy) 
+Currenc
+y 
+Amount 
+Paid 
+Amount 
+Claimed 
+(USD) 
+Receipt 
+Attached 
+(Y/N) 
+[Date] 
+[e.g., 
+Flight: 
+Dubai to 
+Riyadh] 
+Travel - 
+Airfare 
+AED 
+[Amount] 
+[Amount] 
+Y 
+[Date] 
+[e.g., 
+Client 
+Dinner w/ 
+Alpha 
+Entertain
+ment/Clie
+nt 
+AED/USD 
+[Amount] 
+[Amount] 
+Y 
+
+Ent.] 
+[Date] 
+[e.g., 
+SaaS 
+Tool 
+Subscript
+ion] 
+Software/
+Tools 
+USD 
+[Amount] 
+[Amount] 
+Y 
+[Date] 
+[e.g., Taxi 
+to Dubai 
+HQ] 
+Travel - 
+Local 
+Transport 
+AED 
+[Amount] 
+[Amount] 
+Y 
+TOTAL 
+AMOUN
+T 
+CLAIME
+D (USD): 
+ 
+ 
+ 
+ 
+[Total] 
+ 
+3. Declarations and Approvals 
+Employee Declaration: I certify that these expenses were incurred for legitimate business 
+purposes and comply with the NexaCore Solutions T&E Policy. 
+Employee Signature: _________________________ Date: [Date] 
+Manager Approval: I approve these expenses as necessary and reasonable for the 
+performance of the employee's duties. 
+Manager Name: [Manager Name] 
+Manager Signature: _________________________ Date: [Date] 
+Finance Use Only: 
+●​ Audit Checked: [ ] 
+●​ Payment Method: [ ] Bank Transfer [ ] Payroll Addition 
+●​ Date Processed: [Date]

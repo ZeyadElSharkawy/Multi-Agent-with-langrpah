@@ -1,0 +1,32 @@
+A/B Testing Strategy Document - 
+Appendix: Test Deployment Guide 
+Deployment Owner: R&D Front-End Engineer 
+System: Internal Feature Flagging Platform (FFP) 
+Objective: Provide R&D with a step-by-step guide for deploying and monitoring A/B test 
+variants. 
+1. Test Preparation (Before Deployment) 
+1.​ Ticket Creation: Ensure the test has an approved Product ticket containing the 
+Hypothesis, Primary Metric, and Target Segment (e.g., of users in the UAE region). 
+2.​ Code Branching: Create separate, isolated code branches for Variant A (Control) and 
+Variant B (Test). 
+3.​ Feature Flagging: Define a new feature flag in the FFP (ff-AB-TEST-00X). Ensure the 
+flag defaults to OFF in production. 
+4.​ Logging: Implement event logging on both Variant A and Variant B for the Primary Metric 
+(e.g., event.log("AB_TEST_00X_Click", "Variant_B")). 
+2. Deployment Steps 
+1.​ Merge: Merge both Variant A and Variant B branches to the main R&D branch. 
+2.​ Staging: Deploy the code to the Staging environment. 
+3.​ Smoke Test: Product Manager and R&D must verify both variants load correctly and the 
+FFP correctly assigns the control/test groups based on the URL parameter. 
+4.​ Production Canary: Deploy the code to Production (Feature Flag still OFF). 
+5.​ Activation: Once deployed, the R&D Engineer slowly activates the feature flag based on 
+the target segmentation defined in the Product ticket (e.g., segment for 1 hour, then ). 
+3. Monitoring and Safety Checks 
+●​ Guardrail Alerting: The SRE team must set up temporary, elevated alerts on the new 
+feature endpoints to monitor for performance degradation. 
+●​ Daily Check: The Product Manager and R&D Lead must review the dashboard daily to 
+ensure traffic splitting is and that error rates for the test segment are not significantly 
+higher than the control segment. 
+●​ Kill Switch: If a P1/P0 incident is triggered by the test, the R&D Engineer must 
+immediately flip the feature flag OFF in the FFP (the kill switch). The fix is then deployed 
+as an emergency patch.

@@ -1,0 +1,112 @@
+Infrastructure Cost Optimization Report 
+- [Month, Year] 
+Prepared By: [SRE/FinOps Specialist] 
+Reporting Period: [Month, Year] 
+Cost Target: −15% year-over-year operational efficiency. 
+1. Executive Summary and Savings Achieved 
+●​ Total Monthly Cloud Spend: $[Amount] 
+●​ Variance to Budget: [e.g., or ] 
+●​ Total Savings Realized This Month: $[Amount] (via de-provisioning, rightsizing, 
+automation) 
+●​ Key Finding: [Briefly state the largest factor in the cost variance (e.g., "Increased spend 
+driven by non-prod storage," or "Significant savings due to new RI commitment.")] 
+2. Cost Breakdown by Category 
+Cost Center 
+Tag 
+Budget ($) 
+Actual Spend 
+($) 
+Variance (%) 
+Notes 
+Compute 
+(EC2/K8s) 
+ 
+ 
+ 
+Focus for 
+Rightsizing 
+Database 
+Services 
+(RDS/SQL) 
+ 
+ 
+ 
+Review 
+reserved 
+capacity 
+Storage 
+(S3/EBS) 
+ 
+ 
+ 
+Identify 
+unattached 
+volumes 
+Networking/D
+ata Transfer 
+ 
+ 
+ 
+High data 
+transfer costs 
+require review 
+Logging/Moni
+toring 
+ 
+ 
+ 
+Evaluate data 
+retention 
+policies 
+Total 
+ 
+ 
+ 
+ 
+
+3. Optimization Opportunities & Actions Taken 
+3.1 Rightsizing (Compute/Database) 
+●​ Finding: [X number] of non-production EC2 instances are running at CPU utilization. 
+●​ Action Taken: Downsized to smaller instance family, saving $[Amount] monthly. 
+●​ Next Action: Target R&D development environments for automated shut-down after 
+19:00 AST. 
+3.2 Storage Clean-Up 
+●​ Finding: [X number] of unattached or aged ( days) EBS volumes and S3 buckets 
+identified. 
+●​ Action Taken: Deleted/Archived unused resources, saving $[Amount] monthly. 
+●​ Next Action: Enforce a 60-day lifecycle policy on all non-prod S3 buckets. 
+3.3 Reserved Instance (RI) and Savings Plan Efficiency 
+●​ Current RI Coverage: [Percentage] 
+●​ Gap/Recommendation: Purchase an additional $[Amount] in 1-year RIs to cover 
+projected base load growth in the core data lake, increasing coverage to . 
+●​ Estimated Savings from Purchase: $[Amount] annually. 
+4. Recommendations for Next Month 
+Recommendation 
+Estimated Savings 
+Owner 
+Due Date 
+Implement 
+automated daily 
+shutdown script for 
+all Dev/QA 
+environments. 
+$[Amount] 
+[SRE Lead] 
+[Date] 
+Investigate and 
+optimize high 
+cross-AZ data 
+transfer costs 
+(Networking). 
+$[Amount] 
+[Ops Analyst] 
+[Date] 
+Review AI model 
+training pipelines 
+for transient 
+resource usage vs. 
+N/A 
+[R&D/Ops] 
+[Date] 
+
+always-on.

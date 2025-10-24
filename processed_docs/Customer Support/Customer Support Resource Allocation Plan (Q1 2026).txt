@@ -1,0 +1,82 @@
+Customer Support Resource Allocation 
+Plan (Q1 2026) 
+Department: Customer Support & Success 
+Period: January 1, 2026 - March 31, 2026 
+Prepared By: Head of Customer Support 
+1. Context and Goals 
+Q1 2026 includes the General Availability (GA) launch of the Predictive AI Workflow Trigger 
+(PAWT) and increased focus on the KSA regional market. The goal is to allocate specialized 
+L2 resources to manage the expected increase in complex AI and regional compliance tickets. 
+2. Agent Allocation by Tier and Language 
+The team currently consists of 15 L1 agents and 5 L2 specialists. 
+Resource Pool 
+Total Agents 
+Q1 Focus 
+Allocation (%) 
+Rationale 
+L1 Global 
+(Arabic/English) 
+15 
+ (11.25 FTE) 
+Handling increased 
+P3 volume from 
+new feature 
+adoption. 
+L2 Technical 
+Specialists 
+5 
+ (3 FTE) 
+Dedicated to 
+P2/P3 core 
+platform issues. 
+L2 AI & ML 
+Support Team 
+2 
+ (2 FTE) 
+Dedicated to 
+PAWT tickets 
+(KB-205 errors) 
+and model 
+configuration. 
+L2 
+Multilingual/Comp
+liance 
+1 
+ (1 FTE) 
+Dedicated to KSA 
+regional 
+compliance 
+tickets and Arabic 
+L2 escalation. 
+On-Call Rotation 
+5 
+Shared 
+ coverage for P0/P1 
+
+(L1/L2) 
+triage. 
+3. Training and Development Focus 
+We will allocate 10 hours per agent this quarter for mandatory training: 
+Training Module 
+Target Role 
+Goal 
+AI Failures Protocol 
+All L1 & L2 Agents 
+Standardize diagnosis and 
+communication for PAWT 
+issues. 
+Advanced SAML 
+Troubleshooting 
+L2 Technical Specialists 
+Reduce escalation to R&D 
+for SSO issues (KB-101). 
+KSA Compliance & Data 
+Handling 
+L2 Multilingual Specialist 
+Ensure zero compliance 
+failures in regional 
+communication. 
+4. Hiring Recommendation (Urgent) 
+We recommend an immediate budget approval for 1 Senior L2 Technical Specialist 
+(Bilingual Arabic/English) to support the Q1 launch and mitigate the risk of L2 burnout from 
+the PAWT GA launch.

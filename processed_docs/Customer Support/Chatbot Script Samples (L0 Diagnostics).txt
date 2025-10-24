@@ -1,0 +1,45 @@
+Chatbot Script Samples (L0 Diagnostics) 
+Platform: NexaCore In-App Assistant (Powered by Gemini) 
+Objective: Resolve L0 (low-complexity) issues and efficiently triage/collect data for L1 
+escalation. 
+Script 1: Workflow Status Check (Pre-Escalation) 
+User Input: "My expense approval workflow (ID: 789) hasn't executed for 3 hours." 
+Chatbot Response (L0): 
+Hello! I can certainly help check the status of Workflow ID 789. 
+First, let's confirm the core issue: 
+1.​ Is the workflow currently stuck (In Progress, but not moving)? 
+2.​ Did the workflow fail with an error message? 
+3.​ Did the workflow fail to start at all (Trigger not activating)? 
+User selects: 3. Did the workflow fail to start at all. 
+Chatbot Response (L0): 
+Thank you. That usually points to a trigger configuration issue. Before connecting you to an L1 
+agent, could you please confirm the following: 
+●​ Is the workflow trigger based on a Scheduled Time or an API Event? 
+●​ Have you checked the API Key status for the connecting service in the Integrations 
+section? 
+If user confirms they checked the API Key: 
+Chatbot Response (L0): 
+I see. I have logged these diagnostic steps. I am now opening a P2 ticket for you: [TICKET_ID]. 
+I have automatically attached your workflow ID and the confirmed check of the API key status. 
+An L1 specialist will take over shortly. 
+Script 2: General Information/Documentation Request 
+User Input: "Where can I find the documentation for the new AI content summarization 
+block?" 
+Chatbot Response (L0): 
+I'd be happy to point you to the correct resource! The documentation for the AI Content 
+Summarization Block is part of our Proactive Intelligence Module. 
+Here are the direct links: 
+●​ [Link: KB-201 - AI Summarization Block Setup Guide] 
+●​ [Link: Feature Specification Document (PRD)] 
+Is there anything else I can assist you with, or would you like me to connect you to a live agent 
+
+for a specific technical question? 
+Script 3: Multilingual Triage (MENA Region) 
+User Input: "أنا ال أستطيع الدخول إلى لوحة القيادة (I cannot access the dashboard)." 
+Chatbot Response (L0 - Auto-Detect Arabic): 
+.ًمرحبا.
+:
+1.​هل تواجه مشكلة في تسجيل الدخول (SSO / كلمة ؟)المرور)
+2.​هل تتمكن من تسجيل الدخول ولكن لوحة القيادة فارغة؟ 
+(Translation: Hello. Please provide the following information: 1. Are you having an issue logging 
+in (SSO/Password)? 2. Can you log in, but the dashboard is empty?)

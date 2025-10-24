@@ -1,0 +1,71 @@
+Sales Commission and Incentive Plan 
+(FY26) 
+Document ID: SAL-COM-2026.01 
+Version: 1.0 
+Effective Date: 2026-01-01 
+Department: Sales, Finance 
+1. Objective 
+To motivate high-performance sales teams by offering a competitive, transparent, and 
+results-driven compensation plan focused on achieving Annual Recurring Revenue (ARR) 
+targets. 
+2. Sales Executive (AE) Compensation Structure 
+Component 
+Metric 
+Calculation 
+Notes 
+On-Target 
+Earnings (OTE) 
+Base Salary + 
+Target Commission 
+50% Base / 50% 
+Commission 
+(Industry Standard) 
+ 
+Commission Rate 
+New ARR Booked 
+(Closed Won) 
+10% of New ARR 
+Applied to Year 1 
+Revenue only. 
+Quota Accelerator 
+Performance > 
+100% of Quarterly 
+Quota 
+15% Commission 
+Rate 
+Applies 
+retroactively to all 
+ARR once 100% is 
+hit. 
+Renewal 
+Commission 
+Renewal of Existing 
+ARR 
+3% of Renewed 
+ARR 
+Paid annually upon 
+contract signature. 
+Expansion/Upsell 
+New ARR from 
+existing accounts 
+(first 18 months) 
+5% of Expansion 
+ARR 
+Decreases to 3% 
+after 18 months. 
+3. Sales Development Rep (SDR) Incentive Plan 
+SDR compensation is tied to quantifiable pipeline generation and quality. 
+●​ Fixed Bonus: AED 1,000 for every SQL (Sales Qualified Lead) passed to an AE that is 
+
+accepted (does not require AE to close the deal). 
+●​ Performance Bonus: AED 5,000 bonus for every SQL that progresses to Stage 3 
+(Negotiation) in the CRM. 
+4. Payment Schedule 
+Commissions are calculated monthly and paid out in the subsequent pay cycle (Net 30). 
+Commission payments are contingent upon the client's initial payment being received by 
+NexaCore Finance. 
+5. Draw and Clawback Policy 
+●​ Draw: Not applicable. All commission is strictly performance-based. 
+●​ Clawback: Commissions paid on ARR for contracts that are terminated by the client for 
+convenience or non-payment within 6 months of the contract start date will be clawed 
+back from the AE's subsequent commission payments.

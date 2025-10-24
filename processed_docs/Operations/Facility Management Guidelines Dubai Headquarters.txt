@@ -1,0 +1,56 @@
+Facility Management Guidelines: Dubai 
+Headquarters 
+Department: Operations 
+Location: [Building Name], Dubai Internet City, UAE 
+Version: 1.0 
+Date: 2025-09-01 
+1. Scope and Security Access 
+These guidelines cover the maintenance, security, and operation of the NexaCore Solutions 
+corporate office, focusing on physical security and critical infrastructure. 
+1.1 Physical Access Control 
+●​ Key Cards: Access cards are granted based on role (standard employee, IT/Ops, 
+Executive). Lost cards must be reported immediately to the Facility Manager for 
+deactivation. 
+●​ Server Room (Data Closet): Access is restricted to authorized IT/Operations personnel 
+only. Requires dual authentication (key card + biometric/PIN). A mandatory logbook must 
+be signed upon entry and exit. 
+●​ Visitor Protocol: All visitors must pre-register and be escorted by a NexaCore employee 
+at all times. 
+2. Infrastructure and Maintenance 
+2.1 HVAC and Climate Control 
+●​ Standard Office Area: Temperature target is () during working hours. 
+●​ Server Room/Data Closet: Temperature target is (). Monitoring systems must alert the 
+Ops team if the temperature exceeds for more than 10 minutes. 
+●​ Maintenance: HVAC units for the server room are on a mandatory quarterly preventative 
+maintenance schedule. 
+2.2 Power Systems (UPS and Generator) 
+●​ Uninterruptible Power Supply (UPS): UPS units supporting the server room must 
+maintain a minimum runtime of 30 minutes at full load. 
+●​ Generator: The facility generator is tested monthly under load. The Ops team must 
+ensure critical networking equipment has a clean, reliable transfer switch to the 
+generator power source. 
+3. Incident Reporting (Non-IT) 
+
+Incident Type 
+Reporting Method 
+Response Time Goal 
+Fire/Emergency 
+Activate nearest fire alarm; 
+call local emergency 
+services () and Facility 
+Manager. 
+Immediate 
+Water Leak/Plumbing 
+Report immediately to the 
+Facility Manager via 
+internal ticket system 
+(Priority: High). 
+< 30 Minutes 
+Building Access Failure 
+Call the Facility Manager's 
+emergency line. 
+< 15 Minutes 
+Security Breach (External) 
+Call Security (x555) and 
+notify HR. 
+Immediate

@@ -1,0 +1,109 @@
+NexaCore Solutions Profit & Loss (P&L) 
+Statement - Q4 FY2025 
+Period Ending: 2025-12-31 
+Document ID: FN-PL-2025-Q4 
+Date Issued: 2026-01-20 
+Prepared By: Corporate Accounting 
+Revenue 
+Account 
+Q4 FY2025 (USD) 
+YTD FY2025 (USD) 
+Notes 
+Subscription 
+Revenue (ARR) 
+$14,800,000 
+$55,000,000 
+Exceeds Annual 
+Target by 1.5%. 
+Professional 
+Services/Implement
+ation 
+$1,200,000 
+$4,500,000 
+High demand for 
+custom AI 
+integration. 
+TOTAL REVENUE 
+$16,000,000 
+$59,500,000 
+ 
+Cost of Goods Sold (CoGS) 
+Account 
+Q4 FY2025 (USD) 
+YTD FY2025 (USD) 
+Cloud Infrastructure & 
+Hosting 
+$2,000,000 
+$8,000,000 
+Third-Party API Costs 
+$450,000 
+$1,800,000 
+Professional Services Labor 
+(Direct) 
+$150,000 
+$600,000 
+TOTAL CoGS 
+$2,600,000 
+$10,400,000 
+GROSS PROFIT 
+$13,400,000 
+$49,100,000 
+GROSS MARGIN % 
+83.75% 
+82.52% 
+
+Operating Expenses (OPEX) 
+Account 
+Q4 FY2025 (USD) 
+YTD FY2025 (USD) 
+Notes 
+R&D / Engineering 
+Salaries 
+$5,500,000 
+$20,000,000 
+Largest expense, 
+supporting AI 
+model 
+development. 
+Sales Salaries & 
+Commission 
+$3,500,000 
+$12,500,000 
+High commission 
+payout due to 
+strong Q4 closures. 
+Marketing & 
+Advertising 
+$1,800,000 
+$6,500,000 
+Focus on regional 
+digital campaigns. 
+G&A (Rent, Utilities, 
+Admin) 
+$1,200,000 
+$4,800,000 
+Dubai HQ operating 
+costs. 
+Depreciation & 
+Amortization 
+$300,000 
+$1,200,000 
+Reflecting CapEx 
+investment. 
+TOTAL OPEX 
+$12,300,000 
+$45,000,000 
+ 
+Final Profit Calculation 
+Metric 
+Q4 FY2025 (USD) 
+YTD FY2025 (USD) 
+Operating Income (EBIT) 
+$1,100,000 
+$4,100,000 
+Interest Expense 
+($50,000) 
+($200,000) 
+NET PROFIT BEFORE TAX 
+$1,050,000 
+$3,900,000
