@@ -1,6 +1,6 @@
-# File: src/agents/final_answer_agent.py (fixed version)
+# File: src/agents/final_answer_agent.py (FIXED VERSION)
 """
-Final Answer Agent - Fixed to properly handle fact checker results
+Final Answer Agent - Fixed to properly parse fact checker results
 """
 
 import os
@@ -16,7 +16,7 @@ if not GOOGLE_API_KEY:
     raise ValueError("⚠️ Missing Google API key.")
 
 genai.configure(api_key=GOOGLE_API_KEY)
-model = genai.GenerativeModel("gemini-2.0-flash-lite")
+model = genai.GenerativeModel("gemini-2.5-flash")
 
 def extract_json_from_text(text: str) -> dict:
     """Extract JSON from text, handling markdown code blocks and malformed JSON."""
@@ -47,15 +47,18 @@ def generate_final_answer(original_query: str, verified_claims: dict, context_do
     Returns a dict with the answer and metadata.
     """
     
-    print(f"🔍 Final Answer Agent received {len(verified_claims)} verified claims")
+    print(f"🔍 Final Answer Agent received verified_claims type: {type(verified_claims)}")
+    print(f"🔍 Verified claims keys: {list(verified_claims.keys()) if verified_claims else 'EMPTY'}")
     
     # Debug: Print what we actually received
-    print("📊 Verified claims structure:")
-    for key, value in list(verified_claims.items())[:3]:  # Show first 3
-        print(f"  Key: {key[:50]}...")
-        print(f"  Value type: {type(value)}")
-        if isinstance(value, dict):
-            print(f"  Status: {value.get('verification_status', 'MISSING')}")
+    if verified_claims:
+        print("📊 Verified claims structure (first 2 items):")
+        for i, (key, value) in enumerate(list(verified_claims.items())[:2]):
+            print(f"  Key {i}: '{key}'")
+            print(f"  Value type: {type(value)}")
+            if isinstance(value, dict):
+                print(f"  Status: {value.get('verification_status', 'MISSING')}")
+                print(f"  Confidence: {value.get('confidence', 'MISSING')}")
     
     # Prepare verification summary
     verification_summary = []
@@ -64,28 +67,37 @@ def generate_final_answer(original_query: str, verified_claims: dict, context_do
     not_supported_claims = []
     contradicted_claims = []
     
-    # Handle different claim key formats (claim_1_text vs actual claim text)
-    for claim_key, verification in verified_claims.items():
-        # Extract the actual claim text from the key or use the key itself
-        actual_claim = claim_key
-        if claim_key.startswith("claim_") and "_text" in claim_key:
-            # This is a formatted key like "claim_1_text", we need to map it back to the original claim
-            # For now, we'll use a simplified approach
-            actual_claim = f"Claim {claim_key}"
-        
-        status = verification.get('verification_status', 'UNKNOWN')
-        confidence = verification.get('confidence', 0)
-        
-        verification_summary.append(f"- {actual_claim} [{status}, Confidence: {confidence}%]")
-        
-        if status == 'SUPPORTED':
-            supported_claims.append(actual_claim)
-        elif status == 'PARTIALLY_SUPPORTED':
-            partially_supported_claims.append(actual_claim)
-        elif status == 'NOT_SUPPORTED':
-            not_supported_claims.append(actual_claim)
-        elif status == 'CONTRADICTED':
-            contradicted_claims.append(actual_claim)
+    # Handle the verified claims structure
+    if verified_claims:
+        for claim_key, verification_data in verified_claims.items():
+            # The claim_key might be the actual claim text or a reference
+            actual_claim = claim_key
+            
+            # Extract verification data
+            if isinstance(verification_data, dict):
+                status = verification_data.get('verification_status', 'UNKNOWN')
+                confidence = verification_data.get('confidence', 0)
+                evidence = verification_data.get('evidence', '')
+                explanation = verification_data.get('explanation', '')
+            else:
+                # Fallback if structure is different
+                status = 'UNKNOWN'
+                confidence = 0
+                evidence = ''
+                explanation = ''
+            
+            verification_summary.append(f"- {actual_claim} [{status}, Confidence: {confidence}%]")
+            
+            if status == 'SUPPORTED':
+                supported_claims.append(actual_claim)
+            elif status == 'PARTIALLY_SUPPORTED':
+                partially_supported_claims.append(actual_claim)
+            elif status == 'NOT_SUPPORTED':
+                not_supported_claims.append(actual_claim)
+            elif status == 'CONTRADICTED':
+                contradicted_claims.append(actual_claim)
+            else:
+                not_supported_claims.append(actual_claim)
     
     print(f"📊 Claim breakdown: {len(supported_claims)} supported, {len(partially_supported_claims)} partial, {len(not_supported_claims)} not supported, {len(contradicted_claims)} contradicted")
     
@@ -112,8 +124,11 @@ def generate_final_answer(original_query: str, verified_claims: dict, context_do
     # Calculate overall confidence
     overall_confidence = calculate_overall_confidence(verified_claims)
     
-    # If we have mostly supported claims, generate a positive answer
+    print(f"🎯 Overall confidence calculated: {overall_confidence}%")
+    
+    # Generate appropriate prompt based on verification results
     if len(supported_claims) > 0:
+        # We have supported claims - create a positive answer
         prompt = f"""
 **TASK**: You are a final answer synthesizer. Create a comprehensive, well-structured answer to the user's query using the verified claims and context provided.
 
@@ -124,6 +139,9 @@ def generate_final_answer(original_query: str, verified_claims: dict, context_do
 - PARTIALLY SUPPORTED: {len(partially_supported_claims)} 
 - NOT SUPPORTED: {len(not_supported_claims)}
 - CONTRADICTED: {len(contradicted_claims)}
+
+**SUPPORTED CLAIMS**:
+{chr(10).join([f"- {claim}" for claim in supported_claims])}
 
 **SUPPORTING CONTEXT DOCUMENTS**:
 {chr(10).join(context_with_sources)}
@@ -138,7 +156,7 @@ def generate_final_answer(original_query: str, verified_claims: dict, context_do
 **FINAL ANSWER**:
 """
     else:
-        # If no supported claims, be honest about limitations
+        # No supported claims - be honest about limitations
         prompt = f"""
 **TASK**: You are a final answer synthesizer. The fact-checking process found limited support for claims related to the user's query.
 
@@ -208,20 +226,21 @@ def calculate_overall_confidence(verified_claims: dict) -> float:
     total_confidence = 0
     valid_claims = 0
     
-    for claim_key, verification in verified_claims.items():
-        confidence = verification.get('confidence', 0)
-        status = verification.get('verification_status', 'NOT_SUPPORTED')
-        
-        # Only count claims that were actually verified
-        if status in ['SUPPORTED', 'PARTIALLY_SUPPORTED', 'NOT_SUPPORTED', 'CONTRADICTED']:
-            # For SUPPORTED claims, use the confidence directly
-            if status == 'SUPPORTED':
-                total_confidence += confidence
-            # For PARTIALLY_SUPPORTED, use reduced confidence
-            elif status == 'PARTIALLY_SUPPORTED':
-                total_confidence += confidence * 0.7
-            # For NOT_SUPPORTED and CONTRADICTED, they don't contribute positively
-            valid_claims += 1
+    for claim_key, verification_data in verified_claims.items():
+        if isinstance(verification_data, dict):
+            confidence = verification_data.get('confidence', 0)
+            status = verification_data.get('verification_status', 'NOT_SUPPORTED')
+            
+            # Only count claims that were actually verified
+            if status in ['SUPPORTED', 'PARTIALLY_SUPPORTED', 'NOT_SUPPORTED', 'CONTRADICTED']:
+                # For SUPPORTED claims, use the confidence directly
+                if status == 'SUPPORTED':
+                    total_confidence += confidence
+                # For PARTIALLY_SUPPORTED, use reduced confidence
+                elif status == 'PARTIALLY_SUPPORTED':
+                    total_confidence += confidence * 0.7
+                # For NOT_SUPPORTED and CONTRADICTED, they don't contribute positively
+                valid_claims += 1
     
     if valid_claims == 0:
         return 0.0
@@ -233,17 +252,17 @@ if __name__ == "__main__":
     print("🧪 Testing Final Answer Agent with actual structure...")
     
     test_verified_claims = {
-        "claim_1_text": {
+        "The text mentions a script named \"Workflow Status Check (Pre-Escalation)\" as Script 1.": {
             "verification_status": "SUPPORTED", 
-            "confidence": 95,
-            "evidence": "Test evidence",
-            "explanation": "Test explanation"
+            "confidence": 100,
+            "evidence": "Script 1: Workflow Status Check (Pre-Escalation)",
+            "explanation": "The context document explicitly states this."
         },
-        "claim_2_text": {
+        "The workflow status check script for chatbots resolves L0 issues": {
             "verification_status": "SUPPORTED",
-            "confidence": 100, 
-            "evidence": "Test evidence",
-            "explanation": "Test explanation"
+            "confidence": 95, 
+            "evidence": "Objective: Resolve L0 (low-complexity) issues and efficiently triage/collect data for L1 escalation.",
+            "explanation": "The objective of the script is mentioned in the overview"
         }
     }
     
@@ -251,3 +270,4 @@ if __name__ == "__main__":
     
     result = generate_final_answer("Test query", test_verified_claims, test_docs)
     print(f"✅ Test result: {result['confidence_score']}% confidence")
+    print(f"✅ Claim breakdown: {result['claim_breakdown']}")
