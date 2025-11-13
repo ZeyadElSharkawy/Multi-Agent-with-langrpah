@@ -16,7 +16,7 @@ def get_gemini_reasoning_model():
         raise EnvironmentError("Missing GOOGLE_API_KEY environment variable.")
 
     llm = ChatGoogleGenerativeAI(
-        model="gemini-2.0-flash-lite",  # or gemini-1.5-pro for more reasoning power
+        model="gemini-2.5-flash",  # or gemini-1.5-pro for more reasoning power
         temperature=0.4,
         max_output_tokens=512
     )
